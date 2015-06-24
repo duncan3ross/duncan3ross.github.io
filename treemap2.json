@@ -1,0 +1,39 @@
+ {
+        "name": "Unseen University",
+        "children": [
+            {
+            "name": "1",
+            "children": [
+                {"name": "Doctorates to academic staff", "size": 49.403},
+                {"name": "Doctorates to bachelors degrees", "size": 67.878},
+                {"name": "Income to academic staff", "size": 94.219},
+                {"name": "Staff to student", "size": 45.659},
+                {"name": "Teaching reputation", "size": 44.356}
+                ]
+            },    
+            {
+            "name": "2",
+            "children": [
+                {"name": "Papers to academic staff", "size": 67.108},
+                {"name": "Research income to academic staff", "size": 46.627},
+                {"name": "Research reputation", "size": 95.419}
+                ]
+            },
+            {
+            "name": "Field weighted citations", 
+            "children": [
+                {"name": "Field weighted citations", "size": 73.6}
+                ]
+            },
+            {
+            "name": "5",
+            "children": [
+                {"name": "International to domestic staff", "size": 99.503},
+                {"name": "International to domestic students", "size": 84.481},
+                {"name": "Publications with international authors", "size": 93.41}
+                ]
+            },
+            {
+            "name": "Industry income to academic staff", "size": 46.849}
+            ]
+    }

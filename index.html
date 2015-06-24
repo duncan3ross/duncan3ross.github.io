@@ -190,7 +190,7 @@ form {
 <script>
 
 var margin = {top: 40, right: 10, bottom: 10, left: 10},
-    width = 500 - margin.left - margin.right,
+    width = 600 - margin.left - margin.right,
     height = 300 - margin.top - margin.bottom;
 
 var color = d3.scale.category10();
@@ -207,7 +207,7 @@ var div = d3.select("body").append("div")
     .style("left", margin.left + "px")
     .style("top", margin.top + "px");
 
-d3.json("treemap.json", function(error, root) {
+d3.json("treemap2.json", function(error, root) {
   if (error) throw error;
 
   var node = div.datum(root).selectAll(".node")
