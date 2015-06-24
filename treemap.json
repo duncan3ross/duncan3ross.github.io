@@ -20,7 +20,11 @@
                 ]
             },
             {
-            "name": "Field weighted citations", "size": 83.97},
+            "name": "Field weighted citations", 
+            "children": [
+                {"name": "Field weighted citations", "size": 83.97}
+                ]
+            },
             {
             "name": "5",
             "children": [
