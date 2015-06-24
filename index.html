@@ -125,8 +125,8 @@ form {
 </style>
  
 <form>
-  <label><input type="radio" name="mode" value="size" checked> Size</label>
-  <label><input type="radio" name="mode" value="count"> Count</label>
+  <label><input type="radio" name="mode" value="size" checked> Singapore</label>
+  <label><input type="radio" name="mode" value="count"> Michigan</label>
 </form> 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
@@ -163,7 +163,7 @@ d3.json("treemap.json", function(error, root) {
 
   d3.selectAll("input").on("change", function change() {
     var value = this.value === "count"
-        ? function() { return 1; }
+        ? function() { return d.size2; }
         : function(d) { return d.size; };
 
     node
