@@ -20,11 +20,11 @@
                 ]
             },
             {
-            "Name": "Field weighted citations", "size": 83.97},
+            "name": "Field weighted citations", "size": 83.97},
             {
-            "Name": "Industry income to academic staff", "size": 46.859},
+            "name": "Industry income to academic staff", "size": 46.859},
             {
-            "Name": "5",
+            "name": "5",
             "children": [
                 {"name": "International to domestic staff", "size": 63.893},
                 {"name": "International to domestic students", "size": 14.775},
