@@ -50,7 +50,7 @@ var div = d3.select("body").append("div")
     .style("left", margin.left + "px")
     .style("top", margin.top + "px");
 
-d3.json("flare.json", function(error, root) {
+d3.json("treemap.json", function(error, root) {
   if (error) throw error;
 
   var node = div.datum(root).selectAll(".node")
