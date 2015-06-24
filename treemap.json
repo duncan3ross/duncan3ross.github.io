@@ -2,7 +2,7 @@
         "name": "University of Poppleton",
         "children": [
             {
-            "name": "Teaching",
+            "name": "1",
             "children": [
                 {"name": "Doctorates to academic staff", "size": 58.451},
                 {"name": "Doctorates to bachelors degrees", "size": 68.634},
@@ -12,7 +12,7 @@
                 ]
             },    
             {
-            "name": "Research",
+            "name": "2",
             "children": [
                 {"name": "Papers to academic staff", "size": 51.004},
                 {"name": "Research income to academic staff", "size": 46.594},
@@ -20,19 +20,19 @@
                 ]
             },
             {
-            "Name": "Citations",
+            "Name": "3",
             "children": [
                 {"name": "Field weighted citations", "size": 83.97}
                 ]
             },
             {
-            "Name": "Industry Income",
+            "Name": "4",
             "children": [
                 {"name": "Industry income to academic staff", "size": 46.859}
                 ]
             },
             {
-            "Name": "International Outlook",
+            "Name": "5",
             "children": [
                 {"name": "International to domestic staff", "size": 63.893},
                 {"name": "International to domestic students", "size": 14.775},
