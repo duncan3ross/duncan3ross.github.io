@@ -65,7 +65,7 @@ d3.json("treemap.json", function(error, root) {
 
   d3.selectAll("input").on("change", function change() {
     var value = this.value === "count"
-        ? function() { return 1; }
+        ? function() { return d.size2; }
         : function(d) { return d.size; };
 
     node
