@@ -22,14 +22,14 @@
             {
             "name": "Field weighted citations", "size": 83.97},
             {
-            "name": "Industry income to academic staff", "size": 46.859},
-            {
             "name": "5",
             "children": [
                 {"name": "International to domestic staff", "size": 63.893},
                 {"name": "International to domestic students", "size": 14.775},
                 {"name": "Publications with international authors", "size": 58.88}
                 ]
-            }
+            },
+            {
+            "name": "Industry income to academic staff", "size": 46.859}
             ]
     }
