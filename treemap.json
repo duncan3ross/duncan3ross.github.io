@@ -2,12 +2,6 @@
         "name": "University of Poppleton",
         "children": [
             {
-            "Name": "Citations",
-            "children": [
-                {"name": "Field weighted citations", "size": 83.97}
-                ]
-            },
-            {
             "name": "Teaching",
             "children": [
                 {"name": "Doctorates to academic staff", "size": 58.451},
@@ -25,7 +19,12 @@
                 {"name": "Research reputation", "size": 98.488}
                 ]
             },
-            
+            {
+            "Name": "Citations",
+            "children": [
+                {"name": "Field weighted citations", "size": 83.97}
+                ]
+            },
             {
             "Name": "Industry Income",
             "children": [
