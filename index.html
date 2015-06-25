@@ -192,5 +192,34 @@ function position() {
     
 // ** Update data section (Called from the onclick)
 
+function updateData() {
+    
+// Get the data again
+
+d3.json("treemap2.json", function(error, root) {
+  if (error) throw error;
+
+  var node = div.datum(root).selectAll(".node")
+      .data(treemap.nodes)
+    .enter().append("div")
+      .attr("class", "node")
+      .call(position)
+      .style("background", function(d) { return d.children ? color(d.name) : null; })
+      .text(function(d) { return d.children ? null : d.name; });
+
+  d3.selectAll("input").on("change", function change() {
+    var value = this.value === "count"
+        ? function() { return 1; }
+        : function(d) { return d.size; };
+
+    node
+        .data(treemap.value(value).nodes)
+      .transition()
+        .duration(1500)
+        .call(position);
+  });
+});
+
+}
 
 </script>
