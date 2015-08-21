@@ -35,13 +35,13 @@ var OPACITY = {
   REFRESH_INTERVAL = 7000;
 
 var formatNumber = function (d) {
-  var numberFormat = d3.format(",.1f"); // one decimal places
-  return numberFormat(d) + "%";
+  var numberFormat = d3.format(",.0f"); // one decimal places
+  return numberFormat(d) ;
 },
 
 formatFlow = function (d) {
-  var flowFormat = d3.format(",.1f"); // one decimal places with sign
-  return flowFormat(Math.abs(d)) + "%";
+  var flowFormat = d3.format(",.0f"); // one decimal places with sign
+  return flowFormat(Math.abs(d)) ;
 },
 
 // Used when temporarily disabling user interractions to allow animations to complete
@@ -389,7 +389,7 @@ function update () {
           .style("opacity", 1).select(".value")
           .text(function () {
             var additionalInstructions = g.children.length ? "\n(Double click to expand)" : "";
-            return g.name + "\n" + g.value/2 + "%" + additionalInstructions;
+            return g.name + "\n" + g.value/2 + additionalInstructions;
           });
     }
   });
@@ -419,7 +419,7 @@ function update () {
       .attr("text-anchor", "end")
       .attr("transform", null)
       .text(function (d) { return d.name; })
-    .filter(function (d) { return d.x < 2 * WIDTH / 3; })
+    .filter(function (d) { return d.x < 2 * WIDTH /3; })
       .attr("x", 6 + biHiSankey.nodeWidth())
       .attr("text-anchor", "start");
 
@@ -503,67 +503,146 @@ function update () {
 
 var exampleNodes = [
  
-{"type":"Data Source","id":"ds", "parent":null, "name":"Data Source"},
-    {"type":"Data Source","id":0, "parent":"ds", "name":"THE"},
-    {"type":"Data Source","id":2, "parent":"ds", "name":"Elsevier"},
-{"type":"Measures","id":"m", "parent":null, "name":"Measures"},    
-    {"type":"Measures","id":11, "parent":"m", "name":"Ratio of papers coauthored with industry"},
-    {"type":"Measures","id":12, "parent":"m", "name":"FWCI of papers coauthored with industry"},
-    {"type":"Measures","id":13, "parent":"m", "name":"Ratio of patents cited by industry"},
-    {"type":"Measures","id":14, "parent":"m", "name":"World normalised impact of patent citation"},
-    {"type":"Measures","id":15, "parent":"m", "name":"Ratio of papers dowloaded by corporates"},
-    {"type":"Measures","id":200, "parent":"m", "name":"Field weighted download index"},    
- 
-    
-    {"type":"Measures","id":3, "parent":"m", "name":"Research Income from industry"},
-    {"type":"Measures","id":4, "parent":"m", "name":"Industry income to total income"},
-    {"type":"Measures","id":5, "parent":"m", "name":"Doctorates to staff"},
-    {"type":"Measures","id":6, "parent":"m", "name":"% women students"},
-    {"type":"Measures","id":7, "parent":"m", "name":"% women staff"},
-    {"type":"Measures","id":8, "parent":"m", "name":"% international staff"},
-
-{"type":"Pillar","id":"p", "parent":null, "name":"Pillar"},
-    {"type":"Pillar","id":16, "parent":"p","name":"Quality of bibliometrics"},
-    {"type":"Pillar","id":17, "parent":"p","name":"Quantity of bibliometrics"},
-    {"type":"Pillar","id":19, "parent":"p","name":"People"},
-    {"type":"Pillar","id":20, "parent":"p","name":"Resources"},
-{"type":"Ranking","id":22, "parent":null, "name":"Ranking"}
+{"type":"Data Source","id":"ds", "parent":null, "name":"2013"},
+    {"type":"Data Source","id":"00", "parent":"ds", "name":"Above 200"},
+    {"type":"Data Source","id":"01", "parent":"ds", "name":"201-225"},
+    {"type":"Data Source","id":"02", "parent":"ds", "name":"226-250"},
+    {"type":"Data Source","id":"03", "parent":"ds", "name":"251-275"},
+    {"type":"Data Source","id":"04", "parent":"ds", "name":"276-300"},
+    {"type":"Data Source","id":"05", "parent":"ds", "name":"301-350"},
+    {"type":"Data Source","id":"06", "parent":"ds", "name":"351-400"},
+    {"type":"Data Source","id":"000", "parent":"ds", "name":"Unranked"},
+{"type":"Measures","id":"m", "parent":null, "name":"2014"},    
+    {"type":"Measures","id":"10", "parent":"m", "name":"Above 200"},
+    {"type":"Measures","id":"11", "parent":"m", "name":"201-225"},
+    {"type":"Measures","id":"12", "parent":"m", "name":"226-250"},
+    {"type":"Measures","id":"13", "parent":"m", "name":"251-275"},
+    {"type":"Measures","id":"14", "parent":"m", "name":"276-300"},
+    {"type":"Measures","id":"15", "parent":"m", "name":"301-350"},
+    {"type":"Measures","id":"16", "parent":"m", "name":"351-400"},
+    {"type":"Measures","id":"111", "parent":"m", "name":"Unranked"},
+{"type":"Pillar","id":"p", "parent":null, "name":"2015"},
+    {"type":"Pillar","id":"20", "parent":"p", "name":"Above 200"},
+    {"type":"Pillar","id":"21", "parent":"p", "name":"201-225"},
+    {"type":"Pillar","id":"22", "parent":"p", "name":"226-250"},
+    {"type":"Pillar","id":"23", "parent":"p", "name":"251-275"},
+    {"type":"Pillar","id":"24", "parent":"p", "name":"276-300"},
+    {"type":"Pillar","id":"25", "parent":"p", "name":"301-350"},
+    {"type":"Pillar","id":"26", "parent":"p", "name":"351-400"},
+    {"type":"Pillar","id":"27", "parent":"p", "name":"401-500"},
+    {"type":"Pillar","id":"28", "parent":"p", "name":"501-600"},
+    {"type":"Pillar","id":"29", "parent":"p", "name":"601+"},
+    {"type":"Pillar","id":"222", "parent":"p", "name":"Unranked"}
 ]
 
 var exampleLinks = [
- {"source":0,"target":3,"value":10},
-{"source":0,"target":4,"value":10},
-{"source":0,"target":5,"value":10},
-{"source":0,"target":6,"value":7.5},
-{"source":0,"target":7,"value":7.5},
-{"source":0,"target":8,"value":10},  
-    
-{"source":2,"target":11,"value":5},
-{"source":2,"target":12,"value":10},
-{"source":2,"target":13,"value":5},
-{"source":2,"target":14,"value":10},
-{"source":2,"target":15,"value":5},
-{"source":2,"target":200,"value":10},
-    
-{"source":3,"target":20,"value":10},
-{"source":4,"target":20,"value":10},
-{"source":5,"target":19,"value":10},
-{"source":6,"target":19,"value":7.5},
-{"source":7,"target":19,"value":7.5},
-{"source":8,"target":19,"value":10},
-
-{"source":11,"target":17,"value":5},
-{"source":12,"target":16,"value":10},
-{"source":13,"target":17,"value":5},
-{"source":14,"target":16,"value":10},
-{"source":15,"target":17,"value":5},
-{"source":200,"target":16,"value":10},
-    
-    
-    {"source":16,"target":22,"value":30},
-    {"source":17,"target":22,"value":15},
-    {"source":19,"target":22,"value":35},
-    {"source":20,"target":22,"value":20},
+{"source":"00", "target":"10", "value":187},
+{"source":"00", "target":"11", "value":9},
+{"source":"00", "target":"12", "value":2},
+{"source":"000", "target":"10", "value":3},
+{"source":"000", "target":"11", "value":1},
+{"source":"000", "target":"111", "value":385},
+{"source":"000", "target":"13", "value":4},
+{"source":"000", "target":"14", "value":3},
+{"source":"000", "target":"15", "value":4},
+{"source":"000", "target":"16", "value":13},
+{"source":"01", "target":"10", "value":9},
+{"source":"01", "target":"11", "value":10},
+{"source":"01", "target":"12", "value":6},
+{"source":"01", "target":"13", "value":1},
+{"source":"02", "target":"10", "value":1},
+{"source":"02", "target":"11", "value":4},
+{"source":"02", "target":"12", "value":8},
+{"source":"02", "target":"13", "value":7},
+{"source":"02", "target":"14", "value":4},
+{"source":"02", "target":"15", "value":2},
+{"source":"03", "target":"10", "value":1},
+{"source":"03", "target":"11", "value":1},
+{"source":"03", "target":"12", "value":2},
+{"source":"03", "target":"13", "value":9},
+{"source":"03", "target":"14", "value":4},
+{"source":"03", "target":"15", "value":3},
+{"source":"03", "target":"16", "value":1},
+{"source":"04", "target":"12", "value":2},
+{"source":"04", "target":"13", "value":1},
+{"source":"04", "target":"14", "value":13},
+{"source":"04", "target":"15", "value":6},
+{"source":"05", "target":"111", "value":2},
+{"source":"05", "target":"12", "value":2},
+{"source":"05", "target":"13", "value":3},
+{"source":"05", "target":"14", "value":3},
+{"source":"05", "target":"15", "value":21},
+{"source":"05", "target":"16", "value":20},
+{"source":"06", "target":"111", "value":22},
+{"source":"06", "target":"15", "value":8},
+{"source":"06", "target":"16", "value":14},
+{"source":"10", "target":"20", "value":176},
+{"source":"10", "target":"22", "value":7},
+{"source":"10", "target":"23", "value":4},
+{"source":"10", "target":"24", "value":1},
+{"source":"10", "target":"26", "value":1},
+{"source":"10", "target":"28", "value":3},
+{"source":"10", "target":"29", "value":1},
+{"source":"10", "target":"21", "value":8},
+{"source":"11", "target":"20", "value":9},
+{"source":"11", "target":"22", "value":4},
+{"source":"11", "target":"23", "value":2},
+{"source":"11", "target":"25", "value":5},
+{"source":"11", "target":"26", "value":2},
+{"source":"11", "target":"21", "value":3},
+{"source":"111", "target":"20", "value":4},
+{"source":"111", "target":"22", "value":6},
+{"source":"111", "target":"23", "value":6},
+{"source":"111", "target":"24", "value":7},
+{"source":"111", "target":"25", "value":16},
+{"source":"111", "target":"26", "value":21},
+{"source":"111", "target":"27", "value":68},
+{"source":"111", "target":"28", "value":84},
+{"source":"111", "target":"29", "value":195},
+{"source":"111", "target":"21", "value":2},
+{"source":"12", "target":"20", "value":5},
+{"source":"12", "target":"22", "value":3},
+{"source":"12", "target":"23", "value":3},
+{"source":"12", "target":"25", "value":3},
+{"source":"12", "target":"27", "value":3},
+{"source":"12", "target":"28", "value":1},
+{"source":"12", "target":"21", "value":4},
+{"source":"13", "target":"20", "value":4},
+{"source":"13", "target":"22", "value":4},
+{"source":"13", "target":"23", "value":4},
+{"source":"13", "target":"24", "value":3},
+{"source":"13", "target":"25", "value":3},
+{"source":"13", "target":"26", "value":1},
+{"source":"13", "target":"27", "value":2},
+{"source":"13", "target":"28", "value":1},
+{"source":"13", "target":"21", "value":3},
+{"source":"14", "target":"20", "value":1},
+{"source":"14", "target":"22", "value":1},
+{"source":"14", "target":"23", "value":1},
+{"source":"14", "target":"24", "value":5},
+{"source":"14", "target":"25", "value":7},
+{"source":"14", "target":"26", "value":5},
+{"source":"14", "target":"27", "value":2},
+{"source":"14", "target":"28", "value":2},
+{"source":"14", "target":"21", "value":3},
+{"source":"15", "target":"20", "value":1},
+{"source":"15", "target":"22", "value":1},
+{"source":"15", "target":"23", "value":2},
+{"source":"15", "target":"24", "value":4},
+{"source":"15", "target":"25", "value":8},
+{"source":"15", "target":"26", "value":13},
+{"source":"15", "target":"27", "value":8},
+{"source":"15", "target":"28", "value":3},
+{"source":"15", "target":"29", "value":1},
+{"source":"15", "target":"21", "value":3},
+{"source":"16", "target":"22", "value":1},
+{"source":"16", "target":"23", "value":1},
+{"source":"16", "target":"24", "value":6},
+{"source":"16", "target":"25", "value":6},
+{"source":"16", "target":"26", "value":9},
+{"source":"16", "target":"27", "value":16},
+{"source":"16", "target":"28", "value":6},
+{"source":"16", "target":"29", "value":3}
 
 ]
 
