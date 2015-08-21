@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
+.ranking_movement_plot {
+	font-family: "Oswald","Arial Narrow",Arial,sans-serif;
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+.chart_title {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.x_axis {
+	font-size: .8em;
+}
+
+.y_axis {
+	font-size: .8em;
+}
+
+.axis_label {
+	font-weight: bold;
+}
+
+path.domain {
+	stroke: grey;
+	fill: none;
+	stroke-width: 0px;
+}
+
+rect.node {
+	fill: lightgrey;
+}
+
+text.node {
+	font-weight: lighter;
+	font-size: 11px;
+}
+
+path.links {
+	fill: none;
+	stroke: lightgrey;
+	stroke-width: 2px;
+}
