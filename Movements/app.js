@@ -503,29 +503,68 @@ function update () {
 
 var exampleNodes = [
  
-{"type":"Data Source","id":"ds", "parent":null, "name":"2013"},
-    {"type":"Data Source","id":"00", "parent":"ds", "name":"Above 200"},
-    {"type":"Data Source","id":"01", "parent":"ds", "name":"201-225"},
-{"type":"Measures","id":"m", "parent":null, "name":"2014"},    
-    {"type":"Measures","id":"10", "parent":"m", "name":"Above 200"},
-    {"type":"Measures","id":"11", "parent":"m", "name":"201-225"},
+{"type":"Data Source","id":"ds", "parent":null, "name":"Data Source"},
+    {"type":"Data Source","id":0, "parent":"ds", "name":"THE"},
+    {"type":"Data Source","id":2, "parent":"ds", "name":"Elsevier"},
+{"type":"Measures","id":"m", "parent":null, "name":"Measures"},    
+    {"type":"Measures","id":11, "parent":"m", "name":"Ratio of papers coauthored with industry"},
+    {"type":"Measures","id":12, "parent":"m", "name":"FWCI of papers coauthored with industry"},
+    {"type":"Measures","id":13, "parent":"m", "name":"Ratio of patents cited by industry"},
+    {"type":"Measures","id":14, "parent":"m", "name":"World normalised impact of patent citation"},
+    {"type":"Measures","id":15, "parent":"m", "name":"Ratio of papers dowloaded by corporates"},
+    {"type":"Measures","id":200, "parent":"m", "name":"Field weighted download index"},    
+ 
+    
+    {"type":"Measures","id":3, "parent":"m", "name":"Research Income from industry"},
+    {"type":"Measures","id":4, "parent":"m", "name":"Industry income to total income"},
+    {"type":"Measures","id":5, "parent":"m", "name":"Doctorates to staff"},
+    {"type":"Measures","id":6, "parent":"m", "name":"% women students"},
+    {"type":"Measures","id":7, "parent":"m", "name":"% women staff"},
+    {"type":"Measures","id":8, "parent":"m", "name":"% international staff"},
+
 {"type":"Pillar","id":"p", "parent":null, "name":"Pillar"},
-    {"type":"Pillar","id":"20", "parent":"p", "name":"Above 200"},
-    {"type":"Pillar","id":"21", "parent":"p", "name":"201-225"}
+    {"type":"Pillar","id":16, "parent":"p","name":"Quality of bibliometrics"},
+    {"type":"Pillar","id":17, "parent":"p","name":"Quantity of bibliometrics"},
+    {"type":"Pillar","id":19, "parent":"p","name":"People"},
+    {"type":"Pillar","id":20, "parent":"p","name":"Resources"},
+{"type":"Ranking","id":22, "parent":null, "name":"Ranking"}
 ]
 
 var exampleLinks = [
-{"source":"00", "target":"10", "value":"10"},
-{"source":"01", "target":"10", "value":"10"},
-
-{"source":"01", "target":"11", "value":"10"},
-{"source":"02", "target":"11", "value":"10"},
-
-{"source":"10", "target":"20", "value":"10"},
-{"source":"11", "target":"20", "value":"10"},
+ {"source":0,"target":3,"value":10},
+{"source":0,"target":4,"value":10},
+{"source":0,"target":5,"value":10},
+{"source":0,"target":6,"value":7.5},
+{"source":0,"target":7,"value":7.5},
+{"source":0,"target":8,"value":10},  
     
-{"source":"10", "target":"21", "value":"10"},
-{"source":"11", "target":"21", "value":"10"}
+{"source":2,"target":11,"value":5},
+{"source":2,"target":12,"value":10},
+{"source":2,"target":13,"value":5},
+{"source":2,"target":14,"value":10},
+{"source":2,"target":15,"value":5},
+{"source":2,"target":200,"value":10},
+    
+{"source":3,"target":20,"value":10},
+{"source":4,"target":20,"value":10},
+{"source":5,"target":19,"value":10},
+{"source":6,"target":19,"value":7.5},
+{"source":7,"target":19,"value":7.5},
+{"source":8,"target":19,"value":10},
+
+{"source":11,"target":17,"value":5},
+{"source":12,"target":16,"value":10},
+{"source":13,"target":17,"value":5},
+{"source":14,"target":16,"value":10},
+{"source":15,"target":17,"value":5},
+{"source":200,"target":16,"value":10},
+    
+    
+    {"source":16,"target":22,"value":30},
+    {"source":17,"target":22,"value":15},
+    {"source":19,"target":22,"value":35},
+    {"source":20,"target":22,"value":20},
+
 ]
 
 biHiSankey
