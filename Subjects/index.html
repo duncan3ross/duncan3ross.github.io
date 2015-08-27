@@ -87,7 +87,7 @@ d3.csv("Data.csv", function(error, data) {
   var state = svg.selectAll(".University")
       .data(data)
     .enter().append("g")
-      .attr("class", "g")
+      .attr("class", "University")
       .attr("transform", function(d) { return "translate(" + x0(d.State) + ",0)"; });
 
   state.selectAll("rect")
