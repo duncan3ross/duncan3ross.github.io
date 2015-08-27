@@ -82,9 +82,9 @@ d3.csv("Data.csv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Population");
+      .text("Score");
 
-  var state = svg.selectAll(".state")
+  var state = svg.selectAll(".University")
       .data(data)
     .enter().append("g")
       .attr("class", "g")
