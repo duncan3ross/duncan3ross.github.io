@@ -40,7 +40,7 @@ var x = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
     
 var xAxis = d3.svg.axis()
-    .domain (["PhD to First degree	PhD to Staff",	"Teaching Reputation",	"Income to Staff",	"Students to Staff",	"Papers to Staff",	"Research Income to Staff",	"Research Reputation",	"Citations",	"Industry Income",	"International Staff",	"Publications with colaboration",	"International Students"])
+    .domain (["PhD to First degree",	"PhD to Staff",	"Teaching Reputation",	"Income to Staff",	"Students to Staff",	"Papers to Staff",	"Research Income to Staff",	"Research Reputation",	"Citations",	"Industry Income",	"International Staff",	"Publications with colaboration",	"International Students"])
     .scale(x)
  	.orient("top");
 
@@ -61,7 +61,7 @@ d3.json("subjects2.json", function(data) {
 //	x.domain([start_year, end_year]);
 //    x.domain(data.map(function(d) { return d.name; }));
 	var xScale = d3.scale.linear()
-//		.domain([start_year, end_year])
+		.domain([start_year, end_year])
 		.range([0, width]);
 
 	svg.append("g")
