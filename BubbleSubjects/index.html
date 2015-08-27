@@ -3,7 +3,7 @@
 <script src="jquery-2.1.4.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <style type="text/css">
-body{font-family: Arial, sans-serif;font-size:10px;}
+body{font-family: Arial, sans-serif;font-size:6px;}
 .axis path,.axis line {fill: none;stroke:#b6b6b6;shape-rendering: crispEdges;}
 /*.tick line{fill:none;stroke:none;}*/
 .tick text{fill:#999;}
@@ -37,7 +37,7 @@ var c = d3.scale.category20c();
 //	.range([0, width]);
 
 var x = d3.scale.ordinal()
-.domain (["PhD to First degree",	"PhD to Staff",	"Teaching Reputation",	"Income to Staff",	"Students to Staff",	"Papers to Staff",	"Research Income to Staff",	"Research Reputation",	"Citations",	"Industry Income",	"International Staff",	"Publications with colaboration",	"International Students"])
+.domain (["PhD:BA",	"PhD:Staff",	"Teaching Rep",	"Income:Staff",	"Students:Staff",	"Papers:Staff",	"Research Income:Staff",	"Research Rep",	"Citations",	"Ind Income",	"Int Staff",	"Int collaboration",	"Int Students"])
     .rangeRoundBands([0, width], .1);
     
 var xAxis = d3.svg.axis()
