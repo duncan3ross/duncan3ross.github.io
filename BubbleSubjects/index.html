@@ -39,9 +39,9 @@ var c = d3.scale.category20c();
 var x = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
     
-// var xAxis = d3.svg.axis()
-//	.scale(x)
-//	.orient("top");
+var xAxis = d3.svg.axis()
+    .scale(x)
+ 	.orient("top");
 
 // var formatYears = d3.format("0000");
 // xAxis.tickFormat(formatYears);
