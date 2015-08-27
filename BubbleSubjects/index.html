@@ -37,10 +37,10 @@ var c = d3.scale.category20c();
 //	.range([0, width]);
 
 var x = d3.scale.ordinal()
+.domain (["PhD to First degree",	"PhD to Staff",	"Teaching Reputation",	"Income to Staff",	"Students to Staff",	"Papers to Staff",	"Research Income to Staff",	"Research Reputation",	"Citations",	"Industry Income",	"International Staff",	"Publications with colaboration",	"International Students"])
     .rangeRoundBands([0, width], .1);
     
 var xAxis = d3.svg.axis()
-    .domain (["PhD to First degree",	"PhD to Staff",	"Teaching Reputation",	"Income to Staff",	"Students to Staff",	"Papers to Staff",	"Research Income to Staff",	"Research Reputation",	"Citations",	"Industry Income",	"International Staff",	"Publications with colaboration",	"International Students"])
     .scale(x)
  	.orient("top");
 
