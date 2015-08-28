@@ -62,7 +62,7 @@ d3.json("subjects2.json", function(data) {
 //    x.domain(data.map(function(d) { return d.name; }));
 	var xScale = d3.scale.linear()
 		.domain([start_year, end_year])
-		.range([20, width-20]);
+		.range([30, width-30]);
 
 	svg.append("g")
 		.attr("class", "x axis")
