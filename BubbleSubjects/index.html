@@ -61,7 +61,7 @@ d3.json("subjects2.json", function(data) {
 //	x.domain([start_year, end_year]);
 //    x.domain(data.map(function(d) { return d.name; }));
 	var xScale = d3.scale.linear()
-		.domain([start_year, end_year])
+		.domain(["PhD:BA",	"PhD:Staff",	"Teaching Rep",	"Income:Staff",	"Students:Staff",	"Papers:Staff",	"Research Income:Staff",	"Research Rep",	"Citations",	"Ind Income",	"Int Staff",	"Int collaboration",	"Int Students"])
 		.range([0, width]);
 
 	svg.append("g")
