@@ -3,13 +3,13 @@
 <script src="jquery-2.1.4.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <style type="text/css">
-body{font-family: Arial, sans-serif;font-size:6px;}
+body{font-family: Arial, sans-serif;font-size:8px;}
 .axis path,.axis line {fill: none;stroke:#b6b6b6;shape-rendering: crispEdges;}
 /*.tick line{fill:none;stroke:none;}*/
 .tick text{fill:#999;}
 g.journal.active{cursor:pointer;}
-text.label{font-size:10px;font-weight:bold;cursor:pointer;}
-text.value{font-size:8px;font-weight:bold;}
+text.label{font-size:12px;font-weight:bold;cursor:pointer;}
+text.value{font-size:10px;font-weight:bold;}
 </style>
 </head>
 <body>
@@ -25,7 +25,7 @@ function truncate(str, maxLength, suffix) {
 }
 
 var margin = {top: 20, right: 200, bottom: 0, left: 20},
-	width = 500,
+	width = 800,
 	height = 650;
 
 var start_year = 2003,
