@@ -91,7 +91,7 @@ d3.json("subjects2.json", function(data) {
 
 		var rScale = d3.scale.linear()
 			.domain([0, d3.max(data[j]['articles'], function(d) { return d[1]; })])
-			.range([2, 18]);
+			.range([2, 12]);
 
 		circles
 			.attr("cx", function(d, i) { return xScale(d[0]); })
