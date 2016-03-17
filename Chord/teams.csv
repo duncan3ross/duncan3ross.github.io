@@ -1,13 +1,21 @@
 name,color
-Baltimore,#9ACD32
-Phoenix,#377DB8
-Boston,#F5DEB3
-Atlanta,#EE82EE
-Chicago,#40E0D0
-Cleveland,#FF6347
-Detroit,#D8BFD8
-Denver,#D2B48C
-Houston,#4682B4
-Los Angeles,#00FF7F
-Kansas City,#FFFAFA
-Miami,#708090
+North America,#9ACD32
+South America,#377DB8
+Europe,#F5DEB3
+Africa,#EE82EE
+Asia,#40E0D0
+Oceania,#FF6347
+University of Melbourne,#D8BFD8
+University of Sydney,#4682B4
+Australian National University,#4682B4
+University of Queensland,#00FF7F
+Monash University,#FFFAFA
+University of New South Wales,#708090
+Wollagong University,#708090
+WSU,#6A5ACD
+Sunshine Coast,#87CEEB
+Cairns University,#A0522D
+Newcastle University,#FFF5EE
+Adelaide U,#2E8B57
+Melbourne Polytechnic,#F4A460
+Ramsay Street Tech,#FA8072
