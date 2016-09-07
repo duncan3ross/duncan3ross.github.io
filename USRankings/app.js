@@ -558,7 +558,7 @@ var exampleLinks = [
 {"source":1,"target":11,"value":5.5},
 {"source":90,"target":11,"value":1},
     
-{"source":1,"target":12,"value":3},
+{"source":0,"target":12,"value":3},
 {"source":1,"target":12,"value":3},
 {"source":90,"target":12,"value":1},
     
