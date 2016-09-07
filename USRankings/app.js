@@ -508,7 +508,8 @@ var exampleNodes = [
     {"type":"Data Source","id":1, "parent":"ds", "name":"College Scorecard"},
     {"type":"Data Source","id":90, "parent":"ds", "name":"BEA"},
     {"type":"Data Source","id":91, "parent":"ds", "name":"THE Student Survey"},
-    {"type":"Data Source","id":2, "parent":"ds", "name":"Scopus"},
+    {"type":"Data Source","id":92, "parent":"ds", "name":"THE Reputation Survey"},
+    {"type":"Data Source","id":2, "parent":"ds", "name":"Elsevier Scopus"},
 {"type":"Measures","id":"m", "parent":null, "name":"Measures"},    
     {"type":"Measures","id":3, "parent":"m", "name":"Finance per student"},
     {"type":"Measures","id":4, "parent":"m", "name":"Faculty per student"},
@@ -534,21 +535,41 @@ var exampleNodes = [
 ]
 
 var exampleLinks = [
- {"source":0,"target":3,"value":11},
+{"source":0,"target":3,"value":8},
+{"source":90,"target":3,"value":3},
+
 {"source":0,"target":4,"value":11},
-{"source":0,"target":5,"value":8},
-{"source":1,"target":6,"value":4},
-{"source":1,"target":7,"value":6},
-{"source":1,"target":8,"value":7},
+    
+{"source":0,"target":5,"value":4},
+{"source":2,"target":5,"value":4},
+    
+{"source":91,"target":6,"value":4},
+    
+{"source":91,"target":7,"value":7},
+    
+{"source":91,"target":8,"value":6},
+    
 {"source":0,"target":9,"value":3},
+    
 {"source":0,"target":10,"value":11},
-{"source":0,"target":11,"value":12},
-{"source":1,"target":12,"value":7},
-{"source":0,"target":13,"value":10},
+    
+{"source":0,"target":11,"value":6},
+{"source":1,"target":11,"value":6},
+    
+{"source":1,"target":12,"value":3},
+{"source":1,"target":12,"value":3},
+{"source":90,"target":12,"value":1},
+    
+{"source":92,"target":13,"value":10},
+    
 {"source":0,"target":16,"value":2},
+    
 {"source":0,"target":17,"value":3},
-{"source":0,"target":18,"value":3},
-{"source":2,"target":19,"value":2},
+    
+{"source":0,"target":18,"value":1.5},
+{"source":0,"target":18,"value":1.5},
+    
+{"source":2,"target":19,"value":3},
     
 {"source":3,"target":20,"value":11},
 {"source":4,"target":20,"value":11},
@@ -563,8 +584,8 @@ var exampleLinks = [
 {"source":13,"target":22,"value":10},
 {"source":16,"target":23,"value":2},
 {"source":17,"target":23,"value":3},
-{"source":18,"target":23,"value":3},
-{"source":19,"target":23,"value":2},
+{"source":18,"target":23,"value":2},
+{"source":19,"target":23,"value":3},
     
 {"source":20,"target":24,"value":30},
 {"source":21,"target":24,"value":20},
