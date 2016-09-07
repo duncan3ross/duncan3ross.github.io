@@ -505,11 +505,12 @@ var exampleNodes = [
  
 {"type":"Data Source","id":"ds", "parent":null, "name":"Data Source"},
     {"type":"Data Source","id":0, "parent":"ds", "name":"IPEDs"},
-    {"type":"Data Source","id":1, "parent":"ds", "name":"College Scorecard"},
-    {"type":"Data Source","id":90, "parent":"ds", "name":"BEA"},
     {"type":"Data Source","id":91, "parent":"ds", "name":"THE Student Survey"},
+    {"type":"Data Source","id":1, "parent":"ds", "name":"College Scorecard"},
     {"type":"Data Source","id":92, "parent":"ds", "name":"THE Reputation Survey"},
     {"type":"Data Source","id":2, "parent":"ds", "name":"Elsevier Scopus"},
+    {"type":"Data Source","id":90, "parent":"ds", "name":"BEA"},
+    
 {"type":"Measures","id":"m", "parent":null, "name":"Measures"},    
     {"type":"Measures","id":3, "parent":"m", "name":"Finance per student"},
     {"type":"Measures","id":4, "parent":"m", "name":"Faculty per student"},
@@ -553,8 +554,9 @@ var exampleLinks = [
     
 {"source":0,"target":10,"value":11},
     
-{"source":0,"target":11,"value":6},
-{"source":1,"target":11,"value":6},
+{"source":0,"target":11,"value":5.5},
+{"source":1,"target":11,"value":5.5},
+{"source":90,"target":11,"value":1},
     
 {"source":1,"target":12,"value":3},
 {"source":1,"target":12,"value":3},
@@ -567,9 +569,9 @@ var exampleLinks = [
 {"source":0,"target":17,"value":3},
     
 {"source":0,"target":18,"value":1.5},
-{"source":0,"target":18,"value":1.5},
+{"source":1,"target":18,"value":1.5},
     
-{"source":2,"target":19,"value":3},
+{"source":0,"target":19,"value":3},
     
 {"source":3,"target":20,"value":11},
 {"source":4,"target":20,"value":11},
