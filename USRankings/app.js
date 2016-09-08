@@ -515,18 +515,19 @@ var exampleNodes = [
     {"type":"Measures","id":3, "parent":"m", "name":"Finance per student"},
     {"type":"Measures","id":4, "parent":"m", "name":"Faculty per student"},
     {"type":"Measures","id":5, "parent":"m", "name":"Papers per faculty"},
-    {"type":"Measures","id":6, "parent":"m", "name":"Student interaction"},
+
     {"type":"Measures","id":7, "parent":"m", "name":"Student engagement"},
     {"type":"Measures","id":8, "parent":"m", "name":"Student recommendation"},
+    {"type":"Measures","id":6, "parent":"m", "name":"Student interaction"},
     {"type":"Measures","id":9, "parent":"m", "name":"Subject breadth"},
-    {"type":"Measures","id":10, "parent":"m", "name":"Graduation rate"},
-    {"type":"Measures","id":11, "parent":"m", "name":"Graduare salary (VA)"},
-    {"type":"Measures","id":12, "parent":"m", "name":"Debt repayment (VA)"},
+    
+    {"type":"Measures","id":11, "parent":"m", "name":"Graduare salary (VA)"},{"type":"Measures","id":10, "parent":"m", "name":"Graduation rate"},
     {"type":"Measures","id":13, "parent":"m", "name":"Reputation"},
-    {"type":"Measures","id":16, "parent":"m", "name":"International student %"},
-    {"type":"Measures","id":17, "parent":"m", "name":"Student diversity"},
+    {"type":"Measures","id":12, "parent":"m", "name":"Debt repayment (VA)"},
+   
+    {"type":"Measures","id":17, "parent":"m", "name":"Student diversity"},{"type":"Measures","id":19, "parent":"m", "name":"Faculty diversity"},{"type":"Measures","id":16, "parent":"m", "name":"International student %"},
     {"type":"Measures","id":18, "parent":"m", "name":"Student inclusion"},
-    {"type":"Measures","id":19, "parent":"m", "name":"Faculty diversity"},
+    
 {"type":"Pillar","id":"p", "parent":null, "name":"Pillar"},
     {"type":"Pillar","id":20, "parent":"p","name":"Resources"},
     {"type":"Pillar","id":21, "parent":"p","name":"Engagement"},
@@ -568,8 +569,8 @@ var exampleLinks = [
     
 {"source":0,"target":17,"value":3},
     
-{"source":0,"target":18,"value":1.5},
-{"source":1,"target":18,"value":1.5},
+{"source":0,"target":18,"value":1},
+{"source":1,"target":18,"value":1},
     
 {"source":0,"target":19,"value":3},
     
