@@ -521,7 +521,7 @@ var exampleNodes = [
     {"type":"Measures","id":6, "parent":"m", "name":"Student interaction"},
     {"type":"Measures","id":9, "parent":"m", "name":"Subject breadth"},
     
-    {"type":"Measures","id":11, "parent":"m", "name":"Graduare salary (VA)"},{"type":"Measures","id":10, "parent":"m", "name":"Graduation rate"},
+    {"type":"Measures","id":11, "parent":"m", "name":"Graduate salary (VA)"},{"type":"Measures","id":10, "parent":"m", "name":"Graduation rate"},
     {"type":"Measures","id":13, "parent":"m", "name":"Reputation"},
     {"type":"Measures","id":12, "parent":"m", "name":"Debt repayment (VA)"},
    
