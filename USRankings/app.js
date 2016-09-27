@@ -531,7 +531,7 @@ var exampleNodes = [
 {"type":"Pillar","id":"p", "parent":null, "name":"Pillar"},
     {"type":"Pillar","id":20, "parent":"p","name":"Resources"},
     {"type":"Pillar","id":21, "parent":"p","name":"Engagement"},
-    {"type":"Pillar","id":22, "parent":"p","name":"Outputs"},
+    {"type":"Pillar","id":22, "parent":"p","name":"Outcomes"},
     {"type":"Pillar","id":23, "parent":"p","name":"Environment"},
 {"type":"Ranking","id":24, "parent":null, "name":"Ranking"}
 ]
