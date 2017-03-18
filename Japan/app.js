@@ -522,7 +522,7 @@ var exampleNodes = [
     {"type":"Measures","id":8, "parent":"m", "name":"Global focus"},
     {"type":"Measures","id":9, "parent":"m", "name":"Developing students"},
     
-    {"type":"Measures","id":11, "parent":"m", "name":"Employer reputation"},{"type":"Measures","id":10, "parent":"m", "name":"Reputation"},
+    {"type":"Measures","id":11, "parent":"m", "name":"Academic reputation"},{"type":"Measures","id":10, "parent":"m", "name":"Employer reputation"},
     
     {"type":"Measures","id":13, "parent":"m", "name":"Interntational student"},
     {"type":"Measures","id":12, "parent":"m", "name":"International staff"},
