@@ -552,9 +552,9 @@ var exampleLinks = [
     
 {"source":91,"target":9,"value":13},
     
-{"source":93,"target":10,"value":7},
+{"source":93,"target":11,"value":7},
     
-{"source":92,"target":11,"value":13},
+{"source":92,"target":10,"value":13},
     
 {"source":0,"target":12,"value":8},
     
@@ -569,8 +569,8 @@ var exampleLinks = [
 {"source":8,"target":21,"value":13},
 {"source":9,"target":21,"value":13},
     
-{"source":10,"target":22,"value":7},
-{"source":11,"target":22,"value":13},
+{"source":10,"target":22,"value":13},
+{"source":11,"target":22,"value":7},
     
 {"source":12,"target":23,"value":8},
 {"source":13,"target":23,"value":8},
