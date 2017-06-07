@@ -523,7 +523,6 @@ var exampleNodes = [
     
     {"type":"Measures","id":11, "parent":"m", "name":"Graduate salary (VA)"},{"type":"Measures","id":10, "parent":"m", "name":"Graduation rate"},
     {"type":"Measures","id":13, "parent":"m", "name":"Reputation"},
-    {"type":"Measures","id":12, "parent":"m", "name":"Debt repayment (VA)"},
    
     {"type":"Measures","id":17, "parent":"m", "name":"Student diversity"},{"type":"Measures","id":19, "parent":"m", "name":"Faculty diversity"},{"type":"Measures","id":16, "parent":"m", "name":"International student %"},
     {"type":"Measures","id":18, "parent":"m", "name":"Student inclusion"},
@@ -553,17 +552,14 @@ var exampleLinks = [
     
 {"source":0,"target":9,"value":3},
     
-{"source":0,"target":10,"value":11},
+{"source":0,"target":10,"value":13},
     
-{"source":0,"target":11,"value":5.5},
-{"source":1,"target":11,"value":5.5},
+{"source":0,"target":11,"value":7},
+{"source":1,"target":11,"value":7},
 {"source":90,"target":11,"value":1},
     
-{"source":0,"target":12,"value":3},
-{"source":1,"target":12,"value":3},
-{"source":90,"target":12,"value":1},
     
-{"source":92,"target":13,"value":10},
+{"source":92,"target":13,"value":12},
     
 {"source":0,"target":16,"value":2},
     
@@ -581,10 +577,10 @@ var exampleLinks = [
 {"source":7,"target":21,"value":7},
 {"source":8,"target":21,"value":6},
 {"source":9,"target":21,"value":3},
-{"source":10,"target":22,"value":11},
-{"source":11,"target":22,"value":12},
-{"source":12,"target":22,"value":7},
-{"source":13,"target":22,"value":10},
+{"source":10,"target":22,"value":13},
+{"source":11,"target":22,"value":15},
+
+{"source":13,"target":22,"value":12},
 {"source":16,"target":23,"value":2},
 {"source":17,"target":23,"value":3},
 {"source":18,"target":23,"value":2},
