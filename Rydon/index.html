@@ -84,7 +84,7 @@
     };
 
  
-    var svg = d3.select("body").append("svg").attr({"width":w,"height":h});
+    var svg = d3.select("body").append("svg").attr({"width":1000,"height":600});
 
     var force = d3.layout.force()
         .nodes(dataset.nodes)
@@ -93,7 +93,7 @@
         .linkDistance([linkDistance])
         .charge([-500])
         .theta(0.2)
-        .gravity(0.05)
+        .gravity(0.1)
         .start();
 
  
