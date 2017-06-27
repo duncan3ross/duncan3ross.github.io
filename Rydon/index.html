@@ -111,8 +111,9 @@
       .data(dataset.nodes)
       .enter()
       .append("circle")
-      .attr({"r":10})
-      .style("fill", function(d) { return color(d.group); })
+      .attr({"r":15})
+
+      .style("fill", function(d) { return colors(d.group); })
       .call(force.drag)
 
 
