@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Force Layout with labels on edges</title>
+<title>Rydon linked companies</title>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <style type="text/css">
 </style>
@@ -11,9 +11,9 @@
 
 <script type="text/javascript">
 
-    var w = 800;
-    var h = 500;
-    var linkDistance=100;
+    var w = 1000;
+    var h = 600;
+    var linkDistance=80;
 
     var colors = d3.scale.category20();
 
@@ -92,7 +92,7 @@
         .size([w,h])
         .linkDistance([linkDistance])
         .charge([-500])
-        .theta(0.1)
+        .theta(0.2)
         .gravity(0.05)
         .start();
 
