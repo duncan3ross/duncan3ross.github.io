@@ -20,35 +20,35 @@
     var dataset = {
 
     nodes: [
-    {name: "Rydon Holdings Ltd"},
-    {name: "Cable Street Regeneration Ltd"},
-    {name: "Merlotrose Ltd"},
-    {name: "Real  Ltd"},
-    {name: "Rydon Group Ltd"},
-    {name: "Real (Hillside) Ltd"},
-    {name: "Rydon Construction Ltd"},
-    {name: "Vivathorn Ltd"},
-    {name: "Ryhurst Ltd"},
-    {name: "Rydon Maintenance Ltd"},
-    {name: "Insite Energy Holdings Ltd"},
-    {name: "Insite Holdco Ltd"},
-    {name: "Insite Energy Ltd"},
-    {name: "Ryhurst (IOW) Ltd"},
-    {name: "Ryhurst (Lancashire Step) Ltd"},
-    {name: "Ryhurst (CWP) Ltd"},
-    {name: "Ryhurst (Cambridgeshire) Ltd"},
-    {name: "Ryhurst (Nominee) Ltd"},
-    {name: "Wight Life Partnership LLP"},
-    {name: "Cheshire and Wirral Partnership NHS Foundation Trust"},
-    {name: "Villicare LLP"},
-    {name: "Cambridgeshire Estate Partnership LLP"},
-    {name: "Hitchingbrooke Helalthcare NHS Trust"},
-    {name: "Red Rose Corporate Services LLP"},
-    {name: "Lancashire Care NHS Foundation Trust"},
-    {name: "Red Rose Corporate Services (Whyndyke) LLP"},
-    {name: "Red Rose Corporate Services (Nominee No 2)  LLP"},
-    {name: "Red Rose Corporate Services  (Nominee No 1) LLP"},
-    {name: "Red Rose Corporate Services (Estate Management) LLP"}
+    {name: "Rydon Holdings Ltd", group:1},
+    {name: "Cable Street Regeneration Ltd", group:1},
+    {name: "Merlotrose Ltd", group:1},
+    {name: "Real  Ltd", group:1},
+    {name: "Rydon Group Ltd", group:1},
+    {name: "Real (Hillside) Ltd", group:1},
+    {name: "Rydon Construction Ltd", group:1},
+    {name: "Vivathorn Ltd", group:1},
+    {name: "Ryhurst Ltd", group:1},
+    {name: "Rydon Maintenance Ltd", group:1},
+    {name: "Insite Energy Holdings Ltd", group:1},
+    {name: "Insite Holdco Ltd", group:3},
+    {name: "Insite Energy Ltd", group:1},
+    {name: "Ryhurst (IOW) Ltd", group:1},
+    {name: "Ryhurst (Lancashire Step) Ltd", group:1},
+    {name: "Ryhurst (CWP) Ltd", group:1},
+    {name: "Ryhurst (Cambridgeshire) Ltd", group:1},
+    {name: "Ryhurst (Nominee) Ltd", group:1},
+    {name: "Wight Life Partnership LLP", group:1},
+    {name: "Cheshire and Wirral Partnership NHS Foundation Trust", group:2},
+    {name: "Villicare LLP", group:1},
+    {name: "Cambridgeshire Estate Partnership LLP", group:1},
+    {name: "Hitchingbrooke Helalthcare NHS Trust", group:2},
+    {name: "Red Rose Corporate Services LLP", group:1},
+    {name: "Lancashire Care NHS Foundation Trust", group:2},
+    {name: "Red Rose Corporate Services (Whyndyke) LLP", group:1},
+    {name: "Red Rose Corporate Services (Nominee No 2)  LLP", group:1},
+    {name: "Red Rose Corporate Services  (Nominee No 1) LLP", group:1},
+    {name: "Red Rose Corporate Services (Estate Management) LLP", group:1}
     ],
     edges: [
     {source: 0, target: 1, name: "Owns"},
@@ -111,8 +111,8 @@
       .data(dataset.nodes)
       .enter()
       .append("circle")
-      .attr({"r":15})
-      .style("fill",function(d,i){return colors(i);})
+      .attr({"r":10})
+      .style("fill", function(d) { return color(d.group); })
       .call(force.drag)
 
 
