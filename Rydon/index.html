@@ -13,7 +13,7 @@
 
     var w = 1000;
     var h = 600;
-    var linkDistance=80;
+    var linkDistance=60;
 
     var colors = d3.scale.category20();
 
@@ -149,7 +149,7 @@
         .style("pointer-events", "none")
         .attr({'class':'edgelabel',
                'id':function(d,i){return 'edgelabel'+i},
-               'dx':40,
+               'dx':30,
                'dy':0,
                'font-size':8,
                'fill':'#aaa'});
