@@ -389,7 +389,7 @@ function update () {
           .style("opacity", 1).select(".value")
           .text(function () {
             var additionalInstructions = g.children.length ? "\n(Double click to expand)" : "";
-            return g.name + "\n" + g.value/2 + "%" + additionalInstructions;
+            return g.name + "\n" + g.value/2 (",.1f") + "%" + additionalInstructions;
           });
     }
   });
