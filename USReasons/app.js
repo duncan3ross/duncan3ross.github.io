@@ -522,7 +522,7 @@ var exampleNodes = [
 
 var exampleLinks = [
 {"source":0,"target":10,"value":0},
-{"source":0,"target":11,"value":1.65},
+{"source":0,"target":11,"value":1.66},
 {"source":0,"target":12,"value":0.13},
 {"source":0,"target":13,"value":1},
 {"source":0,"target":14,"value":0.23},
@@ -540,7 +540,7 @@ var exampleLinks = [
 {"source":2,"target":14,"value":0.14},
 {"source":2,"target":15,"value":0.02},
  {"source":3,"target":10,"value":1.46},
-{"source":3,"target":11,"value":16.8},
+{"source":3,"target":11,"value":16.81},
 {"source":3,"target":12,"value":1.82},
 {"source":3,"target":13,"value":0},
 {"source":3,"target":14,"value":2.66},
