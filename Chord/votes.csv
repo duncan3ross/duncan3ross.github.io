@@ -1,7 +1,7 @@
-first_column,Max Planck,ETH Zurich
-Africa,11,10
-Oceania,23,86
-South America,105,47
-North America,196,387
-Asia,272,583
-Europe,597,1299
+first_column,Max Planck,ETH Zurich,LMU,Peking
+Africa,11,10,12,9
+Oceania,23,86,15,8
+South America,105,47,24,2
+North America,196,387,109,129
+Asia,272,583,147,1407
+Europe,597,1299,616,90
