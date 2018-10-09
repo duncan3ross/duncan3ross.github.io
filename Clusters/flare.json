@@ -22,9 +22,11 @@
             {"name": "University of Michigan", "size": 41831},
             {"name": "New York University", "size": 44433}
       ]},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Canada",
+        "children": [
+            {"name": "University of Toronto", "size": 72202}
+      ]}
+      
      ]
     },
     {
