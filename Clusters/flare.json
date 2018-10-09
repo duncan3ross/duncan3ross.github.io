@@ -7,7 +7,12 @@
     {
      "name": "North America",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
+        {"name": "United States",
+        "children": [
+          {"name": "University of Oxford", "size": 20298},
+          {"name": "University of Cambridge", "size": 18748},
+          {"name": "UCL", "size": 31695}
+      ]},
       {"name": "CommunityStructure", "size": 3812},
       {"name": "HierarchicalCluster", "size": 6714},
       {"name": "MergeEdge", "size": 743}
