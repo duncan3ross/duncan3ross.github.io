@@ -42,6 +42,37 @@
     }
    ]
   },
+{
+   "name": "Regional Stars",
+   "children": [
+    {
+     "name": "North America",
+     "children": [
+        {"name": "United States",
+        "children": [
+            {"name": "Texas A&M University", "size": 58567}
+      ]}
+      
+     ]
+    },
+    {
+     "name": "Europe",
+     "children": [
+      {"name": "France",
+      "children": [
+          {"name": "Sorbonne University", "size": 42681},
+          {"name": "Federal University of Toulouse Midi-Pyrénées", "size": 101658},
+          {"name": "Panthéon-Sorbonne University – Paris 1", "size": 40917}
+      ]},
+      {"name": "Russian Federation",
+      "children": [
+          {"name": "Lomonosov Moscow State University", "size": 29063},
+          {"name": "Higher School of Economics", "size": 19526}
+      ]}
+     ]
+    }
+   ]
+  },
   {
    "name": "animate",
    "children": [
