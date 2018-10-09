@@ -7,10 +7,28 @@
     {
      "name": "North America",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "United States", 
+      "children": [
+          {"name": "Stanford University", "size": 15878},
+          {"name": "Massachusetts Institute of Technology", "size": 11231},
+          {"name": "Harvard University", "size": 20595},
+          {"name": "Princeton University", "size": 7996},
+          {"name": "Yale University", "size": 12317},
+          {"name": "University of Chicago", "size": 13562},
+          {"name": "University of Pennsylvania", "size": 20443},
+          {"name": "University of California, Berkeley", "size": 36468},
+          {"name": "Columbia University", "size": 26586},
+          {"name": "University of California, Los Angeles", "size": 39464},
+          {"name": "University of Michigan", "size": 41831},
+          {"name": "New York University", "size": 44433}
+      ]
+      },
+      {"name": "Canada", 
+      "children": [
+          {"name": "University of Toronto", "size": 72202}
+      ]
+      },
+      
      ]
     },
     {
@@ -18,10 +36,10 @@
      "children": [
       {"name": "United Kingdom",
       "children": [
-          {"name": "Sorbonne", "size": 5000},
-          {"name": "PSL", "size": 4000},
-          {"name": "IMT Atlantique", "size": 1000}
-      ]},
+          {"name": "University of Oxford", "size": 20298},
+          {"name": "University of Cambridge", "size": 18748},
+          {"name": "UCL", "size": 31695}
+      ]}
      ]
     },
    ]
