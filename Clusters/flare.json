@@ -39,12 +39,6 @@
           {"name": "UCL", "size": 31695}
       ]}
      ]
-    },
-    {
-     "name": "Asia",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
     }
    ]
   },
