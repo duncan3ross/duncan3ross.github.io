@@ -70,6 +70,46 @@
           {"name": "Higher School of Economics", "size": 19526}
       ]}
      ]
+    },
+    {
+     "name": "Asia",
+     "children": [
+      {"name": "China",
+      "children": [
+          {"name": "Zhejiang University", "size": 36031},
+          {"name": "Fudan University", "size": 34393},
+          {"name": "Shanghai Jiao Tong University", "size": 40711}
+      ]},
+      {"name": "Japan",
+      "children": [
+          {"name": "The University of Tokyo", "size": 25828},
+          {"name": "Kyoto University", "size": 22420},
+          {"name": "Osaka University", "size": 23173},
+          {"name": "Tohoku University", "size": 17687},
+          {"name": "Nagoya University", "size": 15630}
+      ]},
+      {"name": "South Korea",
+      "children": [
+          {"name": "Seoul National University", "size": 26066},
+          {"name": "Sungkyunkwan University (SKKU)", "size": 23359},
+          {"name": "Korea University", "size": 22705},
+          {"name": "Yonsei University (Seoul campus)", "size": 17875}
+      ]},
+      {"name": "Taiwan",
+      "children": [
+          {"name": "National Taiwan University", "size": 31783}
+      ]}
+     ]
+    },
+       {
+     "name": "South America",
+     "children": [
+        {"name": "Brazil",
+        "children": [
+            {"name": "University of São Paulo", "size": 82962}
+      ]}
+      
+     ]
     }
    ]
   },
