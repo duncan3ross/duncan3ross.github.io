@@ -16,11 +16,11 @@
     {
      "name": "Europe",
      "children": [
-      {"name": "France",
+      {"name": "United Kingdom",
       "children": [
-          {"name": "Sorbonne", "size": 5000},
-          {"name": "PSL", "size": 4000},
-          {"name": "IMT Atlantique", "size": 1000}
+          {"name": "University of Oxford", "size": 20298},
+          {"name": "University of Cambridge", "size": 18748},
+          {"name": "UCL", "size": 31695}
       ]},
       {"name": "LinkDistance", "size": 5731},
       {"name": "MaxFlowMinCut", "size": 7840},
