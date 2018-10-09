@@ -22,9 +22,6 @@
           {"name": "University of Cambridge", "size": 18748},
           {"name": "UCL", "size": 31695}
       ]},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
       {"name": "SpanningTree", "size": 3416}
      ]
     },
