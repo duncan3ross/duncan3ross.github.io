@@ -158,16 +158,41 @@
     {
      "name": "Europe",
      "children": [
-      {"name": "France",
+      {"name": "United Kingdom",
       "children": [
-          {"name": "Sorbonne University", "size": 42681},
-          {"name": "Federal University of Toulouse Midi-Pyrénées", "size": 101658},
-          {"name": "Panthéon-Sorbonne University – Paris 1", "size": 40917}
+          {"name": "Imperial College London", "size": 16424},
+          {"name": "London School of Economics and Political Science", "size": 10028},
+          {"name": "University of Edinburgh", "size": 28153},
+          {"name": "King’s College London", "size": 24293},
+          {"name": "University of Manchester", "size": 36530},
+          {"name": "University of Warwick", "size": 19649}
       ]},
-      {"name": "Russian Federation",
+      {"name": "Switzerland",
       "children": [
-          {"name": "Lomonosov Moscow State University", "size": 29063},
-          {"name": "Higher School of Economics", "size": 19526}
+          {"name": "ETH Zurich", "size": 18171},
+          {"name": "École Polytechnique Fédérale de Lausanne", "size": 10343},
+          {"name": "University of Zurich", "size": 26340}
+      ]},
+     {"name": "Netherlands",
+      "children": [
+          {"name": "University of Amsterdam", "size": 23778},
+          {"name": "Leiden University", "size": 26321},
+          {"name": "Utrecht University", "size": 31551}
+      ]}, 
+    {"name": "France",
+      "children": [
+          {"name": "Paris Sciences et Lettres – PSL Research University Paris", "size": 20722}
+      ]},
+    {"name": "Germany",
+      "children": [
+          {"name": "LMU Munich", "size": 35389},
+          {"name": "Technical University of Munich", "size": 39725},
+          {"name": "Heidelberg University", "size": 20953},
+          {"name": "Humboldt University of Berlin", "size": 33000}
+      ]},
+    {"name": "Belgium",
+      "children": [
+          {"name": "KU Leuven", "size": 44719}
       ]}
      ]
     },
@@ -176,37 +201,30 @@
      "children": [
       {"name": "China",
       "children": [
-          {"name": "Zhejiang University", "size": 36031},
-          {"name": "Fudan University", "size": 34393},
-          {"name": "Shanghai Jiao Tong University", "size": 40711}
+          {"name": "Tsinghua University", "size": 36912},
+          {"name": "Peking University", "size": 42547}
       ]},
-      {"name": "Japan",
+      {"name": "Hong Kong",
       "children": [
-          {"name": "The University of Tokyo", "size": 25828},
-          {"name": "Kyoto University", "size": 22420},
-          {"name": "Osaka University", "size": 23173},
-          {"name": "Tohoku University", "size": 17687},
-          {"name": "Nagoya University", "size": 15630}
+          {"name": "University of Hong Kong", "size": 18122},
+          {"name": "Chinese University of Hong Kong", "size": 17883}
       ]},
-      {"name": "South Korea",
+      {"name": "Singapore",
       "children": [
-          {"name": "Seoul National University", "size": 26066},
-          {"name": "Sungkyunkwan University (SKKU)", "size": 23359},
-          {"name": "Korea University", "size": 22705},
-          {"name": "Yonsei University (Seoul campus)", "size": 17875}
-      ]},
-      {"name": "Taiwan",
-      "children": [
-          {"name": "National Taiwan University", "size": 31783}
+          {"name": "National University of Singapore", "size": 30727},
+          {"name": "Nanyang Technological University, Singapore", "size": 25738}  
       ]}
      ]
     },
        {
-     "name": "South America",
+     "name": "Oceania",
      "children": [
-        {"name": "Brazil",
+        {"name": "Australia",
         "children": [
-            {"name": "University of São Paulo", "size": 82962}
+            {"name": "University of Melbourne", "size": 45030},
+            {"name": "Australian National University", "size": 16839},
+            {"name": "University of Sydney", "size": 43333},
+            {"name": "University of New South Wales", "size": 41358}
       ]}
       
      ]
