@@ -16,24 +16,14 @@
     {
      "name": "Europe",
      "children": [
-      {"name": "France",
+      {"name": "United Kingdom",
       "children": [
           {"name": "Sorbonne", "size": 5000},
           {"name": "PSL", "size": 4000},
           {"name": "IMT Atlantique", "size": 1000}
       ]},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
      ]
     },
-    {
-     "name": "Asia",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
-    }
    ]
   },
   {
