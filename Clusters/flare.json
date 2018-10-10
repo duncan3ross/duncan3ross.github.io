@@ -9,7 +9,7 @@
      "children": [
         {"name": "United States",
         "children": [
-            {"name": "Stanford University", "size": 15878},
+            {"name": "Stanford University", "size": 15878, "color": "hsl(120,100%,50%)"},
             {"name": "Massachusetts Institute of Technology", "size": 11231},
             {"name": "Harvard University", "size": 20595},
             {"name": "Princeton University", "size": 7996},
