@@ -9,7 +9,7 @@
      "children": [
         {"name": "United States",
         "children": [
-            {"name": "Stanford University", "size": 15878, "color": "hsl(120,100%,50%)"},
+            {"name": "Stanford University", "size": 15878},
             {"name": "Massachusetts Institute of Technology", "size": 11231},
             {"name": "Harvard University", "size": 20595},
             {"name": "Princeton University", "size": 7996},
@@ -225,6 +225,176 @@
             {"name": "Australian National University", "size": 16839},
             {"name": "University of Sydney", "size": 43333},
             {"name": "University of New South Wales", "size": 41358}
+      ]}
+      
+     ]
+    }
+   ]
+  },
+     
+{
+   "name": "Technology Challengers",
+   "children": [
+    {
+     "name": "North America",
+     "children": [
+        {"name": "United States",
+        "children": [
+            {"name": "Georgia Institute of Technology", "size": 21902},
+            {"name": "Case Western Reserve University", "size": 10411},
+            {"name": "University at Buffalo", "size": 25419},
+            {"name": "University of California, Riverside", "size": 20864},
+            {"name": "University of Hawaiʻi at Mānoa", "size": 15750},
+            {"name": "University of Utah", "size": 30035},
+            {"name": "William & Mary", "size": 8098},
+            {"name": "University of Delaware", "size": 20348},
+            {"name": "North Carolina State University", "size": 30190},
+            {"name": "Stony Brook University", "size": 23722},
+            {"name": "University of Texas at Dallas", "size": 20787},
+            {"name": "Virginia Polytechnic Institute and State University", "size": 32296},
+            {"name": "Oregon State University", "size": 24280},
+            {"name": "University of Tennessee, Knoxville", "size": 25720},
+            {"name": "Drexel University", "size": 19650},
+            {"name": "Iowa State University", "size": 31931},
+            {"name": "University of Nebraska-Lincoln", "size": 22728},
+            {"name": "Colorado State University", "size": 25374},
+            {"name": "Georgia State University", "size": 33233},
+            {"name": "University of Central Florida", "size": 54697}
+      ]},
+         {"name": "Canada",
+        "children": [
+            {"name": "Western University", "size": 29732},
+            {"name": "University of Calgary", "size": 27488},
+            {"name": "University of Waterloo", "size": 32395},
+            {"name": "Queen’s University", "size": 22883},
+            {"name": "Simon Fraser University", "size": 26312}
+      ]}
+      
+     ]
+    },
+    {
+     "name": "Europe",
+     "children": [
+      {"name": "United Kingdom",
+      "children": [
+          {"name": "University of Bath", "size": 13199},
+          {"name": "University of Surrey", "size": 11986},
+          {"name": "Loughborough University", "size": 14225}
+      ]},
+      {"name": "Switzerland",
+      "children": [
+          {"name": "University of Lausanne", "size": 11957}
+      ]},
+     {"name": "Netherlands",
+      "children": [
+          {"name": "Delft University of Technology", "size": 17880},
+          {"name": "Wageningen University & Research", "size": 13214},
+          {"name": "Eindhoven University of Technology", "size": 8443},
+          {"name": "University of Twente", "size": 7149}
+      ]}, 
+    {"name": "France",
+      "children": [
+          {"name": "École Polytechnique", "size": 2908},
+          {"name": "École des Ponts ParisTech", "size": 1943},
+          {"name": "Paris-Sud University", "size": 29509},
+          {"name": "Grenoble Alpes University", "size": 40758}
+      ]},
+    {"name": "Germany",
+      "children": [
+          {"name": "RWTH Aachen University", "size": 44517},
+          {"name": "Technical University of Berlin", "size": 22472},
+          {"name": "Karlsruhe Institute of Technology", "size": 26593},
+          {"name": "TU Dresden", "size": 33560},
+          {"name": "University of Erlangen-Nuremberg", "size": 38367},
+          {"name": "University of Potsdam", "size": 19294},
+          {"name": "Ruhr University Bochum", "size": 42425},
+          {"name": "University of Stuttgart", "size": 26697},
+          {"name": "Technical University of Darmstadt", "size": 18220},
+          {"name": "TU Dortmund University", "size": 33665}
+      ]},
+    {"name": "Austria",
+      "children": [
+          {"name": "Vienna University of Technology", "size": 17827},
+          {"name": "University of Innsbruck", "size": 14524}
+      ]},
+    {"name": "Denmark",
+      "children": [
+          {"name": "Technical University of Denmark", "size": 9116},
+          {"name": "Aalborg University", "size": 16021}
+      ]},
+    {"name": "Finland",
+      "children": [
+          {"name": "Aalto University", "size": 12420}
+      ]},
+    {"name": "Italy",
+      "children": [
+          {"name": "Scuola Normale Superiore di Pisa", "size": 539},
+          {"name": "University of Pisa", "size": 32751},
+          {"name": "Polytechnic University of Milan", "size": 33663},
+          {"name": "Polytechnic University of Turin", "size": 31008}
+      ]},
+    {"name": "Norway",
+      "children": [
+          {"name": "Norwegian University of Science and Technology", "size": 34803}
+      ]},
+    {"name": "Portugal",
+      "children": [
+          {"name": "University of Lisbon", "size": 50170}
+      ]},
+    {"name": "Russian Federation",
+      "children": [
+          {"name": "ITMO University", "size": 10268}
+      ]},
+    {"name": "Spain",
+      "children": [
+          {"name": "Autonomous University of Madrid", "size": 29532}
+      ]},
+    {"name": "Sweden",
+      "children": [
+          {"name": "KTH Royal Institute of Technology", "size": 12486},
+          {"name": "Chalmers University of Technology", "size": 9257},
+          {"name": "Linköping University", "size": 18221}
+      ]}
+     ]
+    },
+    {
+     "name": "Asia",
+     "children": [
+      {"name": "China",
+      "children": [
+          {"name": "University of Science and Technology of China", "size": 16152},
+          {"name": "Nanjing University", "size": 34580},
+          {"name": "Sun Yat-sen University", "size": 51061}
+      ]},
+      {"name": "Hong Kong",
+      "children": [
+          {"name": "The Hong Kong University of Science and Technology", "size": 10394},
+          {"name": "City University of Hong Kong", "size": 9928}
+      ]},
+      {"name": "Israel",
+      "children": [
+          {"name": "Technion Israel Institute of Technology", "size": 14703}
+      ]},
+    {"name": "Malaysia",
+      "children": [
+            {"name": "University of Malaya", "size": 17095}
+      ]},
+    {"name": "South Korea",
+      "children": [
+            {"name": "Korea Advanced Institute of Science and Technology (KAIST)", "size": 9587},
+            {"name": "Pohang University of Science and Technology", "size": 3238}
+      ]}
+     ]
+    },
+       {
+     "name": "Oceania",
+     "children": [
+        {"name": "Australia",
+        "children": [
+            {"name": "University of Western Australia", "size": 18509},
+            {"name": "University of Adelaide", "size": 21339},
+            {"name": "Curtin University", "size": 30904},
+            {"name": "RMIT University", "size": 32151}
       ]}
       
      ]
