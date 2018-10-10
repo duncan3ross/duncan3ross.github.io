@@ -233,6 +233,211 @@
   },
      
 {
+   "name": "Lifescience Challengers",
+   "children": [
+    {
+     "name": "North America",
+     "children": [
+        {"name": "United States",
+        "children": [
+            {"name": "Washington University in St Louis", "size": 13074},
+            {"name": "Emory University", "size": 12647},
+            {"name": "Rice University", "size": 6554},
+            {"name": "University of California, Irvine", "size": 31089},
+            {"name": "Dartmouth College", "size": 6171},
+            {"name": "Georgetown University", "size": 15801},
+            {"name": "University of Pittsburgh", "size": 26517},
+            {"name": "University of Colorado Boulder", "size": 31625},
+            {"name": "Vanderbilt University", "size": 12038},
+            {"name": "Indiana University", "size": 65707},
+            {"name": "Tufts University", "size": 10658},
+            {"name": "University of Florida", "size": 46555},
+            {"name": "University of Arizona", "size": 39264},
+            {"name": "University of Rochester", "size": 9681},
+            {"name": "University of California, Santa Cruz", "size": 17868},
+            {"name": "University of Notre Dame", "size": 12035},
+            {"name": "Rutgers, the State University of New Jersey", "size": 44126},
+            {"name": "George Washington University", "size": 22844},
+            {"name": "Northeastern University", "size": 19191},
+            {"name": "University of Iowa", "size": 27897},
+            {"name": "University of Massachusetts", "size": 59906},
+            {"name": "University of Miami", "size": 15922},
+            {"name": "Florida State University", "size": 38660},
+            {"name": "University of Illinois at Chicago", "size": 25705},
+            {"name": "Boston College", "size": 13035},
+            {"name": "University of Connecticut", "size": 30356},
+            {"name": "University of Georgia", "size": 34707}
+      ]},
+         {"name": "Canada",
+        "children": [
+            {"name": "McMaster University", "size": 24601},
+            {"name": "University of Montreal", "size": 37311},
+            {"name": "University of Alberta", "size": 31844},
+            {"name": "University of Ottawa", "size": 35002},
+            {"name": "York University", "size": 46220}
+      ]}
+      
+     ]
+    },
+    {
+     "name": "Europe",
+     "children": [
+    {"name": "Austria",
+      "children": [
+          {"name": "University of Vienna", "size": 33185}
+      ]},
+    {"name": "Belgium",
+      "children": [
+          {"name": "Université Catholique de Louvain", "size": 25952},
+          {"name": "Ghent University", "size": 35835},
+          {"name": "Université Libre de Bruxelles", "size": 26935}
+      ]},
+    {"name": "Denmark",
+      "children": [
+          {"name": "University of Copenhagen", "size": 32157},
+          {"name": "Aarhus University", "size": 26867}
+      ]},
+    {"name": "Finland",
+      "children": [
+          {"name": "University of Helsinki", "size": 22418},
+          {"name": "University of Jyväskylä", "size": 10338}
+      ]},
+    {"name": "France",
+      "children": [
+          {"name": "Paris Diderot University – Paris 7", "size": 28918}
+      ]},
+    {"name": "Germany",
+      "children": [
+          {"name": "University of Freiburg", "size": 22005},
+          {"name": "University of Tübingen", "size": 28743},
+          {"name": "Free University of Berlin", "size": 35032},
+          {"name": "University of Bonn", "size": 37708},
+          {"name": "University of Göttingen", "size": 30399},
+          {"name": "University of Hamburg", "size": 29584},
+          {"name": "University of Cologne", "size": 37483},
+          {"name": "University of Münster", "size": 42974},
+          {"name": "Goethe University Frankfurt", "size": 45826}
+      ]},
+    {"name": "Italy",
+      "children": [
+          {"name": "University of Bologna", "size": 66998},
+          {"name": "University of Padua", "size": 43289},
+          {"name": "Sapienza University of Rome", "size": 68282},
+          {"name": "University of Trento", "size": 12856},
+          {"name": "University of Milan", "size": 46842}
+      ]},
+    {"name": "Netherlands",
+      "children": [
+          {"name": "Erasmus University Rotterdam", "size": 22019},
+          {"name": "University of Groningen", "size": 26183},
+          {"name": "Radboud University Nijmegen", "size": 19953},
+          {"name": "Maastricht University", "size": 16250},
+          {"name": "Vrije Universiteit Amsterdam", "size": 23919}
+      ]}, 
+    {"name": "Norway",
+      "children": [
+          {"name": "University of Oslo", "size": 20552},
+          {"name": "University of Bergen", "size": 13116}
+      ]},
+    {"name": "Portugal",
+      "children": [
+          {"name": "University of Lisbon", "size": 50170}
+      ]},
+     {"name": "Republic of Ireland",
+      "children": [
+         {"name": "Trinity College Dublin", "size": 16293},
+          {"name": "University College Dublin", "size": 22081}
+      ]},
+    {"name": "Russian Federation",
+      "children": [
+          {"name": "ITMO University", "size": 10268}
+      ]},
+    {"name": "Spain",
+      "children": [
+          {"name": "Pompeu Fabra University", "size": 11523},
+          {"name": "Autonomous University of Barcelona", "size": 32223},
+          {"name": "University of Barcelona", "size": 46002}
+      ]},
+    {"name": "Sweden",
+      "children": [
+          {"name": "Karolinska Institute", "size": 7898},
+          {"name": "Uppsala University", "size": 25061},
+          {"name": "Lund University", "size": 28454},
+          {"name": "Stockholm University", "size": 31500},
+          {"name": "University of Gothenburg", "size": 18873}
+      ]},
+    {"name": "Switzerland",
+      "children": [
+          {"name": "University of Basel", "size": 12852},
+          {"name": "University of Geneva", "size": 16530}
+      ]},
+    {"name": "United Kingdom",
+      "children": [
+          {"name": "University of Bristol", "size": 20569},
+          {"name": "University of Glasgow", "size": 24235},
+          {"name": "University of Sheffield", "size": 25577},
+          {"name": "Durham University", "size": 16565},
+          {"name": "University of Birmingham", "size": 28354},
+          {"name": "University of Southampton", "size": 24077},
+          {"name": "University of York", "size": 15194},
+          {"name": "Queen Mary University of London", "size": 16434},
+          {"name": "University of Exeter", "size": 20286},
+          {"name": "Lancaster University", "size": 12202},
+          {"name": "University of Nottingham", "size": 29430},
+          {"name": "University of Leeds", "size": 28676},
+          {"name": "University of Aberdeen", "size": 12210},
+          {"name": "University of Sussex", "size": 13891},
+          {"name": "University of St Andrews", "size": 8965},
+          {"name": "Newcastle University", "size": 21500},
+          {"name": "University of Liverpool", "size": 21590},
+          {"name": "Cardiff University", "size": 24245},
+          {"name": "University of East Anglia", "size": 13984},
+          {"name": "University of Reading", "size": 13394}
+      ]}
+     ]
+    },
+    {
+     "name": "Asia",
+     "children": [
+      {"name": "Israel",
+      "children": [
+          {"name": "Hebrew University of Jerusalem", "size": 16492},
+          {"name": "Tel Aviv University", "size": 22878}
+      ]}
+      ]},
+    {
+     "name": "Africa",
+     "children": [
+      {"name": "South Africa",
+      "children": [
+          {"name": "University of Cape Town", "size": 22137}
+      ]}
+      ]},
+    {
+     "name": "Oceania",
+     "children": [
+    {"name": "Australia",
+        "children": [
+            {"name": "University of Queensland", "size": 38187},
+            {"name": "Monash University", "size": 49727},
+            {"name": "University of Technology, Sydney", "size": 25637},
+            {"name": "Queensland University of Technology", "size": 33930},
+            {"name": "Griffith University", "size": 31574}
+      ]},
+    {"name": "New Zealand",
+        "children": [
+            {"name": "University of Auckland", "size": 30041},
+            {"name": "University of Otago", "size": 18282}
+      ]}
+      
+     ]
+    }
+     ]
+    },
+       
+   
+     
+     {
    "name": "Technology Challengers",
    "children": [
     {
