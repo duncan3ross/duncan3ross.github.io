@@ -434,7 +434,181 @@
     }
      ]
     },
-       
+ 
+{
+   "name": "Asian Challengers",
+   "children": [
+    {
+     "name": "North America",
+     "children": [
+        {"name": "Mexico",
+        "children": [
+            {"name": "National Autonomous University of Mexico", "size": 162018}
+            
+      ]}
+      
+     ]
+    },
+    {
+     "name": "Europe",
+     "children": [
+    {"name": "Czech Republic",
+      "children": [
+          {"name": "Charles University in Prague", "size": 49236}
+      ]},
+    
+    {"name": "France",
+      "children": [
+          {"name": "École Normale Supérieure de Lyon", "size": 2207},
+          {"name": "Aix-Marseille University", "size": 69147},
+          {"name": "University of Lille", "size": 66710},
+          {"name": "University of Strasbourg", "size": 45482},
+          {"name": "École Normale Supérieure de Cachan", "size": 1830}
+      ]},
+     
+    {"name": "Poland",
+      "children": [
+          {"name": "Jagiellonian University", "size": 42131},
+          {"name": "University of Warsaw", "size": 49752},
+          {"name": "Warsaw University of Technology", "size": 31672}
+      ]},
+    {"name": "Portugal",
+      "children": [
+          {"name": "University of Porto", "size": 31855}
+      ]},
+     
+    {"name": "Russian Federation",
+      "children": [
+          {"name": "Moscow Institute of Physics and Technology", "size": 5687},
+          {"name": "National Research Nuclear University MEPhI", "size": 6804},
+          {"name": "Novosibirsk State University", "size": 7250},
+          {"name": "Saint Petersburg State University", "size": 21644},
+          {"name": "Tomsk Polytechnic University", "size": 9682},
+          {"name": "Tomsk State University", "size": 7673},
+          {"name": "Kazan Federal University", "size": 26021},
+          {"name": "Peter the Great St Petersburg Polytechnic University", "size": 18420},
+          {"name": "Bauman Moscow State Technical University", "size": 20510}
+      ]},
+    {"name": "Spain",
+      "children": [
+          {"name": "Complutense University of Madrid", "size": 64466},
+          {"name": "Carlos III University of Madrid", "size": 16917},
+          {"name": "University of Seville", "size": 55395},
+          {"name": "Technical University of Madrid", "size": 39269}
+      ]},
+    
+    {"name": "United Kingdom",
+      "children": [
+          {"name": "Oxford Brookes University", "size": 14005}
+      ]}
+     ]
+    },
+    {
+     "name": "South America",
+     "children": [
+      {"name": "Brazil",
+      "children": [
+          {"name": "State University of Campinas", "size": 27936},
+          {"name": "Federal University of Minas Gerais", "size": 44108},
+          {"name": "Federal University of Rio de Janeiro", "size": 55109},
+          {"name": "Federal University of São Paulo (UNIFESP)", "size": 13520}
+      ]},
+    {"name": "Chile",
+      "children": [
+          {"name": "University of Chile", "size": 39345}
+      ]}
+      ]},
+    {
+     "name": "Asia",
+     "children": [
+      {"name": "China",
+      "children": [
+          {"name": "Huazhong University of Science and Technology", "size": 56282},
+          {"name": "Wuhan University", "size": 50015},
+          {"name": "Harbin Institute of Technology", "size": 30116},
+          {"name": "Tongji University", "size": 36511},
+          {"name": "Beihang University", "size": 29520},
+          {"name": "Tianjin University", "size": 33429},
+          {"name": "Xiamen University", "size": 40507},
+          {"name": "Xi’an Jiaotong University", "size": 33973},
+          {"name": "Beijing Institute of Technology", "size": 28910}
+      ]},
+      {"name": "India",
+      "children": [
+          {"name": "Indian Institute of Science", "size": 4071},
+          {"name": "Indian Institute of Technology Bombay", "size": 10001},
+          {"name": "Indian Institute of Technology Roorkee", "size": 7925},
+          {"name": "Indian Institute of Technology Delhi", "size": 8130},
+          {"name": "Indian Institute of Technology Kanpur", "size": 6609},
+          {"name": "Indian Institute of Technology Kharagpur", "size": 9397},
+          {"name": "Banaras Hindu University", "size": 12220},
+          {"name": "Indian Institute of Technology Madras", "size": 9013}
+      ]},
+      {"name": "Iran",
+      "children": [
+          {"name": "University of Tehran", "size": 55645}  
+      ]},
+      {"name": "Japan",
+      "children": [
+          {"name": "Tokyo Institute of Technology", "size": 9612},
+          {"name": "Hokkaido University", "size": 18114},
+          {"name": "Kyushu University", "size": 18647},
+          {"name": "University of Tsukuba", "size": 16717},
+          {"name": "Hiroshima University", "size": 14875},
+          {"name": "Keio University", "size": 34740},
+          {"name": "Kobe University", "size": 15786},
+          {"name": "Waseda University", "size": 49761},
+          {"name": "Suwa University of Science", "size": 19162},
+          {"name": "Ritsumeikan University", "size": 32739}  
+      ]},
+      {"name": "Malaysia",
+      "children": [
+          {"name": "Universiti Sains Malaysia", "size": 21394}  
+      ]},
+    {"name": "Philippines",
+      "children": [
+          {"name": "University of the Philippines", "size": 45410}  
+      ]},
+    {"name": "South Korea",
+      "children": [
+          {"name": "Hanyang University", "size": 20010}
+      ]},
+    {"name": "Taiwan",
+      "children": [
+          {"name": "National Taiwan University of Science and Technology (Taiwan Tech)", "size": 8087},
+          {"name": "National Tsing Hua University", "size": 16037},
+          {"name": "National Cheng Kung University (NCKU)", "size": 20511},
+          {"name": "National Chiao Tung University", "size": 12053},
+          {"name": "National Taiwan Normal University", "size": 10621},
+          {"name": "National Central University", "size": 11277}
+      ]},
+    {"name": "Thailand",
+      "children": [
+          {"name": "Chulalongkorn University", "size": 36781}
+      ]},
+    {"name": "Turkey",
+      "children": [
+          {"name": "Istanbul Technical University", "size": 34594},
+          {"name": "Middle East Technical University", "size": 27294}
+      ]}
+     ]
+    },
+    {
+     "name": "Africa",
+     "children": [
+      {"name": "South Africa",
+      "children": [
+          {"name": "University of the Witwatersrand", "size": 28279},
+          {"name": "University of Pretoria", "size": 35687}
+      ]},
+    {"name": "Egypt",
+      "children": [
+          {"name": "Cairo University", "size": 233999}
+      ]}
+      ]}
+    
+     ]
+    },
    
      
      {
