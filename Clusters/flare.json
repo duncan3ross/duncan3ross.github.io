@@ -5,7 +5,7 @@
    "name": "Old Stars",
    "children": [
     {
-     "name": "North America",
+     "name": "North America", "color": "hsl(120,100%,50%)",
      "children": [
         {"name": "United States",
         "children": [
