@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "Old Stars",
+   "name": "Old Stars: 16",
    "children": [
     {
      "name": "North America", "color": "hsl(120,100%,50%)",
@@ -43,7 +43,7 @@
    ]
   },
 {
-   "name": "Regional Stars",
+   "name": "Regional Stars: 20",
    "children": [
     {
      "name": "North America",
@@ -114,7 +114,7 @@
    ]
   },
 {
-   "name": "International Powerhouse",
+   "name": "International Powerhouse: 55",
    "children": [
     {
      "name": "North America",
@@ -233,7 +233,7 @@
   },
      
 {
-   "name": "Lifescience Challengers",
+   "name": "Lifescience Challengers: 104",
    "children": [
     {
      "name": "North America",
@@ -436,7 +436,7 @@
     },
  
 {
-   "name": "Asian Challengers",
+   "name": "Asian Challengers: 73",
    "children": [
     {
      "name": "North America",
@@ -611,7 +611,7 @@
     },
    
 {
-   "name": "Core Strengths",
+   "name": "Core Strengths: 210",
    "children": [
     {
      "name": "North America",
@@ -970,7 +970,7 @@
     },
      
 {
-   "name": "Developing Expertise",
+   "name": "Developing Expertise: 197",
    "children": [
     {
      "name": "North America",
@@ -1357,7 +1357,7 @@
      ]
     },
 {
-   "name": "Effective Publishers",
+   "name": "Effective Publishers: 160",
    "children": [
     {
      "name": "North America",
@@ -1635,7 +1635,7 @@
     },
      
 {
-   "name": "Emerging Talents",
+   "name": "Emerging Talents: 344",
    "children": [
     {
      "name": "North America",
@@ -2161,7 +2161,7 @@
     },
      
      {
-   "name": "Technology Challengers",
+   "name": "Technology Challengers: 77",
    "children": [
     {
      "name": "North America",
