@@ -1,0 +1,41 @@
+{
+ "name": "flare",
+ "children": [
+ {
+   "name": "Africa",
+   "children": [
+    {
+        "name": "Asian Challengers",
+        "children": [
+            {
+                "name": "Egypt",
+                "children": [
+                    {"name": "Cairo University", "size": 483}
+                    ]},
+            {   "name": "South Africa",
+                "children": [
+                    {"name": "University of the Witwatersrand", "size": 168},
+                    {"name": "University of Pretoria", "size": 188}
+            
+            ]},
+        ]},
+    {
+        "name": "Core Strengths",
+        "children": [
+            {
+                "name": "Egypt",
+                "children": [
+                    {"name": "Beni-Suef University", "size": 257},
+                    {"name": "Kafrelsheikh University", "size": 258}
+                    ]},
+            {   "name": "South Africa",
+                "children": [
+                    {"name": "Stellenbosch University", "size": 154}
+            
+            ]},
+        ]},
+    ]}
+]}
+
+
+ 
