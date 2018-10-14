@@ -442,7 +442,7 @@
             {
                 "name": "Nepal",
                 "children": [
-                    {"name": "Tribhuvan University", "size": 599},
+                    {"name": "Tribhuvan University", "size": 599}
                     ]},
             {
                 "name": "Oman",
@@ -524,7 +524,7 @@
                 "name": "China",
                 "children": [
                     {"name": "Nanjing University of Information Science and Technology", "size": 138}
-                    ]},
+            ]},
             {   "name": "Hong Kong",
                 "children": [
                     {"name": "Hong Kong Baptist University", "size": 104}
@@ -836,7 +836,7 @@
             
                         
         ]},
-{
+    {
         "name": "Lifescience Challengers",
         "children": [
             {
@@ -846,7 +846,7 @@
                     {"name": "Tel Aviv University", "size": 151}
                     ]}
         ]},
-{
+    {
         "name": "Regional Stars",
         "children": [
             {
@@ -879,7 +879,7 @@
                     ]}
                         
         ]},
-   {
+    {
         "name": "Technology Challengers",
         "children": [
             {
