@@ -153,6 +153,767 @@
                     {"name": "University of Cape Town", "size": 148}
                     ]}
         ]}
+    ]},
+{
+   "name": "Asia",
+   "children": [
+    {
+        "name": "Asian Challengers",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Huazhong University of Science and Technology", "size": 237},
+                    {"name": "Wuhan University", "size": 223},
+                    {"name": "Harbin Institute of Technology", "size": 173},
+                    {"name": "Tongji University", "size": 191},
+                    {"name": "Beihang University", "size": 171},
+                    {"name": "Tianjin University", "size": 182},
+                    {"name": "Xiamen University", "size": 201},
+                    {"name": "Xi’an Jiaotong University", "size": 184},
+                    {"name": "Beijing Institute of Technology", "size": 170}
+                    ]},
+            {   "name": "India",
+                "children": [
+                    {"name": "Indian Institute of Science", "size": 63},
+                    {"name": "Indian Institute of Technology Bombay", "size": 100},
+                    {"name": "Indian Institute of Technology Roorkee", "size": 89},
+                    {"name": "Indian Institute of Technology Delhi", "size": 90},
+                    {"name": "Indian Institute of Technology Kanpur", "size": 81},
+                    {"name": "Indian Institute of Technology Kharagpur", "size": 96},
+                    {"name": "Banaras Hindu University", "size": 110},
+                    {"name": "Indian Institute of Technology Madras", "size": 94}
+            
+            ]},
+            {   "name": "Iran",
+                "children": [
+                    {"name": "University of Tehran", "size": 235}
+            
+            ]},
+            {   "name": "Japan",
+                "children": [
+                    {"name": "Tokyo Institute of Technology", "size": 98},
+                    {"name": "Hokkaido University", "size": 134},
+                    {"name": "Kyushu University", "size": 136},
+                    {"name": "University of Tsukuba", "size": 129},
+                    {"name": "Hiroshima University", "size": 121},
+                    {"name": "Keio University", "size": 186},
+                    {"name": "Kobe University", "size": 125},
+                    {"name": "Waseda University", "size": 223},
+                    {"name": "Suwa University of Science", "size": 138},
+                    {"name": "Ritsumeikan University", "size": 180}
+            
+            ]},
+            {   "name": "Malaysia",
+                "children": [
+                    {"name": "Universiti Sains Malaysia", "size": 146}
+            
+            ]}, 
+            {   "name": "Philippines",
+                "children": [
+                    {"name": "University of the Philippines", "size": 213}
+            
+            ]},
+            {   "name": "South Korea",
+                "children": [
+                    {"name": "Hanyang University", "size": 141}
+            
+            ]},
+            {   "name": "Taiwan",
+                "children": [
+                    {"name": "National Taiwan University of Science and Technology (Taiwan Tech)", "size": 89},
+                    {"name": "National Tsing Hua University", "size": 126},
+                    {"name": "National Cheng Kung University (NCKU)", "size": 143},
+                    {"name": "National Chiao Tung University", "size": 109},
+                    {"name": "National Taiwan Normal University", "size": 103},
+                    {"name": "National Central University", "size": 106}
+            
+            ]},
+            {   "name": "Thailand",
+                "children": [
+                    {"name": "Chulalongkorn University", "size": 191}
+            
+            ]},
+            {   "name": "Turkey",
+                "children": [
+                    {"name": "Istanbul Technical University", "size": 185},
+                    {"name": "Middle East Technical University", "size": 165}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Southern University of Science and Technology (SUSTech)", "size": 45},
+                    {"name": "Nankai University", "size": 168},
+                    {"name": "Hunan University", "size": 206},
+                    {"name": "Renmin University of China", "size": 158},
+                    {"name": "Soochow University", "size": 206},
+                    {"name": "South China University of Technology", "size": 206},
+                    {"name": "Southeast University", "size": 181},
+                    {"name": "Central South University", "size": 230},
+                    {"name": "Dalian University of Technology", "size": 197},
+                    {"name": "East China Normal University", "size": 158},
+                    {"name": "East China University of Science and Technology", "size": 146},
+                    {"name": "Fuzhou University", "size": 186},
+                    {"name": "Nanjing Normal University", "size": 163},
+                    {"name": "Shenzhen University", "size": 184},
+                    {"name": "Sichuan University", "size": 244},
+                    {"name": "Shantou University", "size": 99}
+                    ]},
+            {   "name": "India",
+                "children": [
+                    {"name": "Indian Institute of Technology Indore", "size": 33},
+                    {"name": "Indian Institute of Technology Bhubaneswar", "size": 31}
+            
+            ]},
+            {   "name": "Iran",
+                "children": [
+                    {"name": "Babol Noshirvani University of Technology", "size": 73},
+                    {"name": "University of Kashan", "size": 88}
+            
+            ]},
+            {   "name": "Israel",
+                "children": [
+                    {"name": "Ben-Gurion University of the Negev", "size": 123},
+                    {"name": "University of Haifa", "size": 133}
+            
+            ]},
+            {   "name": "Japan",
+                "children": [
+                    {"name": "Tokyo Metropolitan University", "size": 95},
+                    {"name": "Rikkyo University", "size": 143}
+            
+            ]},
+            {   "name": "Jordan",
+                "children": [
+                    {"name": "Jordan University of Science and Technology", "size": 149}
+            
+            ]},
+            {   "name": "Lebanon",
+                "children": [
+                    {"name": "American University of Beirut", "size": 90},
+                    {"name": "Lebanese American University", "size": 87}
+            
+            ]},
+            {   "name": "Pakistan",
+                "children": [
+                    {"name": "COMSATS Institute of Information Technology", "size": 177},
+                    {"name": "National University of Sciences and Technology", "size": 102}
+            
+            ]},
+            {   "name": "Philippines",
+                "children": [
+                    {"name": "De La Salle University", "size": 132}
+            
+            ]},
+            {   "name": "Qatar",
+                "children": [
+                    {"name": "Qatar University", "size": 119}
+            
+            ]},
+            {   "name": "Saudi Arabia",
+                "children": [
+                    {"name": "Alfaisal University", "size": 49},
+                    {"name": "King Saud University", "size": 197},
+                    {"name": "King Fahd University of Petroleum and Minerals", "size": 80}
+            
+            ]},
+            {   "name": "South Korea",
+                "children": [
+                    {"name": "Ulsan National Institute of Science and Technology", "size": 65},
+                    {"name": "Kyung Hee University", "size": 148},
+                    {"name": "Sejong University", "size": 109},
+                    {"name": "Yeungnam University", "size": 142}
+            
+            ]},
+            {   "name": "Turkey",
+                "children": [
+                    {"name": "Sabancı University", "size": 60},
+                    {"name": "Koç University", "size": 73},
+                    {"name": "Bilkent University", "size": 103},
+                    {"name": "Boğaziçi University", "size": 111}
+            
+            ]},
+            {   "name": "United Arab Emirates",
+                "children": [
+                    {"name": "Khalifa University", "size": 57}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Shandong University", "size": 215},
+                    {"name": "China Agricultural University", "size": 138},
+                    {"name": "Nanjing Agricultural University", "size": 161},
+                    {"name": "Nanjing Medical University", "size": 117},
+                    {"name": "Northwestern Polytechnical University", "size": 165},
+                    {"name": "Capital Medical University", "size": 113},
+                    {"name": "China University of Geosciences, Wuhan", "size": 169},
+                    {"name": "China University of Mining and Technology", "size": 213},
+                    {"name": "China Pharmaceutical University", "size": 125},
+                    {"name": "Chongqing University", "size": 216},
+                    {"name": "Jilin University", "size": 263},
+                    {"name": "Jinan University", "size": 189},
+                    {"name": "Northwest University", "size": 152},
+                    {"name": "NorthWest A&F University", "size": 172},
+                    {"name": "Ocean University of China", "size": 179},
+                    {"name": "University of Science and Technology Beijing", "size": 155},
+                    {"name": "Shanghai University", "size": 190},
+                    {"name": "Southern Medical University", "size": 136},
+                    {"name": "Xidian University", "size": 182},
+                    {"name": "Huaqiao University", "size": 172},
+                    {"name": "North China Electric Power University", "size": 174},
+                    {"name": "Shanghai Maritime University", "size": 152},
+                    {"name": "Southwest Jiaotong University", "size": 190},
+                    {"name": "Yanshan University", "size": 179}
+                    ]},
+            {   "name": "India",
+                "children": [
+                    {"name": "Savitribai Phule Pune University", "size": 78},
+                    {"name": "Amrita University", "size": 119},
+                    {"name": "National Institute of Technology Rourkela", "size": 77},
+                    {"name": "Panjab University", "size": 135},
+                    {"name": "Indian Institute of Technology (Indian School of Mines) Dhanbad", "size": 85},
+                    {"name": "Indian Institute of Science Education and Research Kolkata", "size": 34},
+                    {"name": "National Institute of Technology, Tiruchirappalli", "size": 77},
+                    {"name": "Osmania University", "size": 109},
+                    {"name": "Thapar University", "size": 86},
+                    {"name": "Maharaja Sayajirao University of Baroda", "size": 184}
+            
+            ]},
+            {
+                "name": "Indonesia",
+                "children": [
+                    {"name": "University of Indonesia", "size": 202},
+                    {"name": "Bandung Institute of Technology (ITB)", "size": 136},
+                    {"name": "Universitas Gadjah Mada", "size": 202},
+                    {"name": "Sepuluh Nopember Institute of Technology", "size": 129}
+                    ]},
+            {
+                "name": "Iran",
+                "children": [
+                    {"name": "Amirkabir University of Technology", "size": 109},
+                    {"name": "Iran University of Science and Technology", "size": 119},
+                    {"name": "Isfahan University of Technology", "size": 99},
+                    {"name": "Mashhad University of Medical Sciences", "size": 94},
+                    {"name": "Sharif University of Technology", "size": 97},
+                    {"name": "University of Tabriz", "size": 153},
+                    {"name": "Tehran University of Medical Sciences", "size": 110},
+                    {"name": "K.N. Toosi University of Technology", "size": 81},
+                    {"name": "Shahid Beheshti University of Medical Sciences", "size": 112},
+                    {"name": "Alzahra University", "size": 102}
+                    ]},
+            {
+                "name": "Japan",
+                "children": [
+                    {"name": "Fujita Health University", "size": 53},
+                    {"name": "Tokyo Medical and Dental University (TMDU)", "size": 54},
+                    {"name": "The University of Aizu", "size": 34},
+                    {"name": "Kanazawa University", "size": 102},
+                    {"name": "Saitama University", "size": 92},
+                    {"name": "Sapporo Medical University", "size": 36},
+                    {"name": "Tokyo Medical University", "size": 36},
+                    {"name": "Gunma University", "size": 79},
+                    {"name": "Hosei University", "size": 174},
+                    {"name": "Iwate University", "size": 75},
+                    {"name": "Kanagawa University", "size": 136},
+                    {"name": "Meiji University", "size": 179},
+                    {"name": "Nara Medical University", "size": 34},
+                    {"name": "University of the Ryukyus", "size": 90},
+                    {"name": "Saitama Medical University", "size": 43},
+                    {"name": "Tokyo City University", "size": 88}
+                    ]},
+            {
+                "name": "Malaysia",
+                "children": [
+                    {"name": "Universiti Tunku Abdul Rahman (UTAR)", "size": 138},
+                    {"name": "Universiti Teknologi Malaysia", "size": 133},
+                    {"name": "Universiti Teknologi Petronas", "size": 80},
+                    {"name": "Universiti Tenaga Nasional (UNITEN)", "size": 88}
+                    ]},
+            {
+                "name": "Nepal",
+                "children": [
+                    {"name": "Tribhuvan University", "size": 599},
+                    ]},
+            {
+                "name": "Oman",
+                "children": [
+                    {"name": "Sultan Qaboos University", "size": 87}
+                    ]},
+            {
+                "name": "Pakistan",
+                "children": [
+                    {"name": "Bahauddin Zakariya University", "size": 156},
+                    {"name": "University of Engineering & Technology (UET) Lahore", "size": 111}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "children": [
+                    {"name": "King Saud bin Abdulaziz University for Health Sciences", "size": 90}
+                    ]},
+            {
+                "name": "South Korea",
+                "children": [
+                    {"name": "Gwangju Institute of Science and Technology", "size": 44},
+                    {"name": "Chung-Ang University", "size": 117},
+                    {"name": "University of Ulsan", "size": 116},
+                    {"name": "Ewha Womans University", "size": 122},
+                    {"name": "Konkuk University", "size": 119},
+                    {"name": "Pusan National University", "size": 156},
+                    {"name": "Sogang University", "size": 98},
+                    {"name": "Chonnam National University", "size": 152},
+                    {"name": "Kyungpook National University", "size": 158},
+                    {"name": "Hallym University", "size": 91},
+                    {"name": "Kookmin University", "size": 131}
+                    ]},
+            {
+                "name": "Sri Lanka",
+                "children": [
+                    {"name": "University of Colombo", "size": 171}
+                    ]},
+            {
+                "name": "Taiwan",
+                "children": [
+                    {"name": "China Medical University, Taiwan", "size": 87},
+                    {"name": "National Yang-Ming University", "size": 65},
+                    {"name": "Taipei Medical University", "size": 76},
+                    {"name": "Chang Gung University", "size": 86},
+                    {"name": "National Sun Yat-Sen University", "size": 97},
+                    {"name": "Asia University, Taiwan", "size": 110},
+                    {"name": "National Dong Hwa University", "size": 100},
+                    {"name": "National Taipei University", "size": 92},
+                    {"name": "National Taiwan Ocean University", "size": 93},
+                    {"name": "Tamkang University", "size": 164},
+                    {"name": "Yuan Ze University", "size": 90}
+                    ]},
+            {
+                "name": "Thailand",
+                "children": [
+                    {"name": "Chiang Mai University", "size": 191},
+                    {"name": "Naresuan University", "size": 152},
+                    {"name": "Thammasat University", "size": 181}
+                    ]},
+            {
+                "name": "Turkey",
+                "children": [
+                    {"name": "Atılım University", "size": 87},
+                    {"name": "Erciyes University", "size": 195},
+                    {"name": "Gebze Technical University", "size": 81}
+                    ]},
+            {
+                "name": "United Arab Emirates",
+                "children": [
+                    {"name": "United Arab Emirates University", "size": 86},
+                    {"name": "American University of Sharjah", "size": 75}
+                    ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Nanjing University of Information Science and Technology", "size": 138}
+                    ]},
+            {   "name": "Hong Kong",
+                "children": [
+                    {"name": "Hong Kong Baptist University", "size": 104}
+            
+            ]},
+            {
+                "name": "Israel",
+                "children": [
+                    {"name": "Bar-Ilan University", "size": 128}
+                    ]},
+            {
+                "name": "Macao",
+                "children": [
+                    {"name": "University of Macau", "size": 99}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "children": [
+                    {"name": "King Abdulaziz University", "size": 181}
+                    ]}
+            
+        ]},
+    {
+        "name": "Emerging Talents",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "China University of Geosciences, Beijing", "size": 134},
+                    {"name": "Huazhong Agricultural University", "size": 161},
+                    {"name": "Nanjing Tech University", "size": 178},
+                    {"name": "Northeast Normal University", "size": 159},
+                    {"name": "Beijing Jiaotong University", "size": 158},
+                    {"name": "China University of Petroleum, Beijing", "size": 122},
+                    {"name": "Jiangsu University", "size": 185},
+                    {"name": "Northeastern University", "size": 183},
+                    {"name": "Wuhan University of Technology", "size": 225},
+                    {"name": "Xiangtan University", "size": 175},
+                    {"name": "Yangzhou University", "size": 190},
+                    {"name": "Guangxi University", "size": 184},
+                    {"name": "Harbin Engineering University", "size": 155},
+                    {"name": "University of South China", "size": 148}
+                    ]},
+            {   "name": "India",
+                "children": [
+                    {"name": "JSS Academy of Higher Education and Research", "size": 73},
+                    {"name": "University of Delhi", "size": 151},
+                    {"name": "Indian Institute of Science Education and Research, Pune", "size": 33},
+                    {"name": "Indian Institute of Technology Guwahati", "size": 74},
+                    {"name": "Indian Institute of Technology Hyderabad", "size": 44},
+                    {"name": "Jadavpur University", "size": 107},
+                    {"name": "Tezpur University", "size": 58},
+                    {"name": "Acharya Nagarjuna University", "size": 68},
+                    {"name": "Aligarh Muslim University", "size": 133},
+                    {"name": "Birla Institute of Technology and Science, Pilani", "size": 112},
+                    {"name": "Jamia Millia Islamia", "size": 109},
+                    {"name": "Pondicherry University", "size": 78},
+                    {"name": "Sri Venkateswara University", "size": 88},
+                    {"name": "VIT University", "size": 175},
+                    {"name": "Amity University", "size": 165},
+                    {"name": "Andhra University", "size": 98},
+                    {"name": "Annamalai University", "size": 165},
+                    {"name": "Cochin University of Science and Technology", "size": 90},
+                    {"name": "G.B. Pant University of Agriculture & Technology, Pantnagar", "size": 66},
+                    {"name": "GITAM University", "size": 127},
+                    {"name": "University of Kerala", "size": 90},
+                    {"name": "KIIT University", "size": 140},
+                    {"name": "Manipal University", "size": 158},
+                    {"name": "University of Mysore", "size": 89},
+                    {"name": "PSG College of Technology", "size": 91},
+                    {"name": "SASTRA University", "size": 114},
+                    {"name": "Sathyabama University", "size": 126},
+                    {"name": "SRM University", "size": 217},
+                    {"name": "Tamil Nadu Agricultural University", "size": 76}
+                    ]},
+            {
+                "name": "Indonesia",
+                "children": [
+                    {"name": "Bogor Agricultural University", "size": 151}
+                    ]},
+            {
+                "name": "Iran",
+                "children": [
+                    {"name": "Shiraz University of Technology", "size": 38},
+                    {"name": "Azarbaijan Shahid Madani University", "size": 79},
+                    {"name": "Ferdowsi University of Mashhad", "size": 152},
+                    {"name": "University of Guilan", "size": 128},
+                    {"name": "Iran University of Medical Sciences", "size": 92},
+                    {"name": "University of Isfahan", "size": 113},
+                    {"name": "University of Mazandaran", "size": 114},
+                    {"name": "Shahid Beheshti University", "size": 135},
+                    {"name": "Shiraz University", "size": 117},
+                    {"name": "University of Birjand", "size": 106},
+                    {"name": "Kharazmi University", "size": 114},
+                    {"name": "Shahid Bahonar University of Kerman", "size": 120},
+                    {"name": "Shahrood University of Technology", "size": 91},
+                    {"name": "Urmia University", "size": 116},
+                    {"name": "Yazd University", "size": 116},
+                    {"name": "University of Zanjan", "size": 102}
+                    ]},
+            {
+                "name": "Iraq",
+                "children": [
+                    {"name": "University of Baghdad", "size": 258}
+                    ]},
+            {
+                "name": "Japan",
+                "children": [
+                    {"name": "Teikyo University", "size": 153},
+                    {"name": "Chiba University", "size": 117},
+                    {"name": "Juntendo University", "size": 66},
+                    {"name": "Kindai University", "size": 179},
+                    {"name": "Nippon Medical School", "size": 28},
+                    {"name": "Yokohama City University", "size": 70},
+                    {"name": "Aichi Medical University", "size": 35},
+                    {"name": "Hamamatsu University School of Medicine", "size": 34},
+                    {"name": "Hyogo College of Medicine", "size": 29},
+                    {"name": "Jikei University School of Medicine", "size": 32},
+                    {"name": "Kagawa University", "size": 80},
+                    {"name": "Kansai Medical University", "size": 29},
+                    {"name": "Kochi University", "size": 74},
+                    {"name": "Kumamoto University", "size": 101},
+                    {"name": "Kyushu Institute of Technology (Kyutech)", "size": 75},
+                    {"name": "Nagasaki University", "size": 95},
+                    {"name": "Nagoya City University", "size": 66},
+                    {"name": "Niigata University", "size": 111},
+                    {"name": "Okayama University", "size": 114},
+                    {"name": "Osaka City University", "size": 91},
+                    {"name": "Shinshu University", "size": 103},
+                    {"name": "Toho University", "size": 71},
+                    {"name": "Tokushima University", "size": 86},
+                    {"name": "Tokyo University of Agriculture and Technology", "size": 76},
+                    {"name": "Toyohashi University of Technology (TUT)", "size": 48},
+                    {"name": "Yamagata University", "size": 94},
+                    {"name": "University of Yamanashi", "size": 68},
+                    {"name": "Yokohama National University", "size": 99},
+                    {"name": "Akita University", "size": 71},
+                    {"name": "Aoyama Gakuin University", "size": 139},
+                    {"name": "Chiba Institute of Technology", "size": 98},
+                    {"name": "Chubu University", "size": 112},
+                    {"name": "Chuo University", "size": 163},
+                    {"name": "Doshisha University", "size": 168},
+                    {"name": "Ehime University", "size": 97},
+                    {"name": "The University of Electro-Communications", "size": 69},
+                    {"name": "University of Fukui", "size": 70},
+                    {"name": "Gifu University", "size": 84},
+                    {"name": "University of Hyogo", "size": 81},
+                    {"name": "Ibaraki University", "size": 90},
+                    {"name": "Kagoshima University", "size": 102},
+                    {"name": "Kansai University", "size": 174},
+                    {"name": "Kitasato University", "size": 92},
+                    {"name": "Kogakuin University", "size": 80},
+                    {"name": "Kwansei Gakuin University", "size": 154},
+                    {"name": "Kyoto Institute of Technology", "size": 63},
+                    {"name": "Meijo University", "size": 124},
+                    {"name": "University of Miyazaki", "size": 74},
+                    {"name": "Muroran Institute of Technology", "size": 57},
+                    {"name": "Nagaoka University of Technology", "size": 48},
+                    {"name": "Nagoya Institute of Technology", "size": 75},
+                    {"name": "Ochanomizu University", "size": 54},
+                    {"name": "Oita University", "size": 75},
+                    {"name": "Osaka Prefecture University", "size": 88},
+                    {"name": "Saga University", "size": 83},
+                    {"name": "Shibaura Institute of Technology Tokyo", "size": 85},
+                    {"name": "Shimane University", "size": 78},
+                    {"name": "Shizuoka University", "size": 99},
+                    {"name": "University of Shizuoka", "size": 54},
+                    {"name": "Showa University", "size": 60},
+                    {"name": "Sophia University", "size": 115},
+                    {"name": "Tokai University", "size": 173},
+                    {"name": "Tokyo University of Agriculture", "size": 110},
+                    {"name": "Tokyo Denki University", "size": 96},
+                    {"name": "Tokyo University of Marine Science and Technology", "size": 51},
+                    {"name": "Tottori University", "size": 78},
+                    {"name": "University of Toyama", "size": 96},
+                    {"name": "Toyo University", "size": 174},
+                    {"name": "Utsunomiya University", "size": 70},
+                    {"name": "Yamaguchi University", "size": 102}
+                    ]},
+            {
+                "name": "Jordan",
+                "children": [
+                    {"name": "University of Jordan", "size": 176},
+                    {"name": "Hashemite University", "size": 129},
+                    {"name": "Yarmouk University", "size": 187}
+                    ]},
+            {
+                "name": "Kazakhstan",
+                "children": [
+                    {"name": "Al-Farabi Kazakh National University", "size": 130},
+                    {"name": "L.N. Gumilyov Eurasian National University", "size": 127}
+                    ]},
+            {
+                "name": "Kuwait",
+                "children": [
+                    {"name": "Kuwait University", "size": 192}
+                    ]},
+            {
+                "name": "Malaysia",
+                "children": [
+                    {"name": "Universiti Kebangsaan Malaysia", "size": 137},
+                    {"name": "Universiti Putra Malaysia", "size": 154},
+                    {"name": "Universiti Utara Malaysia", "size": 114},
+                    {"name": "Universiti Teknologi MARA", "size": 233},
+                    {"name": "Universiti Malaysia Sarawak (UNIMAS)", "size": 124}
+                    ]},
+            {
+                "name": "Pakistan",
+                "children": [
+                   {"name": "University of Agriculture, Faisalabad", "size": 148},
+                    {"name": "Government College University Lahore", "size": 94},
+                    {"name": "University of Lahore", "size": 157},
+                    {"name": "PMAS Arid Agriculture University Rawalpindi", "size": 104},
+                    {"name": "University of Veterinary and Animal Sciences, Lahore", "size": 72}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "children": [
+                    {"name": "Imam Abdulrahman Bin Faisal University", "size": 169}
+                    ]},
+            {
+                "name": "South Korea",
+                "children": [
+                    {"name": "Ajou University", "size": 106},
+                    {"name": "Chonbuk National University", "size": 145},
+                    {"name": "Inha University", "size": 139},
+                    {"name": "University of Seoul", "size": 94},
+                    {"name": "Chungnam National University", "size": 150},
+                    {"name": "Incheon National University", "size": 117},
+                    {"name": "Seoul National University of Science and Technology (SeoulTech)", "size": 111}
+                    ]},
+            {
+                "name": "Taiwan",
+                "children": [
+                    {"name": "Chung Yuan Christian University", "size": 126},
+                    {"name": "Fu Jen Catholic University", "size": 152},
+                    {"name": "Kaohsiung Medical University", "size": 83},
+                    {"name": "National Chengchi University", "size": 121},
+                    {"name": "National Chung Hsing University", "size": 123},
+                    {"name": "National Taipei University of Technology", "size": 100},
+                    {"name": "Chaoyang University of Technology", "size": 130},
+                    {"name": "Feng Chia University", "size": 140},
+                    {"name": "I-Shou University", "size": 128},
+                    {"name": "Ming Chuan University", "size": 137},
+                    {"name": "National Changhua University of Education", "size": 90},
+                    {"name": "National Chiayi University", "size": 111},
+                    {"name": "National Chung Cheng University", "size": 119},
+                    {"name": "National University of Kaohsiung", "size": 74}
+                    ]},
+            {
+                "name": "Thailand",
+                "children": [
+                    {"name": "Mahidol University", "size": 169},
+                    {"name": "King Mongkut’s University of Technology Thonburi", "size": 128},
+                    {"name": "Suranaree University of Technology", "size": 122},
+                    {"name": "Kasetsart University", "size": 261},
+                    {"name": "Khon Kaen University", "size": 190},
+                    {"name": "King Mongkut’s Institute of Technology Ladkrabang", "size": 151},
+                    {"name": "King Mongkut's University of Technology North Bangkok", "size": 159},
+                    {"name": "Mahasarakham University", "size": 208},
+                    {"name": "Prince of Songkla University", "size": 203},
+                    {"name": "Srinakharinwirot University", "size": 152}
+                    ]},
+            {
+                "name": "Turkey",
+                "children": [
+                    {"name": "Hacettepe University", "size": 206},
+                    {"name": "Anadolu University", "size": 1188},
+                    {"name": "Istanbul University", "size": 305},
+                    {"name": "Akdeniz University", "size": 224},
+                    {"name": "Ankara University", "size": 263},
+                    {"name": "Bahçeşehir University", "size": 118},
+                    {"name": "Cukurova University", "size": 203},
+                    {"name": "Dokuz Eylül University", "size": 252},
+                    {"name": "Gazi University", "size": 282},
+                    {"name": "Izmir Institute of Technology", "size": 70},
+                    {"name": "Marmara University", "size": 269},
+                    {"name": "Ondokuz Mayis University", "size": 183},
+                    {"name": "TOBB University of Economics and Technology", "size": 73},
+                    {"name": "Yeditepe University", "size": 140}
+                    ]},
+            {
+                "name": "United Arab Emirates",
+                "children": [
+                    {"name": "University of Sharjah", "size": 118}
+                    ]}
+                        
+        ]},
+    {
+        "name": "International Powerhouse",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Tsinghua University", "size": 192},
+                    {"name": "Peking University", "size": 206}
+                    ]},
+            {   "name": "Hong Kong",
+                "children": [
+                    {"name": "University of Hong Kong", "size": 134},
+                    {"name": "Chinese University of Hong Kong", "size": 133}
+                    ]},
+            {
+                "name": "Singapore",
+                "children": [
+                    {"name": "National University of Singapore", "size": 175},
+                    {"name": "Nanyang Technological University, Singapore", "size": 160}
+                    ]}
+            
+                        
+        ]},
+{
+        "name": "Lifescience Challengers",
+        "children": [
+            {
+                "name": "Israel",
+                "children": [
+                    {"name": "Hebrew University of Jerusalem", "size": 128},
+                    {"name": "Tel Aviv University", "size": 151}
+                    ]}
+        ]},
+{
+        "name": "Regional Stars",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "Zhejiang University", "size": 189},
+                    {"name": "Fudan University", "size": 185},
+                    {"name": "Shanghai Jiao Tong University", "size": 201}
+                    ]},
+            {   "name": "Japan",
+                "children": [
+                    {"name": "The University of Tokyo", "size": 160},
+                    {"name": "Kyoto University", "size": 149},
+                    {"name": "Osaka University", "size": 152},
+                    {"name": "Tohoku University", "size": 132},
+                    {"name": "Nagoya University", "size": 125}
+                    ]},
+            {
+                "name": "South Korea",
+                "children": [
+                    {"name": "Seoul National University", "size": 161},
+                    {"name": "Sungkyunkwan University (SKKU)", "size": 152},
+                    {"name": "Korea University", "size": 150},
+                    {"name": "Yonsei University (Seoul campus)", "size": 133}
+                    ]},
+            {
+                "name": "Taiwan",
+                "children": [
+                    {"name": "National Taiwan University", "size": 178}
+                    ]}
+                        
+        ]},
+   {
+        "name": "Technology Challengers",
+        "children": [
+            {
+                "name": "China",
+                "children": [
+                    {"name": "University of Science and Technology of China", "size": 127},
+                    {"name": "Nanjing University", "size": 185},
+                    {"name": "Sun Yat-sen University", "size": 225}
+                    ]},
+            {   "name": "Hong Kong",
+                "children": [
+                    {"name": "The Hong Kong University of Science and Technology", "size": 101},
+                    {"name": "City University of Hong Kong", "size": 99},
+                    {"name": "Hong Kong Polytechnic University", "size": 148}
+                    ]},
+            {
+                "name": "Israel",
+                "children": [
+                    {"name": "Technion Israel Institute of Technology", "size": 121}
+                    ]},
+            {
+                "name": "Malaysia",
+                "children": [
+                    {"name": "University of Malaya", "size": 130}
+                    ]},
+            {
+                "name": "South Korea",
+                "children": [
+                    {"name": "Korea Advanced Institute of Science and Technology (KAIST)", "size": 97},
+                    {"name": "Pohang University of Science and Technology", "size": 56}
+                    ]}
+            
+                        
+        ]}
     ]}
 ]}
 
