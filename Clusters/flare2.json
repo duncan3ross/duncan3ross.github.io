@@ -17,7 +17,7 @@
                     {"name": "University of the Witwatersrand", "size": 168},
                     {"name": "University of Pretoria", "size": 188}
             
-            ]},
+            ]}
         ]},
     {
         "name": "Core Strengths",
@@ -32,8 +32,8 @@
                 "children": [
                     {"name": "Stellenbosch University", "size": 154}
             
-            ]},
-        ]},
+            ]}
+        ]}
     ]}
 ]}
 
