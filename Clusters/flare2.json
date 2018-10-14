@@ -33,6 +33,68 @@
                     {"name": "Stellenbosch University", "size": 154}
             
             ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "children": [
+            {
+                "name": "Algeria",
+                "children": [
+                    {"name": "University of Béjaïa", "size": 206}
+                    ]},
+            {   "name": "Egypt",
+                "children": [
+                    {"name": "American University in Cairo", "size": 77},
+                    {"name": "Benha University", "size": 299},
+                    {"name": "Mansoura University", "size": 369},
+                    {"name": "Suez Canal University", "size": 197},
+                    {"name": "Alexandria University", "size": 418},
+                    {"name": "Fayoum University", "size": 173},
+                    {"name": "Sohag University", "size": 221},
+                    {"name": "Tanta University", "size": 372},
+                    {"name": "Assiut University", "size": 281},
+                    {"name": "Helwan University", "size": 393},
+                    {"name": "Menoufia University", "size": 286},
+                    {"name": "Zagazig University", "size": 367}
+            
+            ]},
+            {
+                "name": "Ghana",
+                "children": [
+                    {"name": "University of Ghana", "size": 192}
+                    ]},
+            {
+                "name": "Morocco",
+                "children": [
+                    {"name": "University of Marrakech Cadi Ayyad", "size": 292}
+                    ]},
+            {
+                "name": "Nigeria",
+                "children": [
+                    {"name": "Covenant University", "size": 96}
+                    ]},
+            {
+                "name": "Nigeria",
+                "children": [
+                    {"name": "University of KwaZulu-Natal", "size": 188},
+                    {"name": "University of Johannesburg", "size": 159},
+                    {"name": "University of the Western Cape", "size": 145}
+                    ]},
+            {
+                "name": "Tanzania",
+                "children": [
+                    {"name": "University of Dar es Salaam", "size": 159}
+                    ]},
+            {
+                "name": "Tunisia",
+                "children": [
+                    {"name": "University of Sfax", "size": 182}
+                    ]},
+            {
+                "name": "Uganda",
+                "children": [
+                    {"name": "Makerere University", "size": 196}
+                    ]}
         ]}
     ]}
 ]}
