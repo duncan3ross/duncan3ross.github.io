@@ -74,7 +74,7 @@
                     {"name": "Covenant University", "size": 96}
                     ]},
             {
-                "name": "Nigeria",
+                "name": "South Africa",
                 "children": [
                     {"name": "University of KwaZulu-Natal", "size": 188},
                     {"name": "University of Johannesburg", "size": 159},
@@ -94,6 +94,63 @@
                 "name": "Uganda",
                 "children": [
                     {"name": "Makerere University", "size": 196}
+                    ]}
+        ]},
+{
+        "name": "Emerging Talents",
+        "children": [
+            {
+                "name": "Algeria",
+                "children": [
+                    {"name": "Badji Mokhtar University – Annaba", "size": 201},
+                    {"name": "University of Constantine 1", "size": 183},
+                    {"name": "University of Sciences and Technology Houari Boumediene", "size": 188},
+                    {"name": "University of Tlemcen", "size": 210}
+                    ]},
+            {   "name": "Egypt",
+                "children": [
+                    {"name": "Ain Shams University", "size": 414},
+                    {"name": "Al-Azhar University", "size": 564},
+                    {"name": "Minia University", "size": 242},
+                    {"name": "South Valley University", "size": 215}
+                    ]},
+            {
+                "name": "Kenya",
+                "children": [
+                    {"name": "University of Nairobi", "size": 269}
+                    ]},
+            {
+                "name": "Morocco",
+                "children": [
+                    {"name": "Mohammed V University of Rabat", "size": 274},
+                    {"name": "Sidi Mohamed Ben Abdellah University", "size": 306}
+                    ]},
+            {
+                "name": "Nigeria",
+                "children": [
+                    {"name": "University of Ibadan", "size": 159},
+                    {"name": "University of Nigeria Nsukka", "size": 180}
+                    ]},
+            {
+                "name": "South Africa",
+                "children": [
+                    {"name": "Tshwane University of Technology", "size": 206},
+                    {"name": "University of South Africa", "size": 404}
+                    ]},
+            {
+                "name": "Tunisia",
+                "children": [
+                    {"name": "University of Monastir", "size": 145},
+                    {"name": "University of Tunis El Manar", "size": 185}
+                    ]}
+        ]},
+{
+        "name": "Lifescience Challengers",
+        "children": [
+            {
+                "name": "South Africa",
+                "children": [
+                    {"name": "University of Cape Town", "size": 148}
                     ]}
         ]}
     ]}
