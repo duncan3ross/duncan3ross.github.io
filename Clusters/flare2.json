@@ -2327,6 +2327,156 @@
                         
         ]}
     
+    ]},
+{
+   "name": "South America",
+   "children": [
+    {
+        "name": "Asian Challengers",
+        "children": [
+            {
+                "name": "Brazil",
+                "children": [
+                    {"name": "State University of Campinas", "size": 167},
+                    {"name": "Federal University of Minas Gerais", "size": 210},
+                    {"name": "Federal University of Rio de Janeiro", "size": 234},
+                    {"name": "Federal University of São Paulo (UNIFESP)", "size": 116}
+                    ]},
+            {   "name": "Chile",
+                "children": [
+                    {"name": "University of Chile", "size": 198}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "children": [
+            {
+                "name": "Chile",
+                "children": [
+                    {"name": "Diego Portales University", "size": 129},
+                    {"name": "Pontifical Catholic University of Chile", "size": 165}
+            ]},
+            {   "name": "Colombia",
+                "children": [
+                    {"name": "University of the Andes, Colombia", "size": 126}
+            
+            ]},
+            {   "name": "Peru",
+                "children": [
+                    {"name": "Universidad Peruana Cayetano Heredia", "size": 76},
+                    {"name": "Pontifical Catholic University of Peru", "size": 149}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "children": [
+            {
+                "name": "Argentina",
+                "children": [
+                    {"name": "National University of Cuyo", "size": 212}
+            ]},
+            {   "name": "Chile",
+                "children": [
+                    {"name": "University of Desarrollo", "size": 126},
+                    {"name": "Federico Santa María Technical University", "size": 138},
+                    {"name": "Catholic University of the North", "size": 108}
+            
+            ]}
+            
+        ]},
+ 
+    {
+        "name": "Emerging Talents",
+        "children": [
+            {
+                "name": "Argentine",
+                "children": [
+                    {"name": "National University of San Martín", "size": 122},
+                    {"name": "National University of Córdoba", "size": 253},
+                    {"name": "National University of La Plata", "size": 344},
+                    {"name": "National University of the South", "size": 142}
+                    ]},
+            {   "name": "Brazil",
+                "children": [
+                    {"name": "Federal University of Rio Grande do Sul", "size": 218},
+                    {"name": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio)", "size": 124},
+                    {"name": "University of Brasília", "size": 228},
+                    {"name": "Federal University of ABC (UFABC)", "size": 119},
+                    {"name": "Federal University of Bahia", "size": 180},
+                    {"name": "Federal University of Pelotas", "size": 136},
+                    {"name": "Federal University of Santa Catarina", "size": 194},
+                    {"name": "Federal University of São Carlos", "size": 135},
+                    {"name": "Pontifical Catholic University of Rio Grande do Sul (PUCRS)", "size": 139},
+                    {"name": "São Paulo State University (UNESP)", "size": 175},
+                    {"name": "Ceará State University", "size": 133},
+                    {"name": "Federal University of Ceará (UFC)", "size": 178},
+                    {"name": "Federal University of Goiás", "size": 171},
+                    {"name": "Federal University of Itajubá", "size": 94},
+                    {"name": "Federal University of Lavras", "size": 124},
+                    {"name": "Federal University of Pará", "size": 222},
+                    {"name": "Federal University of Paraná (UFPR)", "size": 181},
+                    {"name": "Federal University of Pernambuco", "size": 195},
+                    {"name": "Federal University of Rio Grande do Norte (UFRN)", "size": 198},
+                    {"name": "Federal University of Santa Maria", "size": 162},
+                    {"name": "Federal University of Techbnology – Paraná", "size": 181},
+                    {"name": "Federal University of Uberlândia", "size": 143},
+                    {"name": "Federal University of Viçosa", "size": 131},
+                    {"name": "Fluminense Federal University", "size": 261},
+                    {"name": "Londrina State University", "size": 152},
+                    {"name": "Pontifical Catholic University of Paraná", "size": 158},
+                    {"name": "Rio de Janeiro State University (UERJ)", "size": 151},
+                    {"name": "University of the Sinos Valley", "size": 116},
+                    {"name": "State University of Maringá", "size": 143},
+                    {"name": "State University of Ponta Grossa", "size": 101},
+                    {"name": "State University of Western Paraná (Unioeste)", "size": 104}
+                    ]},
+            {
+                "name": "Chile",
+                "children": [
+                    {"name": "Austral University of Chile", "size": 121},
+                    {"name": "University of La Frontera", "size": 101},
+                    {"name": "University of Talca", "size": 103},
+                    {"name": "Andrés Bello University (UNAB)", "size": 210},
+                    {"name": "University of Bío-Bío", "size": 113},
+                    {"name": "University of Concepción", "size": 164},
+                    {"name": "Pontifical Catholic University of Valparaíso", "size": 123},
+                    {"name": "University of Santiago, Chile (USACH)", "size": 156},
+                    {"name": "University of Tarapacá", "size": 94},
+                    {"name": "University of Valparaíso", "size": 128}
+                    ]},
+            {
+                "name": "Colombia",
+                "children": [
+                    {"name": "Pontifical Javeriana University", "size": 172},
+                    {"name": "Industrial University of Santander (UIS)", "size": 141},
+                    {"name": "University of Antioquia", "size": 201},
+                    {"name": "Del Rosario University", "size": 97},
+                    {"name": "National University of Colombia", "size": 227},
+                    {"name": "Pontifical Bolivarian University (UPB) – Medellín", "size": 117}
+                    ]},
+            {
+                "name": "Venezuela",
+                "children": [
+                    {"name": "University of the Andes, Venezuela", "size": 218},
+                    {"name": "Simón Bolívar University", "size": 105}
+                    ]}
+                        
+        ]},
+ 
+{
+        "name": "Regional Stars",
+        "children": [
+            {
+                "name": "Brazil",
+                "children": [
+                    {"name": "University of São Paulo", "size": 288}
+                    ]}
+                        
+        ]}
+
+    
     ]}
 ]}
 
