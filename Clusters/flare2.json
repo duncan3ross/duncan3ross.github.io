@@ -1858,6 +1858,355 @@
                         
         ]}
     
+    ]},
+{
+   "name": "North America",
+   "children": [
+    {
+        "name": "Asian Challengers",
+        "children": [
+            {
+                "name": "Mexico",
+                "children": [
+                    {"name": "National Autonomous University of Mexico", "size": 402}
+                    ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "Laval University", "size": 172},
+                    {"name": "University of Manitoba", "size": 171},
+                    {"name": "University of Saskatchewan", "size": 129},
+                    {"name": "Carleton University", "size": 163},
+                    {"name": "University of Guelph", "size": 147},
+                    {"name": "Memorial University of Newfoundland", "size": 123},
+                    {"name": "Concordia University", "size": 179},
+                    {"name": "Université du Québec", "size": 232},
+                    {"name": "University of Regina", "size": 112},
+                    {"name": "Université de Sherbrooke", "size": 123},
+                    {"name": "University of Windsor", "size": 115}
+            ]},
+            {   "name": "United States",
+                "children": [
+                    {"name": "Tulane University", "size": 105},
+                    {"name": "Rensselaer Polytechnic Institute", "size": 86},
+                    {"name": "University of Alabama in Huntsville", "size": 77},
+                    {"name": "University of Kentucky", "size": 165},
+                    {"name": "University of Montana", "size": 94},
+                    {"name": "University of Nebraska Medical Center", "size": 52},
+                    {"name": "New Mexico Institute of Mining and Technology", "size": 42},
+                    {"name": "University of Tulsa", "size": 67},
+                    {"name": "University of Wisconsin-Milwaukee", "size": 145},
+                    {"name": "Creighton University", "size": 91},
+                    {"name": "University of Idaho", "size": 98},
+                    {"name": "Lehigh University", "size": 80},
+                    {"name": "Louisiana State University", "size": 171},
+                    {"name": "University of Maryland, Baltimore County", "size": 107},
+                    {"name": "Missouri University of Science and Technology", "size": 90},
+                    {"name": "Montana State University", "size": 119},
+                    {"name": "New Jersey Institute of Technology", "size": 109},
+                    {"name": "Oklahoma State University", "size": 147},
+                    {"name": "Saint Louis University", "size": 105},
+                    {"name": "Stevens Institute of Technology", "size": 75},
+                    {"name": "University of Toledo", "size": 135},
+                    {"name": "University of Arkansas", "size": 156},
+                    {"name": "Auburn University", "size": 155},
+                    {"name": "Baylor University", "size": 130},
+                    {"name": "Fordham University", "size": 112},
+                    {"name": "Kansas State University", "size": 148},
+                    {"name": "Louisiana Tech University", "size": 105},
+                    {"name": "Mississippi State University", "size": 153},
+                    {"name": "University of Nevada, Las Vegas", "size": 158},
+                    {"name": "New Mexico State University", "size": 115},
+                    {"name": "Old Dominion University", "size": 138},
+                    {"name": "Portland State University", "size": 143},
+                    {"name": "Rochester Institute of Technology", "size": 119},
+                    {"name": "University of San Diego", "size": 87},
+                    {"name": "University of Texas at Arlington", "size": 164},
+                    {"name": "University of Texas at El Paso", "size": 129},
+                    {"name": "Texas Tech University", "size": 180},
+                    {"name": "Western Washington University", "size": 117},
+                    {"name": "West Virginia University", "size": 153},
+                    {"name": "California Polytechnic State University, San Luis Obispo", "size": 139},
+                    {"name": "Florida Atlantic University", "size": 153},
+                    {"name": "Texas State University", "size": 176}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "University of Northern British Columbia (UNBC)", "size": 51}
+            ]},
+            {   "name": "Mexico",
+                "children": [
+                    {"name": "University of Sonora", "size": 172}
+            ]},
+            {
+                "name": "United States",
+                "children": [
+                    {"name": "Hofstra University", "size": 99},
+                    {"name": "University of Dayton", "size": 100},
+                    {"name": "Embry-Riddle Aeronautical University", "size": 126},
+                    {"name": "Marquette University", "size": 102},
+                    {"name": "University of North Carolina at Greensboro", "size": 136},
+                    {"name": "University of South Alabama", "size": 119},
+                    {"name": "University of South Dakota", "size": 124},
+                    {"name": "East Carolina University", "size": 159},
+                    {"name": "Florida Institute of Technology", "size": 74},
+                    {"name": "Oakland University", "size": 126},
+                    {"name": "University of Southern Mississippi", "size": 116}
+                    ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "Dalhousie University", "size": 123},
+                    {"name": "University of Victoria", "size": 138}
+            ]},
+           
+            {
+                "name": "United States",
+                "children": [
+                    {"name": "University of Alabama at Birmingham", "size": 125},
+                    {"name": "Brandeis University", "size": 73},
+                    {"name": "University of Cincinnati", "size": 167},
+                    {"name": "Clark University", "size": 56},
+                    {"name": "Colorado School of Mines", "size": 74},
+                    {"name": "Oregon Health and Science University", "size": 53},
+                    {"name": "University of South Florida", "size": 182},
+                    {"name": "Syracuse University", "size": 142},
+                    {"name": "Wake Forest University", "size": 87},
+                    {"name": "University of Alaska Fairbanks", "size": 60},
+                    {"name": "American University", "size": 103},
+                    {"name": "University of Colorado Denver", "size": 133},
+                    {"name": "University of Denver", "size": 97},
+                    {"name": "George Mason University", "size": 168},
+                    {"name": "University of Houston", "size": 207},
+                    {"name": "University of New Mexico", "size": 146},
+                    {"name": "Washington State University", "size": 166},
+                    {"name": "Wayne State University", "size": 148},
+                    {"name": "University of California, Merced", "size": 81},
+                    {"name": "University of Kansas", "size": 156},
+                    {"name": "Rush University", "size": 49},
+                    {"name": "Temple University", "size": 185},
+                    {"name": "University of Vermont", "size": 105},
+                    {"name": "University of Alabama", "size": 185},
+                    {"name": "Florida International University", "size": 182},
+                    {"name": "Northern Arizona University", "size": 165},
+                    {"name": "University of Oklahoma", "size": 165},
+                    {"name": "University of South Carolina", "size": 177},
+                    {"name": "State University of New York Albany", "size": 126},
+                    {"name": "Binghamton University, State University of New York", "size": 132},
+                    {"name": "Kent State University", "size": 156},
+                    {"name": "San Diego State University", "size": 173},
+                    {"name": "University of Texas at San Antonio", "size": 161},
+                    {"name": "Worcester Polytechnic Institute", "size": 74}
+                    ]}
+            
+        ]},
+    {
+        "name": "Emerging Talents",
+        "children": [
+            {
+                "name": "Costa Rica",
+                "children": [
+                    {"name": "University of Costa Rica", "size": 179}
+                    ]},
+            {   "name": "Jamaica",
+                "children": [
+                    {"name": "The University of the West Indies", "size": 208}
+                    ]},
+            {
+                "name": "Mexico",
+                "children": [
+                    {"name": "Monterrey Institute of Technology and Higher Education", "size": 119},
+                    {"name": "Autonomous University of Querétaro", "size": 147},
+                    {"name": "Metropolitan Autonomous University", "size": 240},
+                    {"name": "Autonomous University of Baja California", "size": 244},
+                    {"name": "Autonomous University of Hidalgo State (UAEH)", "size": 183},
+                    {"name": "Autonomous University of Nuevo León", "size": 320},
+                    {"name": "Autonomous University of Puebla", "size": 279},
+                    {"name": "Autonomous University of San Luis Potosi", "size": 176},
+                    {"name": "Autonomous University of the State of Mexico", "size": 238},
+                    {"name": "Autonomous University of Yucatán", "size": 128},
+                    {"name": "University of Guadalajara", "size": 346},
+                    {"name": "University of Guanajuato", "size": 157},
+                    {"name": "Michoacanan University of San Nicolas of Hidalgo", "size": 198},
+                    {"name": "National Polytechnic University (IPN)", "size": 422},
+                    {"name": "University of Veracruz", "size": 248}
+                    ]}
+                        
+        ]},
+    {
+        "name": "International Powerhouse",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "University of British Columbia", "size": 231},
+                    {"name": "McGill University", "size": 176}
+                    ]},
+            {   "name": "United States",
+                "children": [
+                    {"name": "California Institute of Technology", "size": 47},
+                    {"name": "Johns Hopkins University", "size": 127},
+                    {"name": "Duke University", "size": 122},
+                    {"name": "Cornell University", "size": 148},
+                    {"name": "Carnegie Mellon University", "size": 114},
+                    {"name": "Northwestern University", "size": 132},
+                    {"name": "University of Washington", "size": 213},
+                    {"name": "University of California, San Diego", "size": 178},
+                    {"name": "University of Texas at Austin", "size": 220},
+                    {"name": "University of Wisconsin-Madison", "size": 197},
+                    {"name": "University of Illinois at Urbana-Champaign", "size": 209},
+                    {"name": "University of California, Santa Barbara", "size": 153},
+                    {"name": "Brown University", "size": 95},
+                    {"name": "University of North Carolina at Chapel Hill", "size": 185},
+                    {"name": "University of California, Davis", "size": 194},
+                    {"name": "Purdue University", "size": 198},
+                    {"name": "University of Southern California", "size": 188},
+                    {"name": "University of Minnesota Twin Cities", "size": 246},
+                    {"name": "Ohio State University", "size": 231},
+                    {"name": "Boston University", "size": 158},
+                    {"name": "Pennsylvania State University", "size": 213},
+                    {"name": "University of Maryland, College Park", "size": 179},
+                    {"name": "Michigan State University", "size": 212},
+                    {"name": "University of Virginia", "size": 155},
+                    {"name": "Arizona State University", "size": 215}
+                    ]}
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "McMaster University", "size": 156},
+                    {"name": "University of Montreal", "size": 193},
+                    {"name": "University of Alberta", "size": 178},
+                    {"name": "University of Ottawa", "size": 187},
+                    {"name": "York University", "size": 214}
+                    ]},
+            {
+                "name": "United States",
+                "children": [
+                    {"name": "Washington University in St Louis", "size": 114},
+                    {"name": "Emory University", "size": 112},
+                    {"name": "Rice University", "size": 80},
+                    {"name": "University of California, Irvine", "size": 176},
+                    {"name": "Dartmouth College", "size": 78},
+                    {"name": "Georgetown University", "size": 125},
+                    {"name": "University of Pittsburgh", "size": 162},
+                    {"name": "University of Colorado Boulder", "size": 177},
+                    {"name": "Vanderbilt University", "size": 109},
+                    {"name": "Indiana University", "size": 256},
+                    {"name": "Tufts University", "size": 103},
+                    {"name": "University of Florida", "size": 215},
+                    {"name": "University of Arizona", "size": 198},
+                    {"name": "University of Rochester", "size": 98},
+                    {"name": "University of California, Santa Cruz", "size": 133},
+                    {"name": "University of Notre Dame", "size": 109},
+                    {"name": "Rutgers, the State University of New Jersey", "size": 210},
+                    {"name": "George Washington University", "size": 151},
+                    {"name": "Northeastern University", "size": 138},
+                    {"name": "University of Iowa", "size": 167},
+                    {"name": "University of Massachusetts", "size": 244},
+                    {"name": "University of Miami", "size": 126},
+                    {"name": "Florida State University", "size": 196},
+                    {"name": "University of Illinois at Chicago", "size": 160},
+                    {"name": "Boston College", "size": 114},
+                    {"name": "University of Connecticut", "size": 174},
+                    {"name": "University of Georgia", "size": 186}
+                    ]}
+            
+        ]},
+{
+        "name": "Old Stars",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "University of Toronto", "size": 268}
+                    ]},
+            {
+                "name": "United States",
+                "children": [
+                    {"name": "Stanford University", "size": 126},
+                    {"name": "Massachusetts Institute of Technology", "size": 105},
+                    {"name": "Harvard University", "size": 143},
+                    {"name": "Princeton University", "size": 89},
+                    {"name": "Yale University", "size": 110},
+                    {"name": "University of Chicago", "size": 116},
+                    {"name": "University of Pennsylvania", "size": 142},
+                    {"name": "University of California, Berkeley", "size": 190},
+                    {"name": "Columbia University", "size": 163},
+                    {"name": "University of California, Los Angeles", "size": 198},
+                    {"name": "University of Michigan", "size": 204},
+                    {"name": "New York University", "size": 210}
+                    ]}
+                        
+        ]},
+{
+        "name": "Regional Stars",
+        "children": [
+            {
+                "name": "United States",
+                "children": [
+                    {"name": "Texas A&M University", "size": 242}
+                    ]}
+                        
+        ]},
+{
+        "name": "Technology Challengers",
+        "children": [
+            {
+                "name": "Canada",
+                "children": [
+                    {"name": "Western University", "size": 172},
+                    {"name": "University of Calgary", "size": 165},
+                    {"name": "University of Waterloo", "size": 179},
+                    {"name": "Queen’s University", "size": 151},
+                    {"name": "Simon Fraser University", "size": 162}
+                    ]},
+            {   "name": "United States",
+                "children": [
+                    {"name": "Georgia Institute of Technology", "size": 147},
+                    {"name": "Case Western Reserve University", "size": 102},
+                    {"name": "University at Buffalo", "size": 159},
+                    {"name": "University of California, Riverside", "size": 144},
+                    {"name": "University of Hawaiʻi at Mānoa", "size": 125},
+                    {"name": "University of Utah", "size": 173},
+                    {"name": "William & Mary", "size": 89},
+                    {"name": "University of Delaware", "size": 142},
+                    {"name": "North Carolina State University", "size": 173},
+                    {"name": "Stony Brook University", "size": 154},
+                    {"name": "University of Texas at Dallas", "size": 144},
+                    {"name": "Virginia Polytechnic Institute and State University", "size": 179},
+                    {"name": "Oregon State University", "size": 155},
+                    {"name": "University of Tennessee, Knoxville", "size": 160},
+                    {"name": "Drexel University", "size": 140},
+                    {"name": "Iowa State University", "size": 178},
+                    {"name": "University of Nebraska-Lincoln", "size": 150},
+                    {"name": "Colorado State University", "size": 159},
+                    {"name": "Georgia State University", "size": 182},
+                    {"name": "University of Central Florida", "size": 233}
+                    ]}
+            
+                        
+        ]}
+    
     ]}
 ]}
 
