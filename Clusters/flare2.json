@@ -2207,6 +2207,126 @@
                         
         ]}
     
+    ]},
+{
+   "name": "Oceania",
+   "children": [
+    
+    {
+        "name": "Core Strengths",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "Victoria University", "size": 123},
+                    {"name": "University of Tasmania", "size": 109},
+                    {"name": "Swinburne University of Technology", "size": 113},
+                    {"name": "Edith Cowan University", "size": 130},
+                    {"name": "Southern Cross University", "size": 93},
+                    {"name": "University of Southern Queensland", "size": 108},
+                    {"name": "University of the Sunshine Coast", "size": 94}
+            ]},
+            {   "name": "New Zealand",
+                "children": [
+                    {"name": "Auckland University of Technology", "size": 134},
+                    {"name": "Massey University", "size": 137}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "Bond University", "size": 57},
+                    {"name": "Charles Darwin University", "size": 80}
+            ]},
+            {   "name": "New Zealand",
+                "children": [
+                    {"name": "Lincoln University", "size": 49}
+            
+            ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "James Cook University", "size": 109},
+                    {"name": "Macquarie University", "size": 169},
+                    {"name": "University of South Australia", "size": 132},
+                    {"name": "University of Wollongong", "size": 134},
+                    {"name": "University of Canberra", "size": 100},
+                    {"name": "Flinders University", "size": 126},
+                    {"name": "La Trobe University", "size": 145},
+                    {"name": "University of Newcastle", "size": 149},
+                    {"name": "Deakin University", "size": 193},
+                    {"name": "Western Sydney University", "size": 180},
+                    {"name": "Australian Catholic University", "size": 151},
+                    {"name": "Murdoch University", "size": 125},
+                    {"name": "Central Queensland University", "size": 117}
+            ]},
+            {   "name": "New Zealand",
+                "children": [
+                    {"name": "University of Canterbury", "size": 111},
+                    {"name": "University of Waikato", "size": 99},
+                    {"name": "University of Wellington", "size": 131}
+            
+            ]}
+            
+        ]},
+    {
+        "name": "International Powerhouse",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "University of Melbourne", "size": 212},
+                    {"name": "Australian National University", "size": 129},
+                    {"name": "University of Sydney", "size": 208},
+                    {"name": "University of New South Wales", "size": 203}
+                    ]}
+            
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "University of Queensland", "size": 195},
+                    {"name": "Monash University", "size": 222},
+                    {"name": "University of Technology, Sydney", "size": 160},
+                    {"name": "Queensland University of Technology", "size": 184},
+                    {"name": "Griffith University", "size": 177}
+                    ]},
+            {
+                "name": "New Zealand",
+                "children": [
+                    {"name": "University of Auckland", "size": 173},
+                    {"name": "University of Otago", "size": 135}
+                    ]}
+            
+        ]},
+{
+        "name": "Technology Challengers",
+        "children": [
+            {
+                "name": "Australia",
+                "children": [
+                    {"name": "University of Western Australia", "size": 136},
+                    {"name": "University of Adelaide", "size": 146},
+                    {"name": "Curtin University", "size": 175},
+                    {"name": "RMIT University", "size": 179}
+                    ]}
+            
+                        
+        ]}
+    
     ]}
 ]}
 
