@@ -2144,7 +2144,7 @@
                 "name": "United States",
                 "children": [
                     {"name": "Stanford University", "size": 126},
-                    {"name": "Massachusetts Institute of Technology", "size": 105},
+                    {"name": "Massachusetts Institute of Technology", "size": 105, "fill":"#105908"},
                     {"name": "Harvard University", "size": 143},
                     {"name": "Princeton University", "size": 89},
                     {"name": "Yale University", "size": 110},
@@ -2465,7 +2465,7 @@
                         
         ]},
  
-{
+    {
         "name": "Regional Stars",
         "children": [
             {
