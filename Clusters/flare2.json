@@ -1872,7 +1872,7 @@
                     ]}
         ]},
     {
-        "name": "Core Strengths",
+        "name": "Core Strengths", "fill": "#1e00ff",
         "children": [
             {
                 "name": "Canada",
