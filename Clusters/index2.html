@@ -61,7 +61,7 @@ d3.json("flare2.json", function(error, root) {
     .data(nodes)
     .enter().append("circle")
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-      .style("fill", d.data.fill;)
+      .style("fill", function(d) { return d.children ? color(d.depth) : d.data.fill; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 
   var text = g.selectAll("text")
