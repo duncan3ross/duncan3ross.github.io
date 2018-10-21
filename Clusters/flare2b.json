@@ -1,0 +1,2484 @@
+{
+ "name": "flare",
+ "fill":"#ffffff",  "children": [
+ {
+   "name": "Africa",
+   "fill":"#ffffff",  "children": [
+    {
+        "name": "Asian Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Egypt",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Cairo University", "size": 483}
+                    ]},
+            {   "name": "South Africa",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of the Witwatersrand", "size": 168},
+                    {"name": "University of Pretoria", "size": 188, "fill":"#ff0026"}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Egypt",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Beni-Suef University", "size": 257},
+                    {"name": "Kafrelsheikh University", "size": 258}
+                    ]},
+            {   "name": "South Africa",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Stellenbosch University", "size": 154}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Algeria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Béjaïa", "size": 206}
+                    ]},
+            {   "name": "Egypt",
+                "fill":"#ffffff",  "children": [
+                    {"name": "American University in Cairo", "size": 77, "fill":"#ff0026"},
+                    {"name": "Benha University", "size": 299},
+                    {"name": "Mansoura University", "size": 369},
+                    {"name": "Suez Canal University", "size": 197},
+                    {"name": "Alexandria University", "size": 418},
+                    {"name": "Fayoum University", "size": 173},
+                    {"name": "Sohag University", "size": 221},
+                    {"name": "Tanta University", "size": 372},
+                    {"name": "Assiut University", "size": 281},
+                    {"name": "Helwan University", "size": 393},
+                    {"name": "Menoufia University", "size": 286},
+                    {"name": "Zagazig University", "size": 367}
+            
+            ]},
+            {
+                "name": "Ghana",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Ghana", "size": 192}
+                    ]},
+            {
+                "name": "Morocco",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Marrakech Cadi Ayyad", "size": 292}
+                    ]},
+            {
+                "name": "Nigeria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Covenant University", "size": 96, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "South Africa",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of KwaZulu-Natal", "size": 188},
+                    {"name": "University of Johannesburg", "size": 159},
+                    {"name": "University of the Western Cape", "size": 145}
+                    ]},
+            {
+                "name": "Tanzania",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Dar es Salaam", "size": 159}
+                    ]},
+            {
+                "name": "Tunisia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Sfax", "size": 182}
+                    ]},
+            {
+                "name": "Uganda",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Makerere University", "size": 196}
+                    ]}
+        ]},
+{
+        "name": "Emerging Talents",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Algeria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Badji Mokhtar University – Annaba", "size": 201},
+                    {"name": "University of Constantine 1", "size": 183},
+                    {"name": "University of Sciences and Technology Houari Boumediene", "size": 188},
+                    {"name": "University of Tlemcen", "size": 210}
+                    ]},
+            {   "name": "Egypt",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ain Shams University", "size": 414},
+                    {"name": "Al-Azhar University", "size": 564},
+                    {"name": "Minia University", "size": 242},
+                    {"name": "South Valley University", "size": 215}
+                    ]},
+            {
+                "name": "Kenya",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Nairobi", "size": 269}
+                    ]},
+            {
+                "name": "Morocco",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Mohammed V University of Rabat", "size": 274},
+                    {"name": "Sidi Mohamed Ben Abdellah University", "size": 306}
+                    ]},
+            {
+                "name": "Nigeria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Ibadan", "size": 159},
+                    {"name": "University of Nigeria Nsukka", "size": 180}
+                    ]},
+            {
+                "name": "South Africa",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tshwane University of Technology", "size": 206},
+                    {"name": "University of South Africa", "size": 404}
+                    ]},
+            {
+                "name": "Tunisia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Monastir", "size": 145},
+                    {"name": "University of Tunis El Manar", "size": 185}
+                    ]}
+        ]},
+{
+        "name": "Lifescience Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "South Africa",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Cape Town", "size": 148}
+                    ]}
+        ]}
+    ]},
+{
+   "name": "Asia",
+   "fill":"#ffffff",  "children": [
+    {
+        "name": "Asian Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Huazhong University of Science and Technology", "size": 237, "fill":"#ff0026"},
+                    {"name": "Wuhan University", "size": 223},
+                    {"name": "Harbin Institute of Technology", "size": 173},
+                    {"name": "Tongji University", "size": 191},
+                    {"name": "Beihang University", "size": 171},
+                    {"name": "Tianjin University", "size": 182},
+                    {"name": "Xiamen University", "size": 201},
+                    {"name": "Xi’an Jiaotong University", "size": 184},
+                    {"name": "Beijing Institute of Technology", "size": 170}
+                    ]},
+            {   "name": "India",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Indian Institute of Science", "size": 63},
+                    {"name": "Indian Institute of Technology Bombay", "size": 100},
+                    {"name": "Indian Institute of Technology Roorkee", "size": 89},
+                    {"name": "Indian Institute of Technology Delhi", "size": 90},
+                    {"name": "Indian Institute of Technology Kanpur", "size": 81},
+                    {"name": "Indian Institute of Technology Kharagpur", "size": 96},
+                    {"name": "Banaras Hindu University", "size": 110},
+                    {"name": "Indian Institute of Technology Madras", "size": 94}
+            
+            ]},
+            {   "name": "Iran",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Tehran", "size": 235}
+            
+            ]},
+            {   "name": "Japan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tokyo Institute of Technology", "size": 98},
+                    {"name": "Hokkaido University", "size": 134},
+                    {"name": "Kyushu University", "size": 136},
+                    {"name": "University of Tsukuba", "size": 129, "fill":"#ff0026"},
+                    {"name": "Hiroshima University", "size": 121},
+                    {"name": "Keio University", "size": 186},
+                    {"name": "Kobe University", "size": 125},
+                    {"name": "Waseda University", "size": 223},
+                    {"name": "Suwa University of Science", "size": 138},
+                    {"name": "Ritsumeikan University", "size": 180}
+            
+            ]},
+            {   "name": "Malaysia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Universiti Sains Malaysia", "size": 146}
+            
+            ]}, 
+            {   "name": "Philippines",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of the Philippines", "size": 213}
+            
+            ]},
+            {   "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Hanyang University", "size": 141, "fill":"#ff0026"}
+            
+            ]},
+            {   "name": "Taiwan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National Taiwan University of Science and Technology (Taiwan Tech)", "size": 89},
+                    {"name": "National Tsing Hua University", "size": 126},
+                    {"name": "National Cheng Kung University (NCKU)", "size": 143},
+                    {"name": "National Chiao Tung University", "size": 109},
+                    {"name": "National Taiwan Normal University", "size": 103, "fill":"#ff0026"},
+                    {"name": "National Central University", "size": 106}
+            
+            ]},
+            {   "name": "Thailand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "chulalongkorn University", "size": 191}
+            
+            ]},
+            {   "name": "Turkey",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Istanbul Technical University", "size": 185},
+                    {"name": "Middle East Technical University", "size": 165}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Southern University of Science and Technology (SUSTech)", "size": 45},
+                    {"name": "Nankai University", "size": 168},
+                    {"name": "Hunan University", "size": 206},
+                    {"name": "Renmin University of China", "size": 158},
+                    {"name": "Soochow University", "size": 206},
+                    {"name": "South China University of Technology", "size": 206},
+                    {"name": "Southeast University", "size": 181},
+                    {"name": "Central South University", "size": 230},
+                    {"name": "Dalian University of Technology", "size": 197},
+                    {"name": "East China Normal University", "size": 158, "fill":"#ff0026"},
+                    {"name": "East China University of Science and Technology", "size": 146},
+                    {"name": "Fuzhou University", "size": 186},
+                    {"name": "Nanjing Normal University", "size": 163},
+                    {"name": "Shenzhen University", "size": 184, "fill":"#ff0026"},
+                    {"name": "Sichuan University", "size": 244},
+                    {"name": "Shantou University", "size": 99}
+                    ]},
+            {   "name": "India",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Indian Institute of Technology Indore", "size": 33},
+                    {"name": "Indian Institute of Technology Bhubaneswar", "size": 31}
+            
+            ]},
+            {   "name": "Iran",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Babol Noshirvani University of Technology", "size": 73},
+                    {"name": "University of Kashan", "size": 88}
+            
+            ]},
+            {   "name": "Israel",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ben-Gurion University of the Negev", "size": 123},
+                    {"name": "University of Haifa", "size": 133}
+            
+            ]},
+            {   "name": "Japan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tokyo Metropolitan University", "size": 95},
+                    {"name": "Rikkyo University", "size": 143}
+            
+            ]},
+            {   "name": "Jordan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Jordan University of Science and Technology", "size": 149}
+            
+            ]},
+            {   "name": "Lebanon",
+                "fill":"#ffffff",  "children": [
+                    {"name": "American University of Beirut", "size": 90},
+                    {"name": "Lebanese American University", "size": 87}
+            
+            ]},
+            {   "name": "Pakistan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "COMSATS Institute of Information Technology", "size": 177, "fill":"#ff0026"},
+                    {"name": "National University of Sciences and Technology", "size": 102}
+            
+            ]},
+            {   "name": "Philippines",
+                "fill":"#ffffff",  "children": [
+                    {"name": "De La Salle University", "size": 132, "fill":"#ff0026"}
+            
+            ]},
+            {   "name": "Qatar",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Qatar University", "size": 119, "fill":"#ff0026"}
+            
+            ]},
+            {   "name": "Saudi Arabia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Alfaisal University", "size": 49},
+                    {"name": "King Saud University", "size": 197},
+                    {"name": "King Fahd University of Petroleum and Minerals", "size": 80}
+            
+            ]},
+            {   "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ulsan National Institute of Science and Technology", "size": 65},
+                    {"name": "Kyung Hee University", "size": 148, "fill":"#ff0026"},
+                    {"name": "Sejong University", "size": 109},
+                    {"name": "Yeungnam University", "size": 142}
+            
+            ]},
+            {   "name": "Turkey",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Sabancı University", "size": 60},
+                    {"name": "Koç University", "size": 73},
+                    {"name": "Bilkent University", "size": 103},
+                    {"name": "Boğaziçi University", "size": 111}
+            
+            ]},
+            {   "name": "United Arab Emirates",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Khalifa University", "size": 57, "fill":"#ff0026"}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Shandong University", "size": 215},
+                    {"name": "fill":"#ffffff",  "china Agricultural University", "size": 138},
+                    {"name": "Nanjing Agricultural University", "size": 161},
+                    {"name": "Nanjing Medical University", "size": 117},
+                    {"name": "Northwestern Polytechnical University", "size": 165},
+                    {"name": "Capital Medical University", "size": 113},
+                    {"name": "fill":"#ffffff",  "china University of Geosciences, Wuhan", "size": 169},
+                    {"name": "fill":"#ffffff",  "china University of Mining and Technology", "size": 213},
+                    {"name": "fill":"#ffffff",  "china Pharmaceutical University", "size": 125},
+                    {"name": "fill":"#ffffff",  "chongqing University", "size": 216},
+                    {"name": "Jilin University", "size": 263},
+                    {"name": "Jinan University", "size": 189, "fill":"#ff0026"},
+                    {"name": "Northwest University", "size": 152},
+                    {"name": "NorthWest A&F University", "size": 172},
+                    {"name": "Ocean University of China", "size": 179},
+                    {"name": "University of Science and Technology Beijing", "size": 155},
+                    {"name": "Shanghai University", "size": 190},
+                    {"name": "Southern Medical University", "size": 136},
+                    {"name": "Xidian University", "size": 182},
+                    {"name": "Huaqiao University", "size": 172},
+                    {"name": "North China Electric Power University", "size": 174},
+                    {"name": "Shanghai Maritime University", "size": 152},
+                    {"name": "Southwest Jiaotong University", "size": 190},
+                    {"name": "Yanshan University", "size": 179}
+                    ]},
+            {   "name": "India",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Savitribai Phule Pune University", "size": 78},
+                    {"name": "Amrita University", "size": 119, "fill":"#ff0026"},
+                    {"name": "National Institute of Technology Rourkela", "size": 77},
+                    {"name": "Panjab University", "size": 135},
+                    {"name": "Indian Institute of Technology (Indian School of Mines) Dhanbad", "size": 85},
+                    {"name": "Indian Institute of Science Education and Research Kolkata", "size": 34},
+                    {"name": "National Institute of Technology, Tiruchirappalli", "size": 77},
+                    {"name": "Osmania University", "size": 109},
+                    {"name": "Thapar University", "size": 86},
+                    {"name": "Maharaja Sayajirao University of Baroda", "size": 184}
+            
+            ]},
+            {
+                "name": "Indonesia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Indonesia", "size": 202},
+                    {"name": "Bandung Institute of Technology (ITB)", "size": 136},
+                    {"name": "Universitas Gadjah Mada", "size": 202},
+                    {"name": "Sepuluh Nopember Institute of Technology", "size": 129}
+                    ]},
+            {
+                "name": "Iran",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Amirkabir University of Technology", "size": 109},
+                    {"name": "Iran University of Science and Technology", "size": 119},
+                    {"name": "Isfahan University of Technology", "size": 99},
+                    {"name": "Mashhad University of Medical Sciences", "size": 94},
+                    {"name": "Sharif University of Technology", "size": 97},
+                    {"name": "University of Tabriz", "size": 153},
+                    {"name": "Tehran University of Medical Sciences", "size": 110},
+                    {"name": "K.N. Toosi University of Technology", "size": 81},
+                    {"name": "Shahid Beheshti University of Medical Sciences", "size": 112},
+                    {"name": "Alzahra University", "size": 102}
+                    ]},
+            {
+                "name": "Japan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Fujita Health University", "size": 53},
+                    {"name": "Tokyo Medical and Dental University (TMDU)", "size": 54},
+                    {"name": "The University of Aizu", "size": 34},
+                    {"name": "Kanazawa University", "size": 102},
+                    {"name": "Saitama University", "size": 92},
+                    {"name": "Sapporo Medical University", "size": 36},
+                    {"name": "Tokyo Medical University", "size": 36},
+                    {"name": "Gunma University", "size": 79},
+                    {"name": "Hosei University", "size": 174},
+                    {"name": "Iwate University", "size": 75},
+                    {"name": "Kanagawa University", "size": 136},
+                    {"name": "Meiji University", "size": 179},
+                    {"name": "Nara Medical University", "size": 34},
+                    {"name": "University of the Ryukyus", "size": 90},
+                    {"name": "Saitama Medical University", "size": 43},
+                    {"name": "Tokyo City University", "size": 88}
+                    ]},
+            {
+                "name": "Malaysia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Universiti Tunku Abdul Rahman (UTAR)", "size": 138},
+                    {"name": "Universiti Teknologi Malaysia", "size": 133},
+                    {"name": "Universiti Teknologi Petronas", "size": 80},
+                    {"name": "Universiti Tenaga Nasional (UNITEN)", "size": 88}
+                    ]},
+            {
+                "name": "Nepal",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tribhuvan University", "size": 599}
+                    ]},
+            {
+                "name": "Oman",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Sultan Qaboos University", "size": 87}
+                    ]},
+            {
+                "name": "Pakistan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Bahauddin Zakariya University", "size": 156},
+                    {"name": "University of Engineering & Technology (UET) Lahore", "size": 111}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "King Saud bin Abdulaziz University for Health Sciences", "size": 90}
+                    ]},
+            {
+                "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Gwangju Institute of Science and Technology", "size": 44},
+                    {"name": "fill":"#ffffff",  "chung-Ang University", "size": 117},
+                    {"name": "University of Ulsan", "size": 116},
+                    {"name": "Ewha Womans University", "size": 122},
+                    {"name": "Konkuk University", "size": 119},
+                    {"name": "Pusan National University", "size": 156},
+                    {"name": "Sogang University", "size": 98},
+                    {"name": "fill":"#ffffff",  "chonnam National University", "size": 152},
+                    {"name": "Kyungpook National University", "size": 158},
+                    {"name": "Hallym University", "size": 91},
+                    {"name": "Kookmin University", "size": 131}
+                    ]},
+            {
+                "name": "Sri Lanka",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Colombo", "size": 171}
+                    ]},
+            {
+                "name": "Taiwan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "china Medical University, Taiwan", "size": 87, "fill":"#ff0026"},
+                    {"name": "National Yang-Ming University", "size": 65},
+                    {"name": "Taipei Medical University", "size": 76, "fill":"#ff0026"},
+                    {"name": "fill":"#ffffff",  "chang Gung University", "size": 86},
+                    {"name": "National Sun Yat-Sen University", "size": 97},
+                    {"name": "Asia University, Taiwan", "size": 110},
+                    {"name": "National Dong Hwa University", "size": 100},
+                    {"name": "National Taipei University", "size": 92},
+                    {"name": "National Taiwan Ocean University", "size": 93},
+                    {"name": "Tamkang University", "size": 164},
+                    {"name": "Yuan Ze University", "size": 90}
+                    ]},
+            {
+                "name": "Thailand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "chiang Mai University", "size": 191},
+                    {"name": "Naresuan University", "size": 152},
+                    {"name": "Thammasat University", "size": 181}
+                    ]},
+            {
+                "name": "Turkey",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Atılım University", "size": 87},
+                    {"name": "Erciyes University", "size": 195},
+                    {"name": "Gebze Technical University", "size": 81}
+                    ]},
+            {
+                "name": "United Arab Emirates",
+                "fill":"#ffffff",  "children": [
+                    {"name": "United Arab Emirates University", "size": 86, "fill":"#ff0026"},
+                    {"name": "American University of Sharjah", "size": 75, "fill":"#ff0026"}
+                    ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Nanjing University of Information Science and Technology", "size": 138}
+            ]},
+            {   "name": "Hong Kong",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Hong Kong Baptist University", "size": 104, "fill":"#ff0026"}
+            
+            ]},
+            {
+                "name": "Israel",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Bar-Ilan University", "size": 128}
+                    ]},
+            {
+                "name": "Macao",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Macau", "size": 99, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "King Abdulaziz University", "size": 181, "fill":"#ff0026"}
+                    ]}
+            
+        ]},
+    {
+        "name": "Emerging Talents",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "china University of Geosciences, Beijing", "size": 134},
+                    {"name": "Huazhong Agricultural University", "size": 161},
+                    {"name": "Nanjing Tech University", "size": 178},
+                    {"name": "Northeast Normal University", "size": 159},
+                    {"name": "Beijing Jiaotong University", "size": 158},
+                    {"name": "fill":"#ffffff",  "china University of Petroleum, Beijing", "size": 122},
+                    {"name": "Jiangsu University", "size": 185},
+                    {"name": "Northeastern University", "size": 183},
+                    {"name": "Wuhan University of Technology", "size": 225},
+                    {"name": "Xiangtan University", "size": 175},
+                    {"name": "Yangzhou University", "size": 190},
+                    {"name": "Guangxi University", "size": 184},
+                    {"name": "Harbin Engineering University", "size": 155},
+                    {"name": "University of South China", "size": 148}
+                    ]},
+            {   "name": "India",
+                "fill":"#ffffff",  "children": [
+                    {"name": "JSS Academy of Higher Education and Research", "size": 73},
+                    {"name": "University of Delhi", "size": 151},
+                    {"name": "Indian Institute of Science Education and Research, Pune", "size": 33},
+                    {"name": "Indian Institute of Technology Guwahati", "size": 74},
+                    {"name": "Indian Institute of Technology Hyderabad", "size": 44},
+                    {"name": "Jadavpur University", "size": 107},
+                    {"name": "Tezpur University", "size": 58},
+                    {"name": "Acharya Nagarjuna University", "size": 68},
+                    {"name": "Aligarh Muslim University", "size": 133},
+                    {"name": "Birla Institute of Technology and Science, Pilani", "size": 112},
+                    {"name": "Jamia Millia Islamia", "size": 109},
+                    {"name": "Pondicherry University", "size": 78},
+                    {"name": "Sri Venkateswara University", "size": 88},
+                    {"name": "VIT University", "size": 175},
+                    {"name": "Amity University", "size": 165},
+                    {"name": "Andhra University", "size": 98},
+                    {"name": "Annamalai University", "size": 165},
+                    {"name": "Cochin University of Science and Technology", "size": 90},
+                    {"name": "G.B. Pant University of Agriculture & Technology, Pantnagar", "size": 66},
+                    {"name": "GITAM University", "size": 127},
+                    {"name": "University of Kerala", "size": 90},
+                    {"name": "KIIT University", "size": 140},
+                    {"name": "Manipal University", "size": 158, "fill":"#ff0026"},
+                    {"name": "University of Mysore", "size": 89},
+                    {"name": "PSG College of Technology", "size": 91},
+                    {"name": "SASTRA University", "size": 114},
+                    {"name": "Sathyabama University", "size": 126},
+                    {"name": "SRM University", "size": 217},
+                    {"name": "Tamil Nadu Agricultural University", "size": 76}
+                    ]},
+            {
+                "name": "Indonesia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Bogor Agricultural University", "size": 151}
+                    ]},
+            {
+                "name": "Iran",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Shiraz University of Technology", "size": 38},
+                    {"name": "Azarbaijan Shahid Madani University", "size": 79},
+                    {"name": "Ferdowsi University of Mashhad", "size": 152},
+                    {"name": "University of Guilan", "size": 128},
+                    {"name": "Iran University of Medical Sciences", "size": 92},
+                    {"name": "University of Isfahan", "size": 113},
+                    {"name": "University of Mazandaran", "size": 114},
+                    {"name": "Shahid Beheshti University", "size": 135},
+                    {"name": "Shiraz University", "size": 117},
+                    {"name": "University of Birjand", "size": 106},
+                    {"name": "Kharazmi University", "size": 114},
+                    {"name": "Shahid Bahonar University of Kerman", "size": 120},
+                    {"name": "Shahrood University of Technology", "size": 91},
+                    {"name": "Urmia University", "size": 116},
+                    {"name": "Yazd University", "size": 116},
+                    {"name": "University of Zanjan", "size": 102}
+                    ]},
+            {
+                "name": "Iraq",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Baghdad", "size": 258}
+                    ]},
+            {
+                "name": "Japan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Teikyo University", "size": 153},
+                    {"name": "fill":"#ffffff",  "chiba University", "size": 117},
+                    {"name": "Juntendo University", "size": 66},
+                    {"name": "Kindai University", "size": 179, "fill":"#ff0026"},
+                    {"name": "Nippon Medical School", "size": 28},
+                    {"name": "Yokohama City University", "size": 70},
+                    {"name": "Aichi Medical University", "size": 35},
+                    {"name": "Hamamatsu University School of Medicine", "size": 34},
+                    {"name": "Hyogo College of Medicine", "size": 29},
+                    {"name": "Jikei University School of Medicine", "size": 32},
+                    {"name": "Kagawa University", "size": 80},
+                    {"name": "Kansai Medical University", "size": 29},
+                    {"name": "Kochi University", "size": 74},
+                    {"name": "Kumamoto University", "size": 101},
+                    {"name": "Kyushu Institute of Technology (Kyutech)", "size": 75},
+                    {"name": "Nagasaki University", "size": 95},
+                    {"name": "Nagoya City University", "size": 66},
+                    {"name": "Niigata University", "size": 111},
+                    {"name": "Okayama University", "size": 114},
+                    {"name": "Osaka City University", "size": 91},
+                    {"name": "Shinshu University", "size": 103},
+                    {"name": "Toho University", "size": 71},
+                    {"name": "Tokushima University", "size": 86},
+                    {"name": "Tokyo University of Agriculture and Technology", "size": 76},
+                    {"name": "Toyohashi University of Technology (TUT)", "size": 48},
+                    {"name": "Yamagata University", "size": 94},
+                    {"name": "University of Yamanashi", "size": 68},
+                    {"name": "Yokohama National University", "size": 99},
+                    {"name": "Akita University", "size": 71},
+                    {"name": "Aoyama Gakuin University", "size": 139},
+                    {"name": "fill":"#ffffff",  "chiba Institute of Technology", "size": 98},
+                    {"name": "fill":"#ffffff",  "chubu University", "size": 112},
+                    {"name": "fill":"#ffffff",  "chuo University", "size": 163},
+                    {"name": "Doshisha University", "size": 168, "fill":"#ff0026"},
+                    {"name": "Ehime University", "size": 97},
+                    {"name": "The University of Electro-Communications", "size": 69},
+                    {"name": "University of Fukui", "size": 70},
+                    {"name": "Gifu University", "size": 84},
+                    {"name": "University of Hyogo", "size": 81},
+                    {"name": "Ibaraki University", "size": 90},
+                    {"name": "Kagoshima University", "size": 102},
+                    {"name": "Kansai University", "size": 174},
+                    {"name": "Kitasato University", "size": 92},
+                    {"name": "Kogakuin University", "size": 80},
+                    {"name": "Kwansei Gakuin University", "size": 154},
+                    {"name": "Kyoto Institute of Technology", "size": 63},
+                    {"name": "Meijo University", "size": 124},
+                    {"name": "University of Miyazaki", "size": 74},
+                    {"name": "Muroran Institute of Technology", "size": 57},
+                    {"name": "Nagaoka University of Technology", "size": 48},
+                    {"name": "Nagoya Institute of Technology", "size": 75},
+                    {"name": "Ochanomizu University", "size": 54},
+                    {"name": "Oita University", "size": 75},
+                    {"name": "Osaka Prefecture University", "size": 88},
+                    {"name": "Saga University", "size": 83},
+                    {"name": "Shibaura Institute of Technology Tokyo", "size": 85},
+                    {"name": "Shimane University", "size": 78},
+                    {"name": "Shizuoka University", "size": 99},
+                    {"name": "University of Shizuoka", "size": 54},
+                    {"name": "Showa University", "size": 60},
+                    {"name": "Sophia University", "size": 115},
+                    {"name": "Tokai University", "size": 173, "fill":"#ff0026"},
+                    {"name": "Tokyo University of Agriculture", "size": 110},
+                    {"name": "Tokyo Denki University", "size": 96},
+                    {"name": "Tokyo University of Marine Science and Technology", "size": 51},
+                    {"name": "Tottori University", "size": 78},
+                    {"name": "University of Toyama", "size": 96},
+                    {"name": "Toyo University", "size": 174, "fill":"#ff0026"},
+                    {"name": "Utsunomiya University", "size": 70},
+                    {"name": "Yamaguchi University", "size": 102}
+                    ]},
+            {
+                "name": "Jordan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Jordan", "size": 176},
+                    {"name": "Hashemite University", "size": 129},
+                    {"name": "Yarmouk University", "size": 187}
+                    ]},
+            {
+                "name": "Kazakhstan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Al-Farabi Kazakh National University", "size": 130, "fill":"#ff0026"},
+                    {"name": "L.N. Gumilyov Eurasian National University", "size": 127, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Kuwait",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Kuwait University", "size": 192}
+                    ]},
+            {
+                "name": "Malaysia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Universiti Kebangsaan Malaysia", "size": 137},
+                    {"name": "Universiti Putra Malaysia", "size": 154},
+                    {"name": "Universiti Utara Malaysia", "size": 114},
+                    {"name": "Universiti Teknologi MARA", "size": 233},
+                    {"name": "Universiti Malaysia Sarawak (UNIMAS)", "size": 124}
+                    ]},
+            {
+                "name": "Pakistan",
+                "fill":"#ffffff",  "children": [
+                   {"name": "University of Agriculture, Faisalabad", "size": 148},
+                    {"name": "Government College University Lahore", "size": 94},
+                    {"name": "University of Lahore", "size": 157},
+                    {"name": "PMAS Arid Agriculture University Rawalpindi", "size": 104},
+                    {"name": "University of Veterinary and Animal Sciences, Lahore", "size": 72}
+                    ]},
+            {
+                "name": "Saudi Arabia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Imam Abdulrahman Bin Faisal University", "size": 169, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ajou University", "size": 106},
+                    {"name": "fill":"#ffffff",  "chonbuk National University", "size": 145},
+                    {"name": "Inha University", "size": 139},
+                    {"name": "University of Seoul", "size": 94},
+                    {"name": "fill":"#ffffff",  "chungnam National University", "size": 150},
+                    {"name": "Incheon National University", "size": 117, "fill":"#ff0026"},
+                    {"name": "Seoul National University of Science and Technology (SeoulTech)", "size": 111}
+                    ]},
+            {
+                "name": "Taiwan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "chung Yuan Christian University", "size": 126},
+                    {"name": "Fu Jen Catholic University", "size": 152},
+                    {"name": "Kaohsiung Medical University", "size": 83},
+                    {"name": "National Chengchi University", "size": 121},
+                    {"name": "National Chung Hsing University", "size": 123},
+                    {"name": "National Taipei University of Technology", "size": 100},
+                    {"name": "fill":"#ffffff",  "chaoyang University of Technology", "size": 130},
+                    {"name": "Feng Chia University", "size": 140},
+                    {"name": "I-Shou University", "size": 128},
+                    {"name": "Ming Chuan University", "size": 137},
+                    {"name": "National Changhua University of Education", "size": 90},
+                    {"name": "National Chiayi University", "size": 111},
+                    {"name": "National Chung Cheng University", "size": 119},
+                    {"name": "National University of Kaohsiung", "size": 74}
+                    ]},
+            {
+                "name": "Thailand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Mahidol University", "size": 169, "fill":"#ff0026"},
+                    {"name": "King Mongkut’s University of Technology Thonburi", "size": 128},
+                    {"name": "Suranaree University of Technology", "size": 122},
+                    {"name": "Kasetsart University", "size": 261},
+                    {"name": "Khon Kaen University", "size": 190},
+                    {"name": "King Mongkut’s Institute of Technology Ladkrabang", "size": 151},
+                    {"name": "King Mongkut's University of Technology North Bangkok", "size": 159},
+                    {"name": "Mahasarakham University", "size": 208},
+                    {"name": "Prince of Songkla University", "size": 203},
+                    {"name": "Srinakharinwirot University", "size": 152}
+                    ]},
+            {
+                "name": "Turkey",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Hacettepe University", "size": 206},
+                    {"name": "Anadolu University", "size": 1188},
+                    {"name": "Istanbul University", "size": 305},
+                    {"name": "Akdeniz University", "size": 224},
+                    {"name": "Ankara University", "size": 263},
+                    {"name": "Bahçeşehir University", "size": 118, "fill":"#ff0026"},
+                    {"name": "Cukurova University", "size": 203},
+                    {"name": "Dokuz Eylül University", "size": 252},
+                    {"name": "Gazi University", "size": 282},
+                    {"name": "Izmir Institute of Technology", "size": 70},
+                    {"name": "Marmara University", "size": 269},
+                    {"name": "Ondokuz Mayis University", "size": 183},
+                    {"name": "TOBB University of Economics and Technology", "size": 73},
+                    {"name": "Yeditepe University", "size": 140}
+                    ]},
+            {
+                "name": "United Arab Emirates",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Sharjah", "size": 118}
+                    ]}
+                        
+        ]},
+    {
+        "name": "International Powerhouse",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tsinghua University", "size": 192, "fill":"#ff0026"},
+                    {"name": "Peking University", "size": 206}
+                    ]},
+            {   "name": "Hong Kong",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Hong Kong", "size": 134},
+                    {"name": "fill":"#ffffff",  "chinese University of Hong Kong", "size": 133, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Singapore",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National University of Singapore", "size": 175},
+                    {"name": "Nanyang Technological University, Singapore", "size": 160, "fill":"#ff0026"}
+                    ]}
+            
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Israel",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Hebrew University of Jerusalem", "size": 128},
+                    {"name": "Tel Aviv University", "size": 151}
+                    ]}
+        ]},
+    {
+        "name": "Regional Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Zhejiang University", "size": 189, "fill":"#ff0026"},
+                    {"name": "Fudan University", "size": 185, "fill":"#ff0026"},
+                    {"name": "Shanghai Jiao Tong University", "size": 201}
+                    ]},
+            {   "name": "Japan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "The University of Tokyo", "size": 160, "fill":"#ff0026"},
+                    {"name": "Kyoto University", "size": 149, "fill":"#ff0026"},
+                    {"name": "Osaka University", "size": 152},
+                    {"name": "Tohoku University", "size": 132},
+                    {"name": "Nagoya University", "size": 125}
+                    ]},
+            {
+                "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Seoul National University", "size": 161},
+                    {"name": "Sungkyunkwan University (SKKU)", "size": 152},
+                    {"name": "Korea University", "size": 150},
+                    {"name": "Yonsei University (Seoul campus)", "size": 133, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Taiwan",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National Taiwan University", "size": 178}
+                    ]}
+                        
+        ]},
+    {
+        "name": "Technology Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "china",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Science and Technology of China", "size": 127},
+                    {"name": "Nanjing University", "size": 185},
+                    {"name": "Sun Yat-sen University", "size": 225}
+                    ]},
+            {   "name": "Hong Kong",
+                "fill":"#ffffff",  "children": [
+                    {"name": "The Hong Kong University of Science and Technology", "size": 101, "fill":"#ff0026"},
+                    {"name": "City University of Hong Kong", "size": 99},
+                    {"name": "Hong Kong Polytechnic University", "size": 148, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Israel",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Technion Israel Institute of Technology", "size": 121}
+                    ]},
+            {
+                "name": "Malaysia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Malaya", "size": 130}
+                    ]},
+            {
+                "name": "South Korea",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Korea Advanced Institute of Science and Technology (KAIST)", "size": 97, "fill":"#ff0026"},
+                    {"name": "Pohang University of Science and Technology", "size": 56, "fill":"#ff0026"}
+                    ]}
+            
+                        
+        ]}
+    
+    ]},
+{
+   "name": "Europe",
+   "fill":"#ffffff",  "children": [
+    {
+        "name": "Asian Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Czech Republic",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "charles University in Prague", "size": 221}
+                    ]},
+            {   "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "École Normale Supérieure de Lyon", "size": 46},
+                    {"name": "Aix-Marseille University", "size": 262},
+                    {"name": "University of Lille", "size": 258},
+                    {"name": "University of Strasbourg", "size": 213},
+                    {"name": "École Normale Supérieure de Cachan", "size": 42}
+            
+            ]},
+            {   "name": "Poland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Jagiellonian University", "size": 205},
+                    {"name": "University of Warsaw", "size": 223},
+                    {"name": "Warsaw University of Technology", "size": 177}
+            
+            ]},
+            {   "name": "Portugal",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Porto", "size": 178}
+            
+            ]},
+            {   "name": "Russian Federation",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Moscow Institute of Physics and Technology", "size": 75, "fill":"#ff0026"},
+                    {"name": "National Research Nuclear University MEPhI", "size": 82, "fill":"#ff0026"},
+                    {"name": "Novosibirsk State University", "size": 85},
+                    {"name": "Saint Petersburg State University", "size": 147, "fill":"#ff0026"},
+                    {"name": "Tomsk Polytechnic University", "size": 98, "fill":"#ff0026"},
+                    {"name": "Tomsk State University", "size": 87},
+                    {"name": "Kazan Federal University", "size": 161},
+                    {"name": "Peter the Great St Petersburg Polytechnic University", "size": 135, "fill":"#ff0026"},
+                    {"name": "Bauman Moscow State Technical University", "size": 143}
+            
+            ]}, 
+            {   "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Complutense University of Madrid", "size": 253},
+                    {"name": "Carlos III University of Madrid", "size": 130, "fill":"#ff0026"},
+                    {"name": "University of Seville", "size": 235, "fill":"#ff0026"},
+                    {"name": "Technical University of Madrid", "size": 198}
+            
+            ]},
+            {   "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Oxford Brookes University", "size": 118}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Austria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Johannes Kepler University of Linz", "size": 79}
+            ]},
+            {   "name": "Belgium",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Liège", "size": 143}
+            
+            ]},
+            {   "name": "Czech Republic",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Palacký University Olomouc", "size": 134}
+            
+            ]},
+            {   "name": "Denmark",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Roskilde University", "size": 78, "fill":"#ff0026"}
+            
+            ]},
+            {   "name": "Finland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Lappeenranta University of Technology", "size": 60}
+            
+            ]},
+            {   "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Côte d’Azur", "size": 187},
+                    {"name": "IMT Atlantique", "size": 40, "fill":"#ff0026"},
+                    {"name": "University of Bordeaux", "size": 233},
+                    {"name": "Centrale Nantes", "size": 40},
+                    {"name": "Claude Bernard University Lyon 1", "size": 161},
+                    {"name": "Université Bourgogne Franche-Comté (UBFC)", "size": 242},
+                    {"name": "University of Clermont Auvergne", "size": 185},
+                    {"name": "University of Lorraine", "size": 238},
+                    {"name": "University of Nantes", "size": 191},
+                    {"name": "National Institute of Applied Sciences of Lyon (INSA Lyon)", "size": 78},
+                    {"name": "University of Rennes 1", "size": 166},
+                    {"name": "University of Technology of Compiègne", "size": 65}
+            
+            ]},
+            {   "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Marburg", "size": 161},
+                    {"name": "University of Bayreuth", "size": 113},
+                    {"name": "Justus Liebig University Giessen", "size": 168},
+                    {"name": "University of Greifswald", "size": 102},
+                    {"name": "Leibniz University of Hanover", "size": 162},
+                    {"name": "University of Siegen", "size": 139},
+                    {"name": "Ilmenau University of Technology", "size": 79},
+                    {"name": "Otto von Guericke University of Magdeburg", "size": 120}
+            
+            ]},
+            {   "name": "Greece",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Crete", "size": 122},
+                    {"name": "National and Kapodistrian University of Athens", "size": 233, "fill":"#ff0026"},
+                    {"name": "University of the Aegean", "size": 111},
+                    {"name": "Aristotle University of Thessaloniki", "size": 215},
+                    {"name": "Athens University of Economics and Business", "size": 99},
+                    {"name": "University of Ioannina", "size": 149},
+                    {"name": "University of Patras", "size": 161}
+            
+            ]},
+            {   "name": "Italy",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Catholic University of the Sacred Heart", "size": 175},
+                    {"name": "University of Rome III", "size": 180},
+                    {"name": "University of Trieste", "size": 126},
+                    {"name": "University of Urbino Carlo Bo", "size": 119},
+                    {"name": "University of Bergamo", "size": 131},
+                    {"name": "University of Brescia", "size": 119},
+                    {"name": "University of Salento", "size": 109},
+                    {"name": "University of Udine", "size": 107},
+                    {"name": "Ca’ Foscari University of Venice", "size": 126},
+                    {"name": "University of Cagliari", "size": 166},
+                    {"name": "University of Sassari", "size": 110}
+            
+            ]},
+            {   "name": "Portugal",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Aveiro", "size": 99},
+                    {"name": "University of Coimbra", "size": 145},
+                    {"name": "NOVA University of Lisbon", "size": 141, "fill":"#ff0026"},
+                    {"name": "University of Beira Interior", "size": 83},
+                    {"name": "Catholic University of Portugal", "size": 104},
+                    {"name": "Polytechnic Institute of Porto", "size": 134}
+            
+            ]},
+            {   "name": "Republic of Ireland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Royal College of Surgeons in Ireland", "size": 46, "fill":"#ff0026"},
+                    {"name": "University College Cork", "size": 128},
+                    {"name": "Maynooth University", "size": 93, "fill":"#ff0026"},
+                    {"name": "Dublin City University", "size": 98, "fill":"#ff0026"},
+                    {"name": "University of Limerick", "size": 118}
+            
+            ]},
+            {   "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Navarra", "size": 103},
+                    {"name": "University of Valencia", "size": 225},
+                    {"name": "University of the Balearic Islands", "size": 107},
+                    {"name": "University of La Laguna", "size": 136},
+                    {"name": "Polytechnic University of Catalonia", "size": 146},
+                    {"name": "University of the Basque Country", "size": 206},
+                    {"name": "University of Deusto", "size": 93},
+                    {"name": "University of Granada", "size": 230},
+                    {"name": "Jaume I University", "size": 112},
+                    {"name": "Open University of Catalonia", "size": 141},
+                    {"name": "University of Oviedo", "size": 136},
+                    {"name": "Polytechnic University of Valencia", "size": 148},
+                    {"name": "University of Salamanca", "size": 171},
+                    {"name": "University of Santiago de Compostela", "size": 161},
+                    {"name": "University of Vigo", "size": 140},
+                    {"name": "University of Zaragoza", "size": 167},
+                    {"name": "University of Jaén", "size": 125},
+                    {"name": "King Juan Carlos University", "size": 191},
+                    {"name": "University of Murcia", "size": 173},
+                    {"name": "Pablo de Olavide University", "size": 109}
+            
+            ]},
+            {   "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "St George’s, University of London", "size": 56},
+                    {"name": "University of Portsmouth", "size": 138, "fill":"#ff0026"},
+                    {"name": "Soas, University of London", "size": 70},
+                    {"name": "University of Strathclyde", "size": 133},
+                    {"name": "University of the West of Scotland", "size": 105},
+                    {"name": "Liverpool John Moores University", "size": 136},
+                    {"name": "University of Brighton", "size": 130},
+                    {"name": "Coventry University", "size": 158, "fill":"#ff0026"},
+                    {"name": "De Montfort University", "size": 130, "fill":"#ff0026"},
+                    {"name": "Glasgow Caledonian University", "size": 113},
+                    {"name": "University of Greenwich", "size": 120},
+                    {"name": "University of Hertfordshire", "size": 132},
+                    {"name": "University of Huddersfield", "size": 122},
+                    {"name": "Kingston University", "size": 128},
+                    {"name": "University of Lincoln", "size": 107},
+                    {"name": "University of Salford", "size": 126},
+                    {"name": "Ulster University", "size": 133},
+                    {"name": "University of the West of England", "size": 144},
+                    {"name": "University of Wolverhampton", "size": 124},
+                    {"name": "University of Central Lancashire", "size": 135},
+                    {"name": "University of Derby", "size": 111},
+                    {"name": "University of Roehampton", "size": 87},
+                    {"name": "University of South Wales", "size": 128}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Austria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Leoben", "size": 55}
+            ]},
+            {   "name": "Czech Republic",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Brno University of Technology", "size": 146},
+                    {"name": "University of Chemistry and Technology, Prague", "size": 65},
+                    {"name": "Czech University of Life Sciences Prague (CULS)", "size": 130},
+                    {"name": "Czech Technical University in Prague", "size": 142},
+                    {"name": "University of Ostrava", "size": 96}
+            
+            ]},
+            {
+                "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "chemnitz University of Technology", "size": 104}
+                    ]},
+            {
+                "name": "Greece",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Democritus University of Thrace", "size": 171}
+                    ]},
+            {
+                "name": "Hungary",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Semmelweis University", "size": 103},
+                    {"name": "Eötvös Loránd University", "size": 165},
+                    {"name": "Corvinus University of Budapest", "size": 101}
+                    ]},
+            {
+                "name": "Latvia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Latvia", "size": 123, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Lithuania",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Vilnius University", "size": 129}
+                    ]},
+            {
+                "name": "Northern Cyprus",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Eastern Mediterranean University", "size": 140, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Poland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "AGH University of Science and Technology", "size": 176},
+                    {"name": "Gdańsk University of Technology", "size": 151},
+                    {"name": "Wrocław University of Science and Technology", "size": 186}
+                    ]},
+            {
+                "name": "Portugal",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Algarve", "size": 86},
+                    {"name": "ISCTE-University Institute of Lisbon", "size": 94},
+                    {"name": "University of Minho", "size": 135},
+                    {"name": "University of Trás-os-Montes and Alto Douro", "size": 82},
+                    {"name": "University of Évora", "size": 85}
+                    ]},
+            {
+                "name": "Republic of Ireland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Dublin Institute of Technology", "size": 123}
+                    ]},
+            {
+                "name": "Romania",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Bucharest University of Economic Studies", "size": 146}
+                    ]},
+            {
+                "name": "Russian Federation",
+                "fill":"#ffffff",  "children": [
+                    {"name": "RUDN University", "size": 139},
+                    {"name": "Samara University", "size": 99},
+                    {"name": "Kazan National Research Technological University", "size": 125},
+                    {"name": "Moscow Power Engineering Institute", "size": 106},
+                    {"name": "National Research Saratov State University", "size": 93},
+                    {"name": "Volgograd State Technical University", "size": 114}
+                    ]},
+            {
+                "name": "Serbia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Belgrade", "size": 315}
+                    ]},
+            {
+                "name": "Slovenia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Ljubljana", "size": 202}
+                    ]},
+            {
+                "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Alcalá", "size": 133},
+                    {"name": "University of Las Palmas de Gran Canaria", "size": 136},
+                    {"name": "Miguel Hernández University of Elche ", "size": 116},
+                    {"name": "University of Burgos", "size": 85},
+                    {"name": "University of León", "size": 110}
+                    ]},
+            {
+                "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Bradford", "size": 96},
+                    {"name": "University of Westminster", "size": 130},
+                    {"name": "University of Bedfordshire", "size": 103},
+                    {"name": "University of East London", "size": 103},
+                    {"name": "Edge Hill University", "size": 109},
+                    {"name": "Leeds Beckett University", "size": 141},
+                    {"name": "Robert Gordon University", "size": 96},
+                    {"name": "Sheffield Hallam University", "size": 157},
+                    {"name": "Staffordshire University", "size": 97},
+                    {"name": "Teesside University", "size": 107},
+                    {"name": "Birmingham City University", "size": 140, "fill":"#ff0026"},
+                    {"name": "Canterbury Christ Church University", "size": 108},
+                    {"name": "University of Chester", "size": 101},
+                    {"name": "London South Bank University", "size": 109}
+                    ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Austria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Medical University of Graz", "size": 58},
+                    {"name": "Medical University of Vienna", "size": 84},
+                    {"name": "Graz University of Technology", "size": 80},
+                    {"name": "University of Graz", "size": 143}
+            ]},
+            {   "name": "Belgium",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Antwerp", "size": 122},
+                    {"name": "Vrije Universiteit Brussel", "size": 105},
+                    {"name": "Hasselt University", "size": 72}
+            
+            ]},
+            {
+                "name": "Cyprus",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Cyprus University of Technology", "size": 55, "fill":"#ff0026"},
+                    {"name": "University of Cyprus", "size": 82, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Denmark",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Copenhagen Business School", "size": 130},
+                    {"name": "University of Southern Denmark", "size": 161}
+                    ]},
+            {
+                "name": "Estonia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Tartu", "size": 92},
+                    {"name": "Tallinn University of Technology", "size": 102}
+                    ]},
+            {
+                "name": "Finland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Tampere", "size": 97},
+                    {"name": "University of Oulu", "size": 98},
+                    {"name": "University of Eastern Finland", "size": 107},
+                    {"name": "University of Turku", "size": 112},
+                    {"name": "Tampere University of Technology", "size": 73}
+                    ]},
+            {
+                "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Montpellier University", "size": 199},
+                    {"name": "Université de Versailles Saint-Quentin-en-Yvelines", "size": 129},
+                    {"name": "CentraleSupélec", "size": 65},
+                    {"name": "Sciences Po", "size": 107}
+                    ]},
+            {
+                "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "fill":"#ffffff",  "charité - Universitätsmedizin Berlin", "size": 83},
+                    {"name": "University of Mannheim", "size": 104},
+                    {"name": "Ulm University", "size": 103},
+                    {"name": "University of Würzburg", "size": 149},
+                    {"name": "University of Konstanz", "size": 106},
+                    {"name": "University of Duisburg-Essen", "size": 207},
+                    {"name": "Bielefeld University", "size": 155},
+                    {"name": "University of Hohenheim", "size": 96},
+                    {"name": "University of Kiel", "size": 161},
+                    {"name": "University of Passau", "size": 102, "fill":"#ff0026"},
+                    {"name": "Jacobs University", "size": 33},
+                    {"name": "Johannes Gutenberg University of Mainz", "size": 179},
+                    {"name": "University of Bremen", "size": 138},
+                    {"name": "Hamburg University of Technology", "size": 86},
+                    {"name": "University of Kaiserslautern", "size": 121}
+                    ]},
+            {
+                "name": "Iceland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Iceland", "size": 90},
+                    {"name": "Reykjavík University", "size": 55}
+                    ]},
+            {
+                "name": "Italy",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Scuola Superiore Sant’Anna", "size": 27},
+                    {"name": "Vita-Salute San Raffaele University", "size": 52},
+                    {"name": "University of Naples Federico II", "size": 223},
+                    {"name": "Free University of Bozen-Bolzano", "size": 58},
+                    {"name": "University of Modena and Reggio Emilia", "size": 127},
+                    {"name": "University of Perugia", "size": 152},
+                    {"name": "University of Salerno", "size": 152},
+                    {"name": "University of Siena", "size": 110},
+                    {"name": "University of Bari Aldo Moro", "size": 173},
+                    {"name": "University of Calabria", "size": 170},
+                    {"name": "University of Ferrara", "size": 120},
+                    {"name": "University of Florence", "size": 187},
+                    {"name": "University of Genoa", "size": 153},
+                    {"name": "Marche Polytechnic University", "size": 104},
+                    {"name": "University of Milan-Bicocca", "size": 162},
+                    {"name": "University of Pavia", "size": 155},
+                    {"name": "Polytechnic University of Bari", "size": 78},
+                    {"name": "University of Rome II – Tor Vergata", "size": 186},
+                    {"name": "University of Turin", "size": 229},
+                    {"name": "Verona University", "size": 137},
+                    {"name": "University of Catania", "size": 162},
+                    {"name": "University of Palermo", "size": 169},
+                    {"name": "University of Parma", "size": 156}
+                    ]},
+            {
+                "name": "Luxembourg",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Luxembourg", "size": 70}
+                    ]},
+            {
+                "name": "Netherlands",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tilburg University", "size": 87}
+                    ]},
+            {
+                "name": "Norway",
+                "fill":"#ffffff",  "children": [
+                    {"name": "UiT The Arctic University of Norway", "size": 127},
+                    {"name": "Norwegian University of Life Sciences", "size": 75}
+                    ]},
+            {
+                "name": "Republic of Ireland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National University of Ireland, Galway", "size": 117}
+                    ]},
+            {
+                "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Rovira i Virgili", "size": 112}
+                    ]},
+            {
+                "name": "Sweden",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Swedish University of Agricultural Sciences", "size": 61},
+                    {"name": "Umeå University", "size": 129},
+                    {"name": "Örebro University", "size": 97, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Sitzerland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Bern", "size": 104},
+                    {"name": "University of Fribourg", "size": 104},
+                    {"name": "University of St Gallen", "size": 86},
+                    {"name": "University of Neuchâtel", "size": 65}
+                    ]},
+            {
+                "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Leicester", "size": 121},
+                    {"name": "University of Dundee", "size": 104},
+                    {"name": "Queen’s University Belfast", "size": 132, "fill":"#ff0026"},
+                    {"name": "Brighton and Sussex Medical School", "size": 28},
+                    {"name": "University of Essex", "size": 105, "fill":"#ff0026"},
+                    {"name": "Royal Holloway, University of London", "size": 95},
+                    {"name": "Swansea University", "size": 122},
+                    {"name": "Anglia Ruskin University", "size": 128},
+                    {"name": "Birkbeck, University of London", "size": 90},
+                    {"name": "Heriot-Watt University", "size": 95},
+                    {"name": "Aberystwyth University", "size": 84},
+                    {"name": "Aston University", "size": 99},
+                    {"name": "City, University of London", "size": 118},
+                    {"name": "University of Kent", "size": 131},
+                    {"name": "University of Stirling", "size": 95},
+                    {"name": "Bangor University", "size": 96},
+                    {"name": "Brunel University London", "size": 104, "fill":"#ff0026"},
+                    {"name": "Middlesex University", "size": 123},
+                    {"name": "Northumbria University", "size": 148},
+                    {"name": "Plymouth University", "size": 133},
+                    {"name": "Royal Veterinary College", "size": 44},
+                    {"name": "Bournemouth University", "size": 113},
+                    {"name": "University of Hull", "size": 115},
+                    {"name": "Keele University", "size": 92},
+                    {"name": "The Open University", "size": 254},
+                    {"name": "Edinburgh Napier University", "size": 105},
+                    {"name": "Manchester Metropolitan University", "size": 166},
+                    {"name": "Nottingham Trent University", "size": 153, "fill":"#ff0026"}
+                    ]}
+            
+        ]},
+    {
+        "name": "Emerging Talents",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Belarus",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Belarusian State University", "size": 170}
+                    ]},
+            {   "name": "Bulgaria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Sofia University", "size": 151}
+                    ]},
+            {
+                "name": "Croatia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Split", "size": 141},
+                    {"name": "University of Zagreb", "size": 258}
+                    ]},
+            {
+                "name": "Czech Republic",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Masaryk University", "size": 182},
+                    {"name": "University of Economics, Prague", "size": 122},
+                    {"name": "University of Pardubice", "size": 88},
+                    {"name": "Technical University of Liberec", "size": 75},
+                    {"name": "Tomas Bata University in Zlín", "size": 93},
+                    {"name": "VŠB - Technical University of Ostrava", "size": 121},
+                    {"name": "University of West Bohemia", "size": 109}
+                    ]},
+            {
+                "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "École Centrale de Lyon", "size": 44},
+                    {"name": "University of Cergy-Pontoise", "size": 131},
+                    {"name": "Normandy University", "size": 257},
+                    {"name": "Paris Nanterre University", "size": 180}
+                    ]},
+            {
+                "name": "Georgia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ivane Javakhishvili Tbilisi State University", "size": 142}
+                    ]},
+            {
+                "name": "Hungary",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Pécs", "size": 132},
+                    {"name": "University of Szeged", "size": 142},
+                    {"name": "Budapest University of Technology and Economics", "size": 139},
+                    {"name": "University of Debrecen", "size": 163}
+                    ]},
+            {
+                "name": "Latvia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Riga Technical University", "size": 102, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Lithuania",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Kaunas University of Technology", "size": 100}
+                    ]},
+            {
+                "name": "Poland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Adam Mickiewicz University", "size": 193},
+                    {"name": "University of Gdańsk", "size": 172},
+                    {"name": "University of Łódź", "size": 183},
+                    {"name": "Łodz University of Technology", "size": 130},
+                    {"name": "Nicolaus Copernicus University in Toruń", "size": 153},
+                    {"name": "University of Silesia in Katowice", "size": 159}
+                    ]},
+            {
+                "name": "Romania",
+                "fill":"#ffffff",  "children": [
+                   {"name": "Babeș-Bolyai University", "size": 192},
+                    {"name": "University of Bucharest", "size": 177},
+                    {"name": "Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca", "size": 84},
+                    {"name": "Alexandru Ioan Cuza University", "size": 152},
+                    {"name": "Grigore T. Popa University of Medicine and Pharmacy", "size": 97},
+                    {"name": "West University of Timișoara", "size": 119}
+                    ]},
+            {
+                "name": "Russian Federation",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National University of Science and Technology (MISiS)", "size": 85, "fill":"#ff0026"},
+                    {"name": "Belgorod State National Research University", "size": 117, "fill":"#ff0026"},
+                    {"name": "Novosibirsk State Technical University", "size": 112},
+                    {"name": "Far Eastern Federal University", "size": 124},
+                    {"name": "Lobachevsky State University of Nizhni Novgorod", "size": 134},
+                    {"name": "Moscow Aviation Institute", "size": 123},
+                    {"name": "Moscow Technological University", "size": 128},
+                    {"name": "National Research University of Electronic Technology (MIET)", "size": 64},
+                    {"name": "Perm National Research Polytechnic University", "size": 97},
+                    {"name": "Perm State University", "size": 111},
+                    {"name": "Pirogov Russian National Research Medical University", "size": 92},
+                    {"name": "Sechenov University", "size": 123, "fill":"#ff0026"},
+                    {"name": "Siberian Federal University", "size": 163},
+                    {"name": "Southern Federal University", "size": 132},
+                    {"name": "St Petersburg Electrotechnical University (LETI)", "size": 91, "fill":"#ff0026"},
+                    {"name": "Ural Federal University", "size": 156},
+                    {"name": "Voronezh State University", "size": 124}
+                    ]},
+            {
+                "name": "Slovakia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Comenius University in Bratislava", "size": 146},
+                    {"name": "Slovak University of Technology in Bratislava", "size": 120},
+                    {"name": "Technical University of Košice", "size": 94}
+                    ]},
+            {
+                "name": "Slovenia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Maribor", "size": 112}
+                    ]},
+            {
+                "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of A Coruña", "size": 123},
+                    {"name": "University of Alicante", "size": 166},
+                    {"name": "University of Almería", "size": 113},
+                    {"name": "University of Castilla-La Mancha", "size": 152}
+                    ]},
+            {
+                "name": "Ukraine",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Ivan Franko National University of Lviv", "size": 134},
+                    {"name": "Lviv Polytechnic National University", "size": 150},
+                    {"name": "Taras Shevchenko National University of Kyiv", "size": 149},
+                    {"name": "V.N. Karazin Kharkiv National University", "size": 126}
+                    ]}
+                        
+        ]},
+    {
+        "name": "International Powerhouse",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Belgium",
+                "fill":"#ffffff",  "children": [
+                    {"name": "KU Leuven", "size": 211}
+                    ]},
+            {   "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Paris Sciences et Lettres – PSL Research University Paris", "size": 143}
+                    ]},
+            {   "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "LMU Munich", "size": 188, "fill":"#ff0026"},
+                    {"name": "Technical University of Munich", "size": 199},
+                    {"name": "Heidelberg University", "size": 144},
+                    {"name": "Humboldt University of Berlin", "size": 181}
+                    ]},
+            {   "name": "Netherlands",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Amsterdam", "size": 154},
+                    {"name": "Leiden University", "size": 162},
+                    {"name": "Utrecht University", "size": 177}
+                    ]},
+            {   "name": "Switzerland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "ETH Zurich", "size": 134, "fill":"#ff0026"},
+                    {"name": "École Polytechnique Fédérale de Lausanne", "size": 101},
+                    {"name": "University of Zurich", "size": 162}
+                    ]},
+            {   "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Imperial College London", "size": 128},
+                    {"name": "London School of Economics and Political Science", "size": 100},
+                    {"name": "University of Edinburgh", "size": 167},
+                    {"name": "King’s College London", "size": 155},
+                    {"name": "University of Manchester", "size": 191},
+                    {"name": "University of Warwick", "size": 140}
+                    ]}
+            
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Austria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Vienna", "size": 182}
+                    ]},
+            {
+                "name": "Belgium",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Université Catholique de Louvain", "size": 161},
+                    {"name": "Ghent University", "size": 189},
+                    {"name": "Université Libre de Bruxelles", "size": 164}
+                    ]},
+            {
+                "name": "Denmark",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Copenhagen", "size": 179},
+                    {"name": "Aarhus University", "size": 163}
+                    ]},
+            {
+                "name": "Finland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Helsinki", "size": 149},
+                    {"name": "University of Jyväskylä", "size": 101}
+                    ]},
+            {
+                "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Paris Diderot University – Paris 7", "size": 170}
+                    ]},
+            {
+                "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Freiburg", "size": 148},
+                    {"name": "University of Tübingen", "size": 169},
+                    {"name": "Free University of Berlin", "size": 187},
+                    {"name": "University of Bonn", "size": 194},
+                    {"name": "University of Göttingen", "size": 174},
+                    {"name": "University of Hamburg", "size": 172},
+                    {"name": "University of Cologne", "size": 193},
+                    {"name": "University of Münster", "size": 207},
+                    {"name": "Goethe University Frankfurt", "size": 214}
+                    ]},
+            {
+                "name": "Italy",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Bologna", "size": 258},
+                    {"name": "University of Padua", "size": 208},
+                    {"name": "Sapienza University of Rome", "size": 261},
+                    {"name": "University of Trento", "size": 113},
+                    {"name": "University of Milan", "size": 216}
+                    ]},
+            {
+                "name": "Netherlands",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Erasmus University Rotterdam", "size": 148},
+                    {"name": "University of Groningen", "size": 161},
+                    {"name": "Radboud University Nijmegen", "size": 141, "fill":"#ff0026"},
+                    {"name": "Maastricht University", "size": 127, "fill":"#ff0026"},
+                    {"name": "Vrije Universiteit Amsterdam", "size": 154}
+                    ]},
+            {
+                "name": "Norway",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Oslo", "size": 143},
+                    {"name": "University of Bergen", "size": 114}
+                    ]},
+            {
+                "name": "Republic of Ireland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Trinity College Dublin", "size": 127, "fill":"#ff0026"},
+                    {"name": "University College Dublin", "size": 148}
+                    ]},
+            {
+                "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Pompeu Fabra University", "size": 107},
+                    {"name": "Autonomous University of Barcelona", "size": 179},
+                    {"name": "University of Barcelona", "size": 214}
+                    ]},
+            {
+                "name": "Sweden",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Karolinska Institute", "size": 88},
+                    {"name": "Uppsala University", "size": 158},
+                    {"name": "Lund University", "size": 168},
+                    {"name": "Stockholm University", "size": 177},
+                    {"name": "University of Gothenburg", "size": 137}
+                    ]},
+            {
+                "name": "Switzerland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Basel", "size": 113},
+                    {"name": "University of Geneva", "size": 128}
+                    ]},
+            {
+                "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Bristol", "size": 143},
+                    {"name": "University of Glasgow", "size": 155},
+                    {"name": "University of Sheffield", "size": 159},
+                    {"name": "Durham University", "size": 128, "fill":"#ff0026"},
+                    {"name": "University of Birmingham", "size": 168},
+                    {"name": "University of Southampton", "size": 155},
+                    {"name": "University of York", "size": 123},
+                    {"name": "Queen Mary University of London", "size": 128},
+                    {"name": "University of Exeter", "size": 142},
+                    {"name": "Lancaster University", "size": 110},
+                    {"name": "University of Nottingham", "size": 171},
+                    {"name": "University of Leeds", "size": 169},
+                    {"name": "University of Aberdeen", "size": 110},
+                    {"name": "University of Sussex", "size": 117},
+                    {"name": "University of St Andrews", "size": 94, "fill":"#ff0026"},
+                    {"name": "Newcastle University", "size": 146, "fill":"#ff0026"},
+                    {"name": "University of Liverpool", "size": 146, "fill":"#ff0026"},
+                    {"name": "Cardiff University", "size": 155},
+                    {"name": "University of East Anglia", "size": 118},
+                    {"name": "University of Reading", "size": 115}
+                    ]}
+            
+        ]},
+{
+        "name": "Old Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Oxford", "size": 142},
+                    {"name": "University of Cambridge", "size": 136},
+                    {"name": "UCL", "size": 178}
+                    ]}
+                        
+        ]},
+{
+        "name": "Regional Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Sorbonne University", "size": 206},
+                    {"name": "Federal University of Toulouse Midi-Pyrénées", "size": 318},
+                    {"name": "Panthéon-Sorbonne University – Paris 1", "size": 202}
+                    ]},
+            {   "name": "Russian Federation",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Lomonosov Moscow State University", "size": 170, "fill":"#ff0026"},
+                    {"name": "Higher School of Economics", "size": 139, "fill":"#ff0026"}
+                    ]}
+                        
+        ]},
+{
+        "name": "Technology Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Austria",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Vienna University of Technology", "size": 133},
+                    {"name": "University of Innsbruck", "size": 120, "fill":"#ff0026"}
+                    ]},
+            {   "name": "Denmark",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Technical University of Denmark", "size": 95},
+                    {"name": "Aalborg University", "size": 126}
+                    ]},
+            {
+                "name": "Finland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Aalto University", "size": 111}
+                    ]},
+            {
+                "name": "France",
+                "fill":"#ffffff",  "children": [
+                    {"name": "École Polytechnique", "size": 53},
+                    {"name": "École des Ponts ParisTech", "size": 44},
+                    {"name": "Paris-Sud University", "size": 171},
+                    {"name": "Grenoble Alpes University", "size": 201}
+                    ]},
+            {
+                "name": "Germany",
+                "fill":"#ffffff",  "children": [
+                    {"name": "RWTH Aachen University", "size": 210},
+                    {"name": "Technical University of Berlin", "size": 149},
+                    {"name": "Karlsruhe Institute of Technology", "size": 163},
+                    {"name": "TU Dresden", "size": 183},
+                    {"name": "University of Erlangen-Nuremberg", "size": 195},
+                    {"name": "University of Potsdam", "size": 138},
+                    {"name": "Ruhr University Bochum", "size": 205},
+                    {"name": "University of Stuttgart", "size": 163},
+                    {"name": "Technical University of Darmstadt", "size": 134},
+                    {"name": "TU Dortmund University", "size": 183}
+                    ]},
+            {
+                "name": "Italy",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Scuola Normale Superiore di Pisa", "size": 23},
+                    {"name": "University of Pisa", "size": 180},
+                    {"name": "Polytechnic University of Milan", "size": 183, "fill":"#ff0026"},
+                    {"name": "Polytechnic University of Turin", "size": 176}
+                    ]},
+            {
+                "name": "Netherlands",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Delft University of Technology", "size": 133},
+                    {"name": "Wageningen University & Research", "size": 114},
+                    {"name": "Eindhoven University of Technology", "size": 91},
+                    {"name": "University of Twente", "size": 84}
+                    ]},
+            {
+                "name": "Norway",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Norwegian University of Science and Technology", "size": 186, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Portugal",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Lisbon", "size": 223}
+                    ]},
+            {
+                "name": "Russian Federation",
+                "fill":"#ffffff",  "children": [
+                    {"name": "ITMO University", "size": 101}
+                    ]},
+            {
+                "name": "Spain",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Autonomous University of Madrid", "size": 171}
+                    ]},
+            {
+                "name": "Sweden",
+                "fill":"#ffffff",  "children": [
+                    {"name": "KTH Royal Institute of Technology", "size": 111},
+                    {"name": "fill":"#ffffff",  "chalmers University of Technology", "size": 96, "fill":"#ff0026"},
+                    {"name": "Linköping University", "size": 134}
+                    ]},
+            {
+                "name": "Switzerland",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Lausanne", "size": 109}
+                    ]},
+            {
+                "name": "United Kingdom",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Bath", "size": 114},
+                    {"name": "University of Surrey", "size": 109},
+                    {"name": "Loughborough University", "size": 119}
+                    ]}
+            
+                        
+        ]}
+    
+    ]},
+{
+   "name": "North America",
+   "fill":"#ffffff",  "children": [
+    {
+        "name": "Asian Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Mexico",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National Autonomous University of Mexico", "size": 402}
+                    ]}
+        ]},
+    {
+        "name": "Core Strengths", "fill": "#1e00ff",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Laval University", "size": 172},
+                    {"name": "University of Manitoba", "size": 171},
+                    {"name": "University of Saskatchewan", "size": 129},
+                    {"name": "Carleton University", "size": 163},
+                    {"name": "University of Guelph", "size": 147},
+                    {"name": "Memorial University of Newfoundland", "size": 123},
+                    {"name": "Concordia University", "size": 179},
+                    {"name": "Université du Québec", "size": 232},
+                    {"name": "University of Regina", "size": 112},
+                    {"name": "Université de Sherbrooke", "size": 123},
+                    {"name": "University of Windsor", "size": 115}
+            ]},
+            {   "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Tulane University", "size": 105},
+                    {"name": "Rensselaer Polytechnic Institute", "size": 86},
+                    {"name": "University of Alabama in Huntsville", "size": 77},
+                    {"name": "University of Kentucky", "size": 165, "fill":"#ff0026"},
+                    {"name": "University of Montana", "size": 94},
+                    {"name": "University of Nebraska Medical Center", "size": 52},
+                    {"name": "New Mexico Institute of Mining and Technology", "size": 42},
+                    {"name": "University of Tulsa", "size": 67},
+                    {"name": "University of Wisconsin-Milwaukee", "size": 145},
+                    {"name": "Creighton University", "size": 91},
+                    {"name": "University of Idaho", "size": 98},
+                    {"name": "Lehigh University", "size": 80},
+                    {"name": "Louisiana State University", "size": 171},
+                    {"name": "University of Maryland, Baltimore County", "size": 107},
+                    {"name": "Missouri University of Science and Technology", "size": 90},
+                    {"name": "Montana State University", "size": 119},
+                    {"name": "New Jersey Institute of Technology", "size": 109},
+                    {"name": "Oklahoma State University", "size": 147},
+                    {"name": "Saint Louis University", "size": 105},
+                    {"name": "Stevens Institute of Technology", "size": 75},
+                    {"name": "University of Toledo", "size": 135},
+                    {"name": "University of Arkansas", "size": 156},
+                    {"name": "Auburn University", "size": 155},
+                    {"name": "Baylor University", "size": 130},
+                    {"name": "Fordham University", "size": 112},
+                    {"name": "Kansas State University", "size": 148},
+                    {"name": "Louisiana Tech University", "size": 105},
+                    {"name": "Mississippi State University", "size": 153},
+                    {"name": "University of Nevada, Las Vegas", "size": 158},
+                    {"name": "New Mexico State University", "size": 115},
+                    {"name": "Old Dominion University", "size": 138},
+                    {"name": "Portland State University", "size": 143},
+                    {"name": "Rochester Institute of Technology", "size": 119},
+                    {"name": "University of San Diego", "size": 87},
+                    {"name": "University of Texas at Arlington", "size": 164},
+                    {"name": "University of Texas at El Paso", "size": 129},
+                    {"name": "Texas Tech University", "size": 180},
+                    {"name": "Western Washington University", "size": 117},
+                    {"name": "West Virginia University", "size": 153},
+                    {"name": "California Polytechnic State University, San Luis Obispo", "size": 139},
+                    {"name": "Florida Atlantic University", "size": 153},
+                    {"name": "Texas State University", "size": 176}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Northern British Columbia (UNBC)", "size": 51}
+            ]},
+            {   "name": "Mexico",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Sonora", "size": 172}
+            ]},
+            {
+                "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Hofstra University", "size": 99},
+                    {"name": "University of Dayton", "size": 100},
+                    {"name": "Embry-Riddle Aeronautical University", "size": 126},
+                    {"name": "Marquette University", "size": 102},
+                    {"name": "University of North Carolina at Greensboro", "size": 136},
+                    {"name": "University of South Alabama", "size": 119},
+                    {"name": "University of South Dakota", "size": 124},
+                    {"name": "East Carolina University", "size": 159},
+                    {"name": "Florida Institute of Technology", "size": 74},
+                    {"name": "Oakland University", "size": 126},
+                    {"name": "University of Southern Mississippi", "size": 116}
+                    ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Dalhousie University", "size": 123},
+                    {"name": "University of Victoria", "size": 138}
+            ]},
+           
+            {
+                "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Alabama at Birmingham", "size": 125, "fill":"#ff0026"},
+                    {"name": "Brandeis University", "size": 73},
+                    {"name": "University of Cincinnati", "size": 167},
+                    {"name": "Clark University", "size": 56},
+                    {"name": "Colorado School of Mines", "size": 74},
+                    {"name": "Oregon Health and Science University", "size": 53},
+                    {"name": "University of South Florida", "size": 182, "fill":"#ff0026"},
+                    {"name": "Syracuse University", "size": 142},
+                    {"name": "Wake Forest University", "size": 87},
+                    {"name": "University of Alaska Fairbanks", "size": 60},
+                    {"name": "American University", "size": 103},
+                    {"name": "University of Colorado Denver", "size": 133},
+                    {"name": "University of Denver", "size": 97},
+                    {"name": "George Mason University", "size": 168},
+                    {"name": "University of Houston", "size": 207},
+                    {"name": "University of New Mexico", "size": 146},
+                    {"name": "Washington State University", "size": 166},
+                    {"name": "Wayne State University", "size": 148},
+                    {"name": "University of California, Merced", "size": 81},
+                    {"name": "University of Kansas", "size": 156},
+                    {"name": "Rush University", "size": 49},
+                    {"name": "Temple University", "size": 185},
+                    {"name": "University of Vermont", "size": 105},
+                    {"name": "University of Alabama", "size": 185},
+                    {"name": "Florida International University", "size": 182, "fill":"#ff0026"},
+                    {"name": "Northern Arizona University", "size": 165},
+                    {"name": "University of Oklahoma", "size": 165},
+                    {"name": "University of South Carolina", "size": 177},
+                    {"name": "State University of New York Albany", "size": 126},
+                    {"name": "Binghamton University, State University of New York", "size": 132},
+                    {"name": "Kent State University", "size": 156},
+                    {"name": "San Diego State University", "size": 173},
+                    {"name": "University of Texas at San Antonio", "size": 161, "fill":"#ff0026"},
+                    {"name": "Worcester Polytechnic Institute", "size": 74}
+                    ]}
+            
+        ]},
+    {
+        "name": "Emerging Talents",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Costa Rica",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Costa Rica", "size": 179}
+                    ]},
+            {   "name": "Jamaica",
+                "fill":"#ffffff",  "children": [
+                    {"name": "The University of the West Indies", "size": 208, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "Mexico",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Monterrey Institute of Technology and Higher Education", "size": 119},
+                    {"name": "Autonomous University of Querétaro", "size": 147},
+                    {"name": "Metropolitan Autonomous University", "size": 240},
+                    {"name": "Autonomous University of Baja California", "size": 244},
+                    {"name": "Autonomous University of Hidalgo State (UAEH)", "size": 183},
+                    {"name": "Autonomous University of Nuevo León", "size": 320},
+                    {"name": "Autonomous University of Puebla", "size": 279},
+                    {"name": "Autonomous University of San Luis Potosi", "size": 176},
+                    {"name": "Autonomous University of the State of Mexico", "size": 238},
+                    {"name": "Autonomous University of Yucatán", "size": 128},
+                    {"name": "University of Guadalajara", "size": 346, "fill":"#ff0026"},
+                    {"name": "University of Guanajuato", "size": 157},
+                    {"name": "Michoacanan University of San Nicolas of Hidalgo", "size": 198},
+                    {"name": "National Polytechnic University (IPN)", "size": 422},
+                    {"name": "University of Veracruz", "size": 248}
+                    ]}
+                        
+        ]},
+    {
+        "name": "International Powerhouse",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of British Columbia", "size": 231, "fill":"#ff0026"},
+                    {"name": "McGill University", "size": 176}
+                    ]},
+            {   "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "California Institute of Technology", "size": 47},
+                    {"name": "Johns Hopkins University", "size": 127, "fill":"#ff0026"},
+                    {"name": "Duke University", "size": 122},
+                    {"name": "Cornell University", "size": 148},
+                    {"name": "Carnegie Mellon University", "size": 114},
+                    {"name": "Northwestern University", "size": 132, "fill":"#ff0026"},
+                    {"name": "University of Washington", "size": 213},
+                    {"name": "University of California, San Diego", "size": 178},
+                    {"name": "University of Texas at Austin", "size": 220},
+                    {"name": "University of Wisconsin-Madison", "size": 197},
+                    {"name": "University of Illinois at Urbana-Champaign", "size": 209},
+                    {"name": "University of California, Santa Barbara", "size": 153},
+                    {"name": "Brown University", "size": 95, "fill":"#ff0026"},
+                    {"name": "University of North Carolina at Chapel Hill", "size": 185},
+                    {"name": "University of California, Davis", "size": 194},
+                    {"name": "Purdue University", "size": 198},
+                    {"name": "University of Southern California", "size": 188, "fill":"#ff0026"},
+                    {"name": "University of Minnesota Twin Cities", "size": 246},
+                    {"name": "Ohio State University", "size": 231},
+                    {"name": "Boston University", "size": 158},
+                    {"name": "Pennsylvania State University", "size": 213},
+                    {"name": "University of Maryland, College Park", "size": 179},
+                    {"name": "Michigan State University", "size": 212},
+                    {"name": "University of Virginia", "size": 155},
+                    {"name": "Arizona State University", "size": 215}
+                    ]}
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "McMaster University", "size": 156, "fill":"#ff0026"},
+                    {"name": "University of Montreal", "size": 193, "fill":"#ff0026"},
+                    {"name": "University of Alberta", "size": 178},
+                    {"name": "University of Ottawa", "size": 187},
+                    {"name": "York University", "size": 214}
+                    ]},
+            {
+                "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Washington University in St Louis", "size": 114, "fill":"#ff0026"},
+                    {"name": "Emory University", "size": 112},
+                    {"name": "Rice University", "size": 80},
+                    {"name": "University of California, Irvine", "size": 176},
+                    {"name": "Dartmouth College", "size": 78},
+                    {"name": "Georgetown University", "size": 125},
+                    {"name": "University of Pittsburgh", "size": 162},
+                    {"name": "University of Colorado Boulder", "size": 177},
+                    {"name": "Vanderbilt University", "size": 109},
+                    {"name": "Indiana University", "size": 256},
+                    {"name": "Tufts University", "size": 103},
+                    {"name": "University of Florida", "size": 215},
+                    {"name": "University of Arizona", "size": 198},
+                    {"name": "University of Rochester", "size": 98},
+                    {"name": "University of California, Santa Cruz", "size": 133},
+                    {"name": "University of Notre Dame", "size": 109},
+                    {"name": "Rutgers, the State University of New Jersey", "size": 210},
+                    {"name": "George Washington University", "size": 151},
+                    {"name": "Northeastern University", "size": 138},
+                    {"name": "University of Iowa", "size": 167},
+                    {"name": "University of Massachusetts", "size": 244},
+                    {"name": "University of Miami", "size": 126},
+                    {"name": "Florida State University", "size": 196},
+                    {"name": "University of Illinois at Chicago", "size": 160},
+                    {"name": "Boston College", "size": 114},
+                    {"name": "University of Connecticut", "size": 174},
+                    {"name": "University of Georgia", "size": 186}
+                    ]}
+            
+        ]},
+{
+        "name": "Old Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Toronto", "size": 268, "fill":"#ff0026"}
+                    ]},
+            {
+                "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Stanford University", "size": 126},
+                    {"name": "Massachusetts Institute of Technology", "size": 105, "fill":"#ff0026"},
+                    {"name": "Harvard University", "size": 143},
+                    {"name": "Princeton University", "size": 89},
+                    {"name": "Yale University", "size": 110},
+                    {"name": "University of Chicago", "size": 116},
+                    {"name": "University of Pennsylvania", "size": 142},
+                    {"name": "University of California, Berkeley", "size": 190},
+                    {"name": "Columbia University", "size": 163},
+                    {"name": "University of California, Los Angeles", "size": 198},
+                    {"name": "University of Michigan", "size": 204},
+                    {"name": "New York University", "size": 210}
+                    ]}
+                        
+        ]},
+{
+        "name": "Regional Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Texas A&M University", "size": 242}
+                    ]}
+                        
+        ]},
+{
+        "name": "Technology Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Canada",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Western University", "size": 172},
+                    {"name": "University of Calgary", "size": 165, "fill":"#ff0026"},
+                    {"name": "University of Waterloo", "size": 179},
+                    {"name": "Queen’s University", "size": 151},
+                    {"name": "Simon Fraser University", "size": 162, "fill":"#ff0026"}
+                    ]},
+            {   "name": "United States",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Georgia Institute of Technology", "size": 147},
+                    {"name": "Case Western Reserve University", "size": 102},
+                    {"name": "University at Buffalo", "size": 159},
+                    {"name": "University of California, Riverside", "size": 144},
+                    {"name": "University of Hawaiʻi at Mānoa", "size": 125},
+                    {"name": "University of Utah", "size": 173},
+                    {"name": "William & Mary", "size": 89},
+                    {"name": "University of Delaware", "size": 142},
+                    {"name": "North Carolina State University", "size": 173},
+                    {"name": "Stony Brook University", "size": 154},
+                    {"name": "University of Texas at Dallas", "size": 144},
+                    {"name": "Virginia Polytechnic Institute and State University", "size": 179},
+                    {"name": "Oregon State University", "size": 155},
+                    {"name": "University of Tennessee, Knoxville", "size": 160},
+                    {"name": "Drexel University", "size": 140, "fill":"#ff0026"},
+                    {"name": "Iowa State University", "size": 178},
+                    {"name": "University of Nebraska-Lincoln", "size": 150},
+                    {"name": "Colorado State University", "size": 159},
+                    {"name": "Georgia State University", "size": 182},
+                    {"name": "University of Central Florida", "size": 233}
+                    ]}
+            
+                        
+        ]}
+    
+    ]},
+{
+   "name": "Oceania",
+   "fill":"#ffffff",  "children": [
+    
+    {
+        "name": "Core Strengths",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Victoria University", "size": 123, "fill":"#ff0026"},
+                    {"name": "University of Tasmania", "size": 109, "fill":"#ff0026"},
+                    {"name": "Swinburne University of Technology", "size": 113, "fill":"#ff0026"},
+                    {"name": "Edith Cowan University", "size": 130},
+                    {"name": "Southern Cross University", "size": 93, "fill":"#ff0026"},
+                    {"name": "University of Southern Queensland", "size": 108},
+                    {"name": "University of the Sunshine Coast", "size": 94}
+            ]},
+            {   "name": "New Zealand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Auckland University of Technology", "size": 134, "fill":"#ff0026"},
+                    {"name": "Massey University", "size": 137}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Bond University", "size": 57},
+                    {"name": "fill":"#ffffff",  "charles Darwin University", "size": 80, "fill":"#ff0026"}
+            ]},
+            {   "name": "New Zealand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Lincoln University", "size": 49}
+            
+            ]}
+            
+        ]},
+    {
+        "name": "Effective Publishers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "James Cook University", "size": 109},
+                    {"name": "Macquarie University", "size": 169, "fill":"#ff0026"},
+                    {"name": "University of South Australia", "size": 132},
+                    {"name": "University of Wollongong", "size": 134, "fill":"#ff0026"},
+                    {"name": "University of Canberra", "size": 100},
+                    {"name": "Flinders University", "size": 126},
+                    {"name": "La Trobe University", "size": 145, "fill":"#ff0026"},
+                    {"name": "University of Newcastle", "size": 149, "fill":"#ff0026"},
+                    {"name": "Deakin University", "size": 193},
+                    {"name": "Western Sydney University", "size": 180},
+                    {"name": "Australian Catholic University", "size": 151, "fill":"#ff0026"},
+                    {"name": "Murdoch University", "size": 125},
+                    {"name": "Central Queensland University", "size": 117, "fill":"#ff0026"}
+            ]},
+            {   "name": "New Zealand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Canterbury", "size": 111},
+                    {"name": "University of Waikato", "size": 99},
+                    {"name": "University of Wellington", "size": 131, "fill":"#ff0026"}
+            
+            ]}
+            
+        ]},
+    {
+        "name": "International Powerhouse",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Melbourne", "size": 212},
+                    {"name": "Australian National University", "size": 129, "fill":"#ff0026"},
+                    {"name": "University of Sydney", "size": 208},
+                    {"name": "University of New South Wales", "size": 203}
+                    ]}
+            
+                        
+        ]},
+    {
+        "name": "Lifescience Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Queensland", "size": 195, "fill":"#ff0026"},
+                    {"name": "Monash University", "size": 222},
+                    {"name": "University of Technology, Sydney", "size": 160, "fill":"#ff0026"},
+                    {"name": "Queensland University of Technology", "size": 184, "fill":"#ff0026"},
+                    {"name": "Griffith University", "size": 177}
+                    ]},
+            {
+                "name": "New Zealand",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Auckland", "size": 173, "fill":"#ff0026"},
+                    {"name": "University of Otago", "size": 135}
+                    ]}
+            
+        ]},
+{
+        "name": "Technology Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Australia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Western Australia", "size": 136},
+                    {"name": "University of Adelaide", "size": 146},
+                    {"name": "Curtin University", "size": 175},
+                    {"name": "RMIT University", "size": 179, "fill":"#ff0026"}
+                    ]}
+            
+                        
+        ]}
+    
+    ]},
+{
+   "name": "South America",
+   "fill":"#ffffff",  "children": [
+    {
+        "name": "Asian Challengers",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Brazil",
+                "fill":"#ffffff",  "children": [
+                    {"name": "State University of Campinas", "size": 167},
+                    {"name": "Federal University of Minas Gerais", "size": 210},
+                    {"name": "Federal University of Rio de Janeiro", "size": 234},
+                    {"name": "Federal University of São Paulo (UNIFESP)", "size": 116}
+                    ]},
+            {   "name": "fill":"#ffffff",  "chile",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Chile", "size": 198}
+            
+            ]}
+        ]},
+    {
+        "name": "Core Strengths",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "fill":"#ffffff",  "chile",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Diego Portales University", "size": 129},
+                    {"name": "Pontifical Catholic University of Chile", "size": 165}
+            ]},
+            {   "name": "Colombia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of the Andes, Colombia", "size": 126}
+            
+            ]},
+            {   "name": "Peru",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Universidad Peruana Cayetano Heredia", "size": 76},
+                    {"name": "Pontifical Catholic University of Peru", "size": 149}
+            
+            ]}
+        ]},
+    {
+        "name": "Developing Expertise",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Argentina",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National University of Cuyo", "size": 212}
+            ]},
+            {   "name": "fill":"#ffffff",  "chile",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of Desarrollo", "size": 126, "fill":"#ff0026"},
+                    {"name": "Federico Santa María Technical University", "size": 138, "fill":"#ff0026"},
+                    {"name": "Catholic University of the North", "size": 108}
+            
+            ]}
+            
+        ]},
+ 
+    {
+        "name": "Emerging Talents",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Argentine",
+                "fill":"#ffffff",  "children": [
+                    {"name": "National University of San Martín", "size": 122},
+                    {"name": "National University of Córdoba", "size": 253},
+                    {"name": "National University of La Plata", "size": 344},
+                    {"name": "National University of the South", "size": 142}
+                    ]},
+            {   "name": "Brazil",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Federal University of Rio Grande do Sul", "size": 218},
+                    {"name": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio)", "size": 124},
+                    {"name": "University of Brasília", "size": 228},
+                    {"name": "Federal University of ABC (UFABC)", "size": 119},
+                    {"name": "Federal University of Bahia", "size": 180},
+                    {"name": "Federal University of Pelotas", "size": 136},
+                    {"name": "Federal University of Santa Catarina", "size": 194},
+                    {"name": "Federal University of São Carlos", "size": 135},
+                    {"name": "Pontifical Catholic University of Rio Grande do Sul (PUCRS)", "size": 139},
+                    {"name": "São Paulo State University (UNESP)", "size": 175},
+                    {"name": "Ceará State University", "size": 133},
+                    {"name": "Federal University of Ceará (UFC)", "size": 178},
+                    {"name": "Federal University of Goiás", "size": 171},
+                    {"name": "Federal University of Itajubá", "size": 94},
+                    {"name": "Federal University of Lavras", "size": 124},
+                    {"name": "Federal University of Pará", "size": 222},
+                    {"name": "Federal University of Paraná (UFPR)", "size": 181},
+                    {"name": "Federal University of Pernambuco", "size": 195},
+                    {"name": "Federal University of Rio Grande do Norte (UFRN)", "size": 198},
+                    {"name": "Federal University of Santa Maria", "size": 162},
+                    {"name": "Federal University of Techbnology – Paraná", "size": 181},
+                    {"name": "Federal University of Uberlândia", "size": 143},
+                    {"name": "Federal University of Viçosa", "size": 131},
+                    {"name": "Fluminense Federal University", "size": 261},
+                    {"name": "Londrina State University", "size": 152},
+                    {"name": "Pontifical Catholic University of Paraná", "size": 158},
+                    {"name": "Rio de Janeiro State University (UERJ)", "size": 151},
+                    {"name": "University of the Sinos Valley", "size": 116},
+                    {"name": "State University of Maringá", "size": 143},
+                    {"name": "State University of Ponta Grossa", "size": 101},
+                    {"name": "State University of Western Paraná (Unioeste)", "size": 104}
+                    ]},
+            {
+                "name": "fill":"#ffffff",  "chile",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Austral University of Chile", "size": 121},
+                    {"name": "University of La Frontera", "size": 101},
+                    {"name": "University of Talca", "size": 103},
+                    {"name": "Andrés Bello University (UNAB)", "size": 210},
+                    {"name": "University of Bío-Bío", "size": 113},
+                    {"name": "University of Concepción", "size": 164},
+                    {"name": "Pontifical Catholic University of Valparaíso", "size": 123},
+                    {"name": "University of Santiago, Chile (USACH)", "size": 156},
+                    {"name": "University of Tarapacá", "size": 94},
+                    {"name": "University of Valparaíso", "size": 128}
+                    ]},
+            {
+                "name": "Colombia",
+                "fill":"#ffffff",  "children": [
+                    {"name": "Pontifical Javeriana University", "size": 172},
+                    {"name": "Industrial University of Santander (UIS)", "size": 141},
+                    {"name": "University of Antioquia", "size": 201},
+                    {"name": "Del Rosario University", "size": 97},
+                    {"name": "National University of Colombia", "size": 227},
+                    {"name": "Pontifical Bolivarian University (UPB) – Medellín", "size": 117}
+                    ]},
+            {
+                "name": "Venezuela",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of the Andes, Venezuela", "size": 218},
+                    {"name": "Simón Bolívar University", "size": 105}
+                    ]}
+                        
+        ]},
+ 
+    {
+        "name": "Regional Stars",
+        "fill":"#ffffff",  "children": [
+            {
+                "name": "Brazil",
+                "fill":"#ffffff",  "children": [
+                    {"name": "University of São Paulo", "size": 288}
+                    ]}
+                        
+        ]}
+
+    
+    ]}
+]}
+
+
+ 
